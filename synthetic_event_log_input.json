@@ -1,0 +1,39 @@
+{
+  "sources": [
+    {"source_id": "S1", "status": "active", "locator": "synthetic://source/1"},
+    {"source_id": "S2", "status": "active", "locator": "synthetic://source/2"}
+  ],
+  "assertions": [
+    {
+      "assertion_id": "A1",
+      "source_id": "S1",
+      "status": "active",
+      "claim": "synthetic exposure",
+      "administrative_state": "open",
+      "evidence_status": "unresolved",
+      "supersedes": [],
+      "disputed_by": ["A2"]
+    },
+    {
+      "assertion_id": "A2",
+      "source_id": "S2",
+      "status": "disputed",
+      "claim": "synthetic counter-assertion",
+      "administrative_state": "open",
+      "evidence_status": "unresolved",
+      "supersedes": [],
+      "disputed_by": []
+    }
+  ],
+  "relations": [
+    {"relation_id": "R1", "relation_type": "same_incident", "status": "active", "from_id": "A1", "to_id": "A2"},
+    {"relation_id": "R2", "relation_type": "related_incident", "status": "active", "from_id": "A1", "to_id": "A2"},
+    {"relation_id": "R3", "relation_type": "same_deployment", "status": "active", "from_id": "A1", "to_id": "A2"}
+  ],
+  "status_events": [
+    {"event_id": "E0", "event_type": "relation_withdrawn", "target_id": "R1", "reason": "synthetic mistaken link"},
+    {"event_id": "E1", "event_type": "source_invalidated", "target_id": "S2"},
+    {"event_id": "E2", "event_type": "administrative_closed", "target_id": "A1", "evidence_status": "insufficient"},
+    {"event_id": "E3", "event_type": "reopened", "target_id": "A1", "trigger": "new source"}
+  ]
+}

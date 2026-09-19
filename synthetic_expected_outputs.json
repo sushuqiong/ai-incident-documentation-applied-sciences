@@ -1,0 +1,314 @@
+{
+  "candidate_assertions": {
+    "sources": [
+      {
+        "source_id": "S1",
+        "status": "active",
+        "locator": "synthetic://source/1"
+      },
+      {
+        "source_id": "S2",
+        "status": "invalidated",
+        "locator": "synthetic://source/2"
+      }
+    ],
+    "assertions": [
+      {
+        "assertion_id": "A1",
+        "source_id": "S1",
+        "status": "active",
+        "claim": "synthetic exposure",
+        "administrative_state": "open",
+        "evidence_status": "insufficient",
+        "supersedes": [],
+        "disputed_by": [
+          "A2"
+        ]
+      },
+      {
+        "assertion_id": "A2",
+        "source_id": "S2",
+        "status": "disputed",
+        "claim": "synthetic counter-assertion",
+        "administrative_state": "open",
+        "evidence_status": "unresolved",
+        "supersedes": [],
+        "disputed_by": []
+      }
+    ],
+    "relations": [
+      {
+        "relation_id": "R1",
+        "relation_type": "same_incident",
+        "status": "withdrawn",
+        "from_id": "A1",
+        "to_id": "A2",
+        "withdrawal_event_id": "E0"
+      },
+      {
+        "relation_id": "R2",
+        "relation_type": "related_incident",
+        "status": "active",
+        "from_id": "A1",
+        "to_id": "A2"
+      },
+      {
+        "relation_id": "R3",
+        "relation_type": "same_deployment",
+        "status": "active",
+        "from_id": "A1",
+        "to_id": "A2"
+      }
+    ],
+    "status_events": [
+      {
+        "event_id": "E0",
+        "event_type": "relation_withdrawn",
+        "target_id": "R1",
+        "reason": "synthetic mistaken link"
+      },
+      {
+        "event_id": "E1",
+        "event_type": "source_invalidated",
+        "target_id": "S2"
+      },
+      {
+        "event_id": "E2",
+        "event_type": "administrative_closed",
+        "target_id": "A1",
+        "evidence_status": "insufficient"
+      },
+      {
+        "event_id": "E3",
+        "event_type": "reopened",
+        "target_id": "A1",
+        "trigger": "new source"
+      }
+    ],
+    "candidate_history": {
+      "sources": [
+        {
+          "before": {
+            "source_id": "S2",
+            "status": "active",
+            "locator": "synthetic://source/2"
+          },
+          "event": {
+            "event_id": "E1",
+            "event_type": "source_invalidated",
+            "target_id": "S2"
+          },
+          "after": {
+            "source_id": "S2",
+            "status": "invalidated",
+            "locator": "synthetic://source/2"
+          }
+        }
+      ],
+      "assertions": [
+        {
+          "before": {
+            "assertion_id": "A1",
+            "source_id": "S1",
+            "status": "active",
+            "claim": "synthetic exposure",
+            "administrative_state": "open",
+            "evidence_status": "unresolved",
+            "supersedes": [],
+            "disputed_by": [
+              "A2"
+            ]
+          },
+          "event": {
+            "event_id": "E2",
+            "event_type": "administrative_closed",
+            "target_id": "A1",
+            "evidence_status": "insufficient"
+          },
+          "after": {
+            "assertion_id": "A1",
+            "source_id": "S1",
+            "status": "active",
+            "claim": "synthetic exposure",
+            "administrative_state": "closed",
+            "evidence_status": "insufficient",
+            "supersedes": [],
+            "disputed_by": [
+              "A2"
+            ]
+          }
+        },
+        {
+          "before": {
+            "assertion_id": "A1",
+            "source_id": "S1",
+            "status": "active",
+            "claim": "synthetic exposure",
+            "administrative_state": "closed",
+            "evidence_status": "insufficient",
+            "supersedes": [],
+            "disputed_by": [
+              "A2"
+            ]
+          },
+          "event": {
+            "event_id": "E3",
+            "event_type": "reopened",
+            "target_id": "A1",
+            "trigger": "new source"
+          },
+          "after": {
+            "assertion_id": "A1",
+            "source_id": "S1",
+            "status": "active",
+            "claim": "synthetic exposure",
+            "administrative_state": "open",
+            "evidence_status": "insufficient",
+            "supersedes": [],
+            "disputed_by": [
+              "A2"
+            ]
+          }
+        }
+      ],
+      "relations": [
+        {
+          "before": {
+            "relation_id": "R1",
+            "relation_type": "same_incident",
+            "status": "active",
+            "from_id": "A1",
+            "to_id": "A2"
+          },
+          "event": {
+            "event_id": "E0",
+            "event_type": "relation_withdrawn",
+            "target_id": "R1",
+            "reason": "synthetic mistaken link"
+          },
+          "after": {
+            "relation_id": "R1",
+            "relation_type": "same_incident",
+            "status": "withdrawn",
+            "from_id": "A1",
+            "to_id": "A2",
+            "withdrawal_event_id": "E0"
+          }
+        }
+      ]
+    }
+  },
+  "versioned_event_log": {
+    "sources": [
+      {
+        "source_id": "S1",
+        "status": "active",
+        "locator": "synthetic://source/1"
+      },
+      {
+        "source_id": "S2",
+        "status": "invalidated",
+        "locator": "synthetic://source/2"
+      }
+    ],
+    "assertions": [
+      {
+        "assertion_id": "A1",
+        "source_id": "S1",
+        "status": "active",
+        "claim": "synthetic exposure",
+        "administrative_state": "open",
+        "evidence_status": "insufficient",
+        "supersedes": [],
+        "disputed_by": [
+          "A2"
+        ]
+      },
+      {
+        "assertion_id": "A2",
+        "source_id": "S2",
+        "status": "disputed",
+        "claim": "synthetic counter-assertion",
+        "administrative_state": "open",
+        "evidence_status": "unresolved",
+        "supersedes": [],
+        "disputed_by": []
+      }
+    ],
+    "relations": [
+      {
+        "relation_id": "R1",
+        "relation_type": "same_incident",
+        "status": "withdrawn",
+        "from_id": "A1",
+        "to_id": "A2",
+        "withdrawal_event_id": "E0"
+      },
+      {
+        "relation_id": "R2",
+        "relation_type": "related_incident",
+        "status": "active",
+        "from_id": "A1",
+        "to_id": "A2"
+      },
+      {
+        "relation_id": "R3",
+        "relation_type": "same_deployment",
+        "status": "active",
+        "from_id": "A1",
+        "to_id": "A2"
+      }
+    ],
+    "status_events": [
+      {
+        "event_id": "E0",
+        "event_type": "relation_withdrawn",
+        "target_id": "R1",
+        "reason": "synthetic mistaken link"
+      },
+      {
+        "event_id": "E1",
+        "event_type": "source_invalidated",
+        "target_id": "S2"
+      },
+      {
+        "event_id": "E2",
+        "event_type": "administrative_closed",
+        "target_id": "A1",
+        "evidence_status": "insufficient"
+      },
+      {
+        "event_id": "E3",
+        "event_type": "reopened",
+        "target_id": "A1",
+        "trigger": "new source"
+      }
+    ],
+    "event_history": [
+      {
+        "event_id": "E0",
+        "event_type": "relation_withdrawn",
+        "target_id": "R1",
+        "reason": "synthetic mistaken link"
+      },
+      {
+        "event_id": "E1",
+        "event_type": "source_invalidated",
+        "target_id": "S2"
+      },
+      {
+        "event_id": "E2",
+        "event_type": "administrative_closed",
+        "target_id": "A1",
+        "evidence_status": "insufficient"
+      },
+      {
+        "event_id": "E3",
+        "event_type": "reopened",
+        "target_id": "A1",
+        "trigger": "new source"
+      }
+    ]
+  },
+  "interpretation": "Both versioned structures provided the tested representational capability under the synthetic operations. This output is not a benchmark of accuracy, efficiency, or governance effect."
+}

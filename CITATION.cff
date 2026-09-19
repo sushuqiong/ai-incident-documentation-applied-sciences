@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this archive, please cite the associated article and this software release."
+title: "AI Incident Documentation Audit: Reproducibility Archive"
+version: "v6.0.0"
+date-released: "2026-09-19"
+type: software
+repository-code: "https://github.com/sushuqiong/ai-incident-documentation-applied-sciences"
+authors:
+  - family-names: Su
+    given-names: Shuqiong
+    orcid: "https://orcid.org/0009-0009-9217-6233"
+  - family-names: Xu
+    given-names: Yuwei
+  - family-names: Huang
+    given-names: Yueli
+  - family-names: Zeng
+    given-names: Zhiming
+  - family-names: Pan
+    given-names: Zhilong
+  - family-names: Liu
+    given-names: Aiqun
+    orcid: "https://orcid.org/0000-0002-1077-5585"

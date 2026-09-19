@@ -1,0 +1,48 @@
+{
+  "title": "AI Incident Documentation Audit: Reproducibility Archive",
+  "upload_type": "software",
+  "description": "Privacy-minimized code and derived labels for an exploratory AI-assisted documentation audit and synthetic structural capability check.",
+  "creators": [
+    {
+      "name": "Su, Shuqiong",
+      "orcid": "0009-0009-9217-6233",
+      "affiliation": "Guangxi Medical University Cancer Hospital"
+    },
+    {
+      "name": "Xu, Yuwei",
+      "affiliation": "Foshan Second People's Hospital"
+    },
+    {
+      "name": "Huang, Yueli",
+      "affiliation": "Guangxi Medical University Cancer Hospital"
+    },
+    {
+      "name": "Zeng, Zhiming",
+      "affiliation": "Peking University Health Science Center"
+    },
+    {
+      "name": "Pan, Zhilong",
+      "affiliation": "Sun Yat-sen Memorial Hospital, Sun Yat-sen University"
+    },
+    {
+      "name": "Liu, Aiqun",
+      "orcid": "0000-0002-1077-5585",
+      "affiliation": "Guangxi Medical University Cancer Hospital"
+    }
+  ],
+  "license": "mit-license",
+  "keywords": [
+    "AI incidents",
+    "documentation audit",
+    "provenance",
+    "event log",
+    "reproducibility"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/sushuqiong/ai-incident-documentation-applied-sciences",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

@@ -1,0 +1,525 @@
+{
+  "release_id": "AS-v6-20260919_200341",
+  "analysis_label": "AI-assisted documentation labels for retained-documentation recoverability",
+  "support_label": "component label supported by retained evidence under the stated rules",
+  "support_label_is_not": [
+    "probability",
+    "calibrated confidence",
+    "accuracy",
+    "model performance",
+    "independent human-validation result",
+    "gold-standard agreement"
+  ],
+  "record_count": 100,
+  "cluster_count": 91,
+  "component_decision_count": 1400,
+  "field_decision_count": 300,
+  "primary_supported_component_count": 215,
+  "boundary_inclusive_supported_component_count": 228,
+  "boundary_component_count": 13,
+  "primary_fields": {
+    "exposure": {
+      "states": {
+        "complete_support": {
+          "count": 4,
+          "denominator": 99,
+          "percentage": 4.0
+        },
+        "partial_support": {
+          "count": 46,
+          "denominator": 99,
+          "percentage": 46.5
+        },
+        "not_recovered": {
+          "count": 44,
+          "denominator": 99,
+          "percentage": 44.4
+        },
+        "unclear": {
+          "count": 5,
+          "denominator": 99,
+          "percentage": 5.1
+        },
+        "not_applicable": {
+          "count": 1,
+          "denominator": 100,
+          "percentage": 1.0
+        }
+      },
+      "applicable_denominator": 99,
+      "unclear_excluded_denominator": 94,
+      "at_least_partial_support": {
+        "count": 50,
+        "denominator": 99,
+        "percentage": 50.5
+      }
+    },
+    "follow_up": {
+      "states": {
+        "complete_support": {
+          "count": 0,
+          "denominator": 99,
+          "percentage": 0.0
+        },
+        "partial_support": {
+          "count": 29,
+          "denominator": 99,
+          "percentage": 29.3
+        },
+        "not_recovered": {
+          "count": 65,
+          "denominator": 99,
+          "percentage": 65.7
+        },
+        "unclear": {
+          "count": 5,
+          "denominator": 99,
+          "percentage": 5.1
+        },
+        "not_applicable": {
+          "count": 1,
+          "denominator": 100,
+          "percentage": 1.0
+        }
+      },
+      "applicable_denominator": 99,
+      "unclear_excluded_denominator": 94,
+      "at_least_partial_support": {
+        "count": 29,
+        "denominator": 99,
+        "percentage": 29.3
+      }
+    },
+    "closure": {
+      "states": {
+        "complete_support": {
+          "count": 0,
+          "denominator": 99,
+          "percentage": 0.0
+        },
+        "partial_support": {
+          "count": 21,
+          "denominator": 99,
+          "percentage": 21.2
+        },
+        "not_recovered": {
+          "count": 73,
+          "denominator": 99,
+          "percentage": 73.7
+        },
+        "unclear": {
+          "count": 5,
+          "denominator": 99,
+          "percentage": 5.1
+        },
+        "not_applicable": {
+          "count": 1,
+          "denominator": 100,
+          "percentage": 1.0
+        }
+      },
+      "applicable_denominator": 99,
+      "unclear_excluded_denominator": 94,
+      "at_least_partial_support": {
+        "count": 21,
+        "denominator": 99,
+        "percentage": 21.2
+      }
+    }
+  },
+  "boundary_inclusive_fields": {
+    "exposure": {
+      "states": {
+        "complete_support": {
+          "count": 4,
+          "denominator": 99,
+          "percentage": 4.0
+        },
+        "partial_support": {
+          "count": 46,
+          "denominator": 99,
+          "percentage": 46.5
+        },
+        "not_recovered": {
+          "count": 44,
+          "denominator": 99,
+          "percentage": 44.4
+        },
+        "unclear": {
+          "count": 5,
+          "denominator": 99,
+          "percentage": 5.1
+        },
+        "not_applicable": {
+          "count": 1,
+          "denominator": 100,
+          "percentage": 1.0
+        }
+      },
+      "applicable_denominator": 99,
+      "unclear_excluded_denominator": 94,
+      "at_least_partial_support": {
+        "count": 50,
+        "denominator": 99,
+        "percentage": 50.5
+      }
+    },
+    "follow_up": {
+      "states": {
+        "complete_support": {
+          "count": 0,
+          "denominator": 99,
+          "percentage": 0.0
+        },
+        "partial_support": {
+          "count": 32,
+          "denominator": 99,
+          "percentage": 32.3
+        },
+        "not_recovered": {
+          "count": 62,
+          "denominator": 99,
+          "percentage": 62.6
+        },
+        "unclear": {
+          "count": 5,
+          "denominator": 99,
+          "percentage": 5.1
+        },
+        "not_applicable": {
+          "count": 1,
+          "denominator": 100,
+          "percentage": 1.0
+        }
+      },
+      "applicable_denominator": 99,
+      "unclear_excluded_denominator": 94,
+      "at_least_partial_support": {
+        "count": 32,
+        "denominator": 99,
+        "percentage": 32.3
+      }
+    },
+    "closure": {
+      "states": {
+        "complete_support": {
+          "count": 0,
+          "denominator": 99,
+          "percentage": 0.0
+        },
+        "partial_support": {
+          "count": 21,
+          "denominator": 99,
+          "percentage": 21.2
+        },
+        "not_recovered": {
+          "count": 73,
+          "denominator": 99,
+          "percentage": 73.7
+        },
+        "unclear": {
+          "count": 5,
+          "denominator": 99,
+          "percentage": 5.1
+        },
+        "not_applicable": {
+          "count": 1,
+          "denominator": 100,
+          "percentage": 1.0
+        }
+      },
+      "applicable_denominator": 99,
+      "unclear_excluded_denominator": 94,
+      "at_least_partial_support": {
+        "count": 21,
+        "denominator": 99,
+        "percentage": 21.2
+      }
+    }
+  },
+  "minimal_core_fields": {
+    "exposure": {
+      "states": {
+        "complete_support": {
+          "count": 23,
+          "denominator": 99,
+          "percentage": 23.2
+        },
+        "partial_support": {
+          "count": 27,
+          "denominator": 99,
+          "percentage": 27.3
+        },
+        "not_recovered": {
+          "count": 44,
+          "denominator": 99,
+          "percentage": 44.4
+        },
+        "unclear": {
+          "count": 5,
+          "denominator": 99,
+          "percentage": 5.1
+        },
+        "not_applicable": {
+          "count": 1,
+          "denominator": 100,
+          "percentage": 1.0
+        }
+      },
+      "applicable_denominator": 99,
+      "unclear_excluded_denominator": 94,
+      "at_least_partial_support": {
+        "count": 50,
+        "denominator": 99,
+        "percentage": 50.5
+      }
+    },
+    "follow_up": {
+      "states": {
+        "complete_support": {
+          "count": 7,
+          "denominator": 99,
+          "percentage": 7.1
+        },
+        "partial_support": {
+          "count": 11,
+          "denominator": 99,
+          "percentage": 11.1
+        },
+        "not_recovered": {
+          "count": 76,
+          "denominator": 99,
+          "percentage": 76.8
+        },
+        "unclear": {
+          "count": 5,
+          "denominator": 99,
+          "percentage": 5.1
+        },
+        "not_applicable": {
+          "count": 1,
+          "denominator": 100,
+          "percentage": 1.0
+        }
+      },
+      "applicable_denominator": 99,
+      "unclear_excluded_denominator": 94,
+      "at_least_partial_support": {
+        "count": 18,
+        "denominator": 99,
+        "percentage": 18.2
+      }
+    },
+    "closure": {
+      "states": {
+        "complete_support": {
+          "count": 11,
+          "denominator": 99,
+          "percentage": 11.1
+        },
+        "partial_support": {
+          "count": 10,
+          "denominator": 99,
+          "percentage": 10.1
+        },
+        "not_recovered": {
+          "count": 73,
+          "denominator": 99,
+          "percentage": 73.7
+        },
+        "unclear": {
+          "count": 5,
+          "denominator": 99,
+          "percentage": 5.1
+        },
+        "not_applicable": {
+          "count": 1,
+          "denominator": 100,
+          "percentage": 1.0
+        }
+      },
+      "applicable_denominator": 99,
+      "unclear_excluded_denominator": 94,
+      "at_least_partial_support": {
+        "count": 21,
+        "denominator": 99,
+        "percentage": 21.2
+      }
+    }
+  },
+  "primary_component_counts": {
+    "exposure": {
+      "unit": 50,
+      "eligibility": 23,
+      "time_origin": 16,
+      "coverage": 15
+    },
+    "follow_up": {
+      "calendar_interval": 12,
+      "exposure_qualified_observation": 13,
+      "trace_coverage": 3,
+      "owner": 20
+    },
+    "closure": {
+      "scope": 21,
+      "evidence_basis": 13,
+      "date": 5,
+      "owner": 19,
+      "uncertainty": 5,
+      "reopening_rule": 0
+    }
+  },
+  "boundary_inclusive_component_counts": {
+    "exposure": {
+      "unit": 50,
+      "eligibility": 23,
+      "time_origin": 16,
+      "coverage": 18
+    },
+    "follow_up": {
+      "calendar_interval": 17,
+      "exposure_qualified_observation": 16,
+      "trace_coverage": 3,
+      "owner": 20
+    },
+    "closure": {
+      "scope": 21,
+      "evidence_basis": 14,
+      "date": 5,
+      "owner": 20,
+      "uncertainty": 5,
+      "reopening_rule": 0
+    }
+  },
+  "strict_rule": {
+    "exposure": [
+      "unit",
+      "eligibility",
+      "time_origin",
+      "coverage"
+    ],
+    "follow_up": [
+      "calendar_interval",
+      "exposure_qualified_observation",
+      "trace_coverage",
+      "owner"
+    ],
+    "closure": [
+      "scope",
+      "evidence_basis",
+      "date",
+      "owner",
+      "uncertainty",
+      "reopening_rule"
+    ]
+  },
+  "minimal_core_rule": {
+    "exposure": [
+      "eligibility",
+      "unit"
+    ],
+    "follow_up": [
+      "calendar_interval",
+      "exposure_qualified_observation"
+    ],
+    "closure": [
+      "evidence_basis",
+      "owner",
+      "scope"
+    ]
+  },
+  "strict_agentic_n": 0,
+  "action_capable_n": 45,
+  "interpretive_boundary": "Finite retained-evidence recoverability only; no population, organizational-practice, safety, or clinical inference.",
+  "method_boundary": "AI-assisted semantic audit with author confirmation of changed and low-confidence decisions; no independent second human coder or formal reliability estimate",
+  "corpus_reconstruction": {
+    "AIID_non_overlapping_addition": 20,
+    "OECD_AIM": 10,
+    "official_or_regulatory_direct": 10,
+    "singleton_rows": 82,
+    "two_row_clusters": 9,
+    "rows_in_two_row_clusters": 18,
+    "inherited_v21_v16_baseline": 60,
+    "inherited_baseline_source_strata": {
+      "AIID": 40,
+      "OECD_AIM": 10,
+      "direct": 10
+    },
+    "final_source_strata": {
+      "AIID": 60,
+      "OECD_AIM": 20,
+      "direct": 20
+    }
+  },
+  "selection_unknowns": [
+    "candidate screening denominator",
+    "complete discovery log",
+    "complete exclusion log",
+    "language-screening log",
+    "initial source overlap",
+    "complete chronology of historical selection decisions"
+  ],
+  "legacy_state_mapping": {
+    "present": "complete_support",
+    "partial": "partial_support",
+    "absent": "not_recovered",
+    "unclear": "unclear",
+    "not_applicable": "not_applicable"
+  },
+  "state_labels": {
+    "complete_support": "Complete support",
+    "partial_support": "Partial support",
+    "not_recovered": "Not recovered",
+    "unclear": "Unclear",
+    "not_applicable": "Not applicable"
+  },
+  "cluster_level_sensitivity": {
+    "exposure": {
+      "total_clusters": 91,
+      "applicable_clusters": 90,
+      "any_source_complete_support": 4,
+      "any_source_at_least_partial_support": 45,
+      "all_sources_complete_support": 3,
+      "all_sources_at_least_partial_support": 41
+    },
+    "follow_up": {
+      "total_clusters": 91,
+      "applicable_clusters": 90,
+      "any_source_complete_support": 0,
+      "any_source_at_least_partial_support": 25,
+      "all_sources_complete_support": 0,
+      "all_sources_at_least_partial_support": 21
+    },
+    "closure": {
+      "total_clusters": 91,
+      "applicable_clusters": 90,
+      "any_source_complete_support": 0,
+      "any_source_at_least_partial_support": 19,
+      "all_sources_complete_support": 0,
+      "all_sources_at_least_partial_support": 19
+    }
+  },
+  "component_decision_derivation": "100 retained rows x 14 components = 1,400 decisions",
+  "cluster_id_policy": {
+    "canonical_ids": "CL001-CL091 assigned by source-registry first appearance",
+    "raw_ids": "retained in inherited_incident_cluster_id for traceability",
+    "membership_changed": false
+  },
+  "cluster_level_definitions": {
+    "any_source_complete_support": "at least one applicable row in the cluster has complete support",
+    "all_sources_complete_support": "every applicable row in the cluster has complete support",
+    "any_source_at_least_partial_support": "at least one applicable row has complete or partial support",
+    "all_sources_at_least_partial_support": "every applicable row has complete or partial support",
+    "conflict_treatment": "preserve discordant row states; no overwrite or majority vote; report any/all bounds"
+  },
+  "legacy_rule_based_comparator": {
+    "use": "paired label reclassification only",
+    "not_ground_truth": true,
+    "unrecoverable": [
+      "original keyword list",
+      "complete rule text",
+      "builder identity",
+      "complete version history"
+    ]
+  }
+}

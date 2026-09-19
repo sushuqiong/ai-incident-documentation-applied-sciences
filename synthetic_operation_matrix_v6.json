@@ -1,0 +1,62 @@
+{
+  "scope": "synthetic structural capability check",
+  "operations": [
+    {
+      "operation": "add source and assertion",
+      "candidate_assertion": "yes",
+      "versioned_event_log": "yes",
+      "flat_table": "yes",
+      "interpretation": "tested representational capability"
+    },
+    {
+      "operation": "retain conflicting assertions",
+      "candidate_assertion": "yes",
+      "versioned_event_log": "yes",
+      "flat_table": "limited or flattened",
+      "interpretation": "conflict coexistence is representational"
+    },
+    {
+      "operation": "typed relation",
+      "candidate_assertion": "yes",
+      "versioned_event_log": "yes",
+      "flat_table": "no native relation history",
+      "interpretation": "same_incident / related_incident / same_deployment"
+    },
+    {
+      "operation": "withdraw erroneous relation",
+      "candidate_assertion": "yes",
+      "versioned_event_log": "yes",
+      "flat_table": "overwrite-prone",
+      "interpretation": "withdrawal event is traceable"
+    },
+    {
+      "operation": "invalidate source",
+      "candidate_assertion": "yes",
+      "versioned_event_log": "yes",
+      "flat_table": "not native",
+      "interpretation": "source status is retained"
+    },
+    {
+      "operation": "administrative closure separate from evidence",
+      "candidate_assertion": "yes",
+      "versioned_event_log": "yes",
+      "flat_table": "not native",
+      "interpretation": "status and evidence are separate"
+    },
+    {
+      "operation": "reopen after new evidence",
+      "candidate_assertion": "yes",
+      "versioned_event_log": "yes",
+      "flat_table": "overwrite-prone",
+      "interpretation": "reopening event is append-only"
+    },
+    {
+      "operation": "provenance tracing",
+      "candidate_assertion": "yes",
+      "versioned_event_log": "yes",
+      "flat_table": "limited",
+      "interpretation": "source and assertion lineage retained"
+    }
+  ],
+  "conclusion": "Both versioned structures provided the tested representational capability; no real-world performance was evaluated."
+}

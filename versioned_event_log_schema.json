@@ -1,0 +1,75 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Synthetic versioned evidence-log demonstration",
+  "type": "object",
+  "required": ["sources", "assertions", "relations", "status_events"],
+  "properties": {
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["source_id", "status", "locator"],
+        "properties": {
+          "source_id": {"type": "string", "minLength": 1},
+          "status": {"enum": ["active", "invalidated", "withdrawn"]},
+          "locator": {"type": "string", "minLength": 1}
+        },
+        "additionalProperties": false
+      }
+    },
+    "assertions": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["assertion_id", "source_id", "status", "claim", "administrative_state", "evidence_status", "supersedes", "disputed_by"],
+        "properties": {
+          "assertion_id": {"type": "string", "minLength": 1},
+          "source_id": {"type": "string", "minLength": 1},
+          "status": {"enum": ["active", "disputed", "withdrawn"]},
+          "claim": {"type": "string", "minLength": 1},
+          "administrative_state": {"enum": ["open", "closed"]},
+          "evidence_status": {"type": "string", "minLength": 1},
+          "supersedes": {"type": "array", "items": {"type": "string"}},
+          "disputed_by": {"type": "array", "items": {"type": "string"}}
+        },
+        "additionalProperties": false
+      }
+    },
+    "relations": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["relation_id", "relation_type", "status", "from_id", "to_id"],
+        "properties": {
+          "relation_id": {"type": "string", "minLength": 1},
+          "relation_type": {"enum": ["same_incident", "related_incident", "same_deployment"]},
+          "status": {"enum": ["active", "disputed", "withdrawn"]},
+          "from_id": {"type": "string", "minLength": 1},
+          "to_id": {"type": "string", "minLength": 1}
+        },
+        "additionalProperties": false
+      }
+    },
+    "status_events": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["event_id", "event_type", "target_id"],
+        "properties": {
+          "event_id": {"type": "string", "minLength": 1},
+          "event_type": {"enum": ["source_invalidated", "administrative_closed", "reopened", "assertion_withdrawn", "relation_withdrawn"]},
+          "target_id": {"type": "string", "minLength": 1},
+          "reason": {"type": "string"},
+          "evidence_status": {"type": "string"},
+          "trigger": {"type": "string"}
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}
