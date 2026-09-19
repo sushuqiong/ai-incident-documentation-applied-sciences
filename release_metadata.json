@@ -2,7 +2,7 @@
   "release_id": "AS-v6-20260919_200341",
   "version": "v6.0.0",
   "repository": "https://github.com/sushuqiong/ai-incident-documentation-applied-sciences",
-  "commit_sha": null,
-  "zenodo_doi": null,
+  "commit_sha": "85cea9804bb48cf66ac0ebcddd46ad211c1010fa",
+  "zenodo_doi": "10.5281/zenodo.22845069",
   "scientific_content_locked": true
 }

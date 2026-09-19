@@ -14,3 +14,4 @@ Long source excerpts, complete webpages, direct source URLs, patient-level data,
 
 Repository: https://github.com/sushuqiong/ai-incident-documentation-applied-sciences
 Release: https://github.com/sushuqiong/ai-incident-documentation-applied-sciences/releases/tag/v6.0.0
+Zenodo DOI: https://doi.org/10.5281/zenodo.22845069
