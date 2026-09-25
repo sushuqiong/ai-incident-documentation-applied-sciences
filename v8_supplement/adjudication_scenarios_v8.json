@@ -1,0 +1,65 @@
+{
+ "scenario_A_no_change": {
+  "complete_per_field": {
+   "exposure": 4,
+   "follow_up": 0,
+   "closure": 0
+  },
+  "supported_decisions": 228
+ },
+ "scenario_B_plus_adjudicated": {
+  "complete_per_field": {
+   "exposure": 4,
+   "follow_up": 0,
+   "closure": 0
+  },
+  "supported_decisions": 234,
+  "additions": [
+   {
+    "record": "V25R011",
+    "field": "closure",
+    "component": "reopening_rule",
+    "reason": "appellate reversal: High Court upheld the appeal and set aside the judgment"
+   },
+   {
+    "record": "V25R025",
+    "field": "closure",
+    "component": "reopening_rule",
+    "reason": "appeal process described with its duration and requirements"
+   },
+   {
+    "record": "V25R097",
+    "field": "closure",
+    "component": "reopening_rule",
+    "reason": "Upper Tribunal granted permission to appeal to the Court of Appeal"
+   },
+   {
+    "record": "V25R021",
+    "field": "follow_up",
+    "component": "calendar_interval",
+    "reason": "bounded window over which harm events were counted (2000-2013)"
+   },
+   {
+    "record": "V25R016",
+    "field": "exposure",
+    "component": "unit",
+    "reason": "exposed units named: all hospitals, all students in the matching programme"
+   },
+   {
+    "record": "V25R022",
+    "field": "exposure",
+    "component": "unit",
+    "reason": "exposed units named: individuals who did not receive the services they needed"
+   }
+  ]
+ },
+ "scenario_C_upper_bound": {
+  "complete_per_field": {
+   "exposure": 8,
+   "follow_up": 12,
+   "closure": 2
+  },
+  "supported_decisions": 685
+ },
+ "candidate_pool": 457
+}

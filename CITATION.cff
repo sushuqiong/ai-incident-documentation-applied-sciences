@@ -1,10 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this archive, please cite the associated article and this software release."
 title: "AI Incident Documentation Audit: Reproducibility Archive"
-version: "v6.0.0"
-date-released: "2026-09-19"
+version: "v8.0.0"
+date-released: "2026-09-25"
 type: software
 repository-code: "https://github.com/sushuqiong/ai-incident-documentation-applied-sciences"
+abstract: "Privacy-minimised reproducibility archive for a 100-record audit of public AI-incident records: frozen inputs, 1,400 component decisions, 300 field states, retained-material and second-pass audit outputs, a blinded recoding package with empty judgement columns, and the scripts that generate every reported number."
+license: MIT
 authors:
   - family-names: Su
     given-names: Shuqiong
@@ -20,5 +22,8 @@ authors:
   - family-names: Liu
     given-names: Aiqun
     orcid: "https://orcid.org/0000-0002-1077-5585"
-doi: "10.5281/zenodo.22845069"
-url: "https://doi.org/10.5281/zenodo.22845069"
+doi: "10.5281/zenodo.22845068"
+url: "https://doi.org/10.5281/zenodo.22845068"
+related-identifiers:
+  - type: isNewVersionOf
+    value: "10.5281/zenodo.22845069"

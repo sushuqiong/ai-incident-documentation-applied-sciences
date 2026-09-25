@@ -1,0 +1,51 @@
+{
+ "release": "v8",
+ "question": "For each OECD AIM record, does the retained bundle contain incident narrative sufficient to support a not-recovered judgement, or only material insufficient to assess?",
+ "rule": "Per retained field: strip leading title; truncate at the outbound article rail; delete site-chrome and OECD-AIM taxonomy marker phrases; require title content-word overlap >= 0.30 AND >=1 sentence of >=40 characters. Identical rule applied to all 100 rows in all three strata.",
+ "threshold": {
+  "title_overlap_min": 0.3,
+  "min_sentence_chars": 40
+ },
+ "n_records": 100,
+ "records_with_incident_narrative_by_stratum": {
+  "AIID": "48/60",
+  "OECD AIM": "5/20",
+  "direct source": "17/20"
+ },
+ "oecd_n": 20,
+ "oecd_reading_of_zero": {
+  "retained_material_insufficient": 16,
+  "not_recovered": 4
+ },
+ "oecd_manual_adjudication": {
+  "records_read_directly": 20,
+  "retained_material_sufficient_to_assess": [
+   "V25R053",
+   "V25R054",
+   "V25R084",
+   "V25R089"
+  ],
+  "n_assessable": 4,
+  "n_insufficient": 16,
+  "retained_text_types_observed": {
+   "a_oecd_aim_taxonomy_tag_block": "[AI generated] AI principles / Industries / Affected stakeholders / Harm types",
+   "b_external_headline_and_link": "headline + date + outlet + \"Why's our monitor labelling this an incident or hazard?\"",
+   "c_monitor_classification_rationale": "e.g. 'the event fits the definition of an AI Hazard'",
+   "d_incident_narrative": "substantive description of what happened"
+  },
+  "non_english_headlines_observed": [
+   "Persian (V25R081)",
+   "Italian (V25R082)",
+   "Portuguese (V25R084)",
+   "Chinese (V25R086)"
+  ]
+ },
+ "oecd_records_with_zero_recorded_evidence_excerpt": 20,
+ "candidate_false_negative": {
+  "record_id": "V25R089",
+  "case_id": "OECD09",
+  "retained_text": "A Connecticut plaintiff, Matthew Elliott, was sanctioned after embedding hidden AI prompt injections in court filings, aiming to manipulate any AI system reviewing the documents.",
+  "issue": "Describes a court sanction, i.e. a disposition, yet all six closure components were recorded as not supported.",
+  "status": "flagged for independent human review; not adjudicated here"
+ }
+}

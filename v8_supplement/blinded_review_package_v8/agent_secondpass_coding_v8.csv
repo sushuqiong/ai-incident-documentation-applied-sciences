@@ -1,0 +1,121 @@
+item_id,agent_status,agent_note
+ITEM_0032,not_recovered,article date present but no exposure anchor stated
+ITEM_1354,not_recovered,no unresolved matters stated at disposition
+ITEM_1120,not_recovered,no reopening trigger or procedure stated
+ITEM_1293,not_recovered,no disposition role; blog investigation
+ITEM_0298,not_recovered,policy statement; no monitoring role for this incident
+ITEM_1145,not_recovered,nav chrome; no entry rule
+ITEM_1165,not_recovered,no reopening content
+ITEM_0118,not_recovered,GitHub nav chrome only
+ITEM_0874,not_recovered,academic article; no later observation tied to exposure
+ITEM_0570,not_recovered,result composition is not coverage of an eligible set
+ITEM_0754,supported,Federal Court of Justice later determined the predictions expressed a factual connection
+ITEM_1334,not_recovered,no logs or observation channels described
+ITEM_0908,not_recovered,no disposition
+ITEM_1104,not_recovered,OECD nav chrome only
+ITEM_0683,not_recovered,OECD nav chrome only
+ITEM_0707,not_recovered,no entry rule stated
+ITEM_0905,not_recovered,incident date only; no bounded later-observation interval
+ITEM_1107,supported,Federal Court of Justice named as the disposition authority
+ITEM_0501,not_recovered,AIID incident date metadata is not a disposition date
+ITEM_0120,not_recovered,AIID incident date metadata is not a disposition date
+ITEM_0541,not_recovered,nav chrome only
+ITEM_0423,not_recovered,policy statement; no later observation
+ITEM_0545,not_recovered,internal teams described but no monitoring or disposition role
+ITEM_0074,not_recovered,nav chrome only
+ITEM_0178,supported,Chicago Police Department named as ending the use
+ITEM_1215,not_recovered,nav chrome only
+ITEM_0757,not_recovered,OECD nav chrome only
+ITEM_0964,not_recovered,incident date only
+ITEM_0665,not_recovered,no final disposition scope
+ITEM_0155,not_recovered,policy statement; no disposition role
+ITEM_0523,not_recovered,nav chrome only
+ITEM_0950,not_recovered,subscription and nav chrome; unit not stated
+ITEM_0451,not_recovered,no disposition
+ITEM_1029,supported,ICO observed Meta pause then resumption and states it will monitor; later observation tied to exposure
+ITEM_1225,not_recovered,nav chrome only
+ITEM_1012,not_recovered,nav chrome only
+ITEM_0941,not_recovered,shutdown described but no disposition scope
+ITEM_0928,not_recovered,Google blog nav chrome only
+ITEM_0887,not_recovered,OECD nav chrome only
+ITEM_0914,not_recovered,article date present; no effective disposition date
+ITEM_0568,not_recovered,nav chrome only
+ITEM_0080,not_recovered,AIID description only; no evidence basis for a disposition
+ITEM_1144,not_recovered,nav chrome only
+ITEM_0342,not_recovered,unresolved matters described but no disposition at which they were retained
+ITEM_1125,not_recovered,OECD nav chrome only
+ITEM_0804,not_recovered,no reopening content
+ITEM_1343,not_recovered,single victim described; no coverage of an eligible set
+ITEM_1238,supported,release date 23 March 2016 is an explicit exposure anchor
+ITEM_0845,supported,official investigation with named Township officer reporting the finding
+ITEM_0242,supported,ICO intervention dated 6 November 2024 with recommendations issued
+ITEM_1032,not_recovered,blog investigation; no later observation tied to exposure
+ITEM_0561,not_recovered,no reopening trigger or procedure
+ITEM_0354,not_recovered,suspension of a human monitor is not a monitoring or disposition role
+ITEM_0934,not_recovered,2020 memo date is not the exposure anchor
+ITEM_1058,not_recovered,OECD nav chrome only
+ITEM_1180,not_recovered,nav chrome only
+ITEM_0862,not_recovered,exposed unit not stated in retained source text
+ITEM_1040,not_recovered,no exposure anchor stated
+ITEM_0492,not_recovered,no exposure anchor in retained excerpt
+ITEM_0047,not_recovered,OECD nav chrome only
+ITEM_0999,not_recovered,OECD nav chrome only
+ITEM_0457,not_recovered,longer objection window is not an observation interval
+ITEM_1211,not_recovered,AIID description only
+ITEM_0598,not_recovered,academic background text; no disposition
+ITEM_0850,supported,ICO concludes investigation and states it continues to monitor
+ITEM_0217,not_recovered,AIID description only
+ITEM_0262,not_recovered,no disposition stated
+ITEM_0283,not_recovered,nav chrome only
+ITEM_0050,not_recovered,nav chrome only
+ITEM_0028,not_recovered,nav chrome only
+ITEM_0636,not_recovered,nav chrome only
+ITEM_0836,not_recovered,OECD nav chrome only
+ITEM_0389,not_recovered,harm count is not coverage of an eligible set
+ITEM_0774,not_recovered,nav chrome only
+ITEM_1137,supported,Federal Court of Justice set aside the judgment and remitted; appellate reopening in fact
+ITEM_1295,not_recovered,no disposition scope stated
+ITEM_1253,not_recovered,OECD nav chrome only
+ITEM_0717,not_recovered,nav chrome only
+ITEM_1184,not_recovered,no coverage of logs or observation channels stated
+ITEM_0994,not_recovered,AIID description only
+ITEM_0448,not_recovered,OECD nav chrome only
+ITEM_1006,not_recovered,2020 memo date is not an interval
+ITEM_0450,not_recovered,AIID description only
+ITEM_0765,not_recovered,nav chrome only
+ITEM_0124,not_recovered,affected group named but extent of eligible set not stated
+ITEM_1318,not_recovered,nav chrome only
+ITEM_1087,not_recovered,no exposure anchor stated
+ITEM_0629,supported,job seekers and applicants named as the scored unit
+ITEM_0772,not_recovered,OECD nav chrome only
+ITEM_1177,not_recovered,AIID incident date is not an exposure anchor
+ITEM_0043,not_recovered,nav chrome only
+ITEM_0224,not_recovered,AIID description only
+ITEM_1246,not_recovered,no observation channels described
+ITEM_0509,not_recovered,article about a study; no later observation tied to exposure
+ITEM_1000,not_recovered,removal within 24 hours is not an explicit disposition date
+ITEM_0645,not_recovered,nav chrome only
+ITEM_0819,not_recovered,nav chrome and unrelated headlines only
+ITEM_0761,not_recovered,OECD nav chrome only
+ITEM_1038,supported,more than 2
+ITEM_0001,not_recovered,causes summarised but no disposition
+ITEM_0310,supported,later NYT investigation confirmed the vehicle was under technology control
+ITEM_0607,not_recovered,OECD nav chrome only
+ITEM_0045,not_recovered,OECD nav chrome only
+ITEM_0197,not_recovered,excerpt truncated; no interval stated
+ITEM_0597,not_recovered,company statement denying proximity is not an observation
+ITEM_1241,not_recovered,OECD nav chrome only
+ITEM_0432,not_recovered,GitHub nav chrome only
+ITEM_0227,supported,retained text states log data could not be transmitted; addresses trace coverage directly
+ITEM_1054,not_recovered,OECD nav chrome only
+ITEM_0273,not_recovered,nav chrome only
+ITEM_1245,not_recovered,excerpt truncated; no disposition
+ITEM_1128,not_recovered,crash date is not the exposure anchor
+ITEM_1289,supported,ICO states it has issued a reprimand; disposition role explicit
+ITEM_0055,not_recovered,AIID description only
+ITEM_0620,not_recovered,no later observation tied to exposure
+ITEM_1359,not_recovered,nav chrome only
+ITEM_0711,not_recovered,AIID incident date is not a disposition date
+ITEM_0150,not_recovered,AIID description only
+ITEM_1379,not_recovered,nav chrome only
+ITEM_0083,not_recovered,OECD nav chrome only

@@ -1,0 +1,12 @@
+id,design_element,provenance,evidence_or_citation,corpus_support
+TR01,Component-addressable assertions carrying an evidentiary status,Audit observation,0/99 applicable rows met complete support for follow-up or closure; 215/1400 component decisions supported,observed
+TR02,Closure and reopening as distinct append-only events,Audit observation (negative) + design choice,reopening_rule recovered 0/100; append-only modelling is a design choice,partly_observed
+TR03,Concurrent assertions disputes and supersession (conflict coexistence),Author design assumption - NOT observed,v30_counter_evidence_status='not separately recovered in frozen package' for 100/100; v30_cluster_dispute_status='not recorded in retained package' for 100/100,not_observed
+TR04a,Source state separated from assertion history,Partial observation,23/100 inaccessible URLs (13x404 7x403 1x429 1x401 1 request error); 19 rows snapshot_only_inherited_after_url_failure,partly_observed
+TR04b,Withdrawable relations,Author design assumption - NOT observed,no withdrawal retraction or correction event recovered,not_observed
+TR05,Typed status-bearing relations between records,Partial observation + author-defined vocabulary,100 rows to 91 inherited clusters (82 singleton 9 two-row); type vocabulary author-defined,partly_observed
+TR06,Provenance and derivation tracing,Standard,PROV-O [11]; 4 provenance status categories observed,standard
+TR07,Administrative status separated from evidentiary sufficiency,Design assumption motivated by an observation,motivated by 0/99 complete closure support,design
+TR08,Downstream impact traversal after source invalidation,"Design assumption, exercised by test",T09; no corpus observation,design_with_test
+TR09,Historical state restoration,"Design assumption, exercised by test",T10; no corpus observation,design_with_test
+TR10,Closure evidence-gap reporting,"Design assumption, exercised by test",T11; motivated by TR01,design_with_test

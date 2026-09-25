@@ -1,0 +1,68 @@
+{
+ "T09": {
+  "invalidated_sources": [
+   "S2"
+  ],
+  "affected_assertions": [
+   "A1",
+   "A2"
+  ],
+  "affected_status_events": [
+   "E0",
+   "E1",
+   "E2",
+   "E3"
+  ]
+ },
+ "T09_derivation_note": "S2 invalidated -> A2 is sourced from S2 -> affected. A2 is linked to A1 by disputed_by and by relations R1-R3 -> A1 affected. Every status event lists A1 or A2 in basis_assertion_ids, so all four events are flagged for review while none is deleted.",
+ "T10_probes": [
+  {
+   "assertion_id": "A1",
+   "instant": "2026-01-01T00:00:00Z",
+   "expected": {
+    "administrative_state": "open",
+    "evidence_status": "unresolved",
+    "as_at": "2026-01-01T00:00:00Z"
+   }
+  },
+  {
+   "assertion_id": "A1",
+   "instant": "2026-01-04T12:00:00Z",
+   "expected": {
+    "administrative_state": "closed",
+    "evidence_status": "insufficient",
+    "as_at": "2026-01-04T12:00:00Z"
+   }
+  },
+  {
+   "assertion_id": "A1",
+   "instant": "2026-01-05T12:00:00Z",
+   "expected": {
+    "administrative_state": "open",
+    "evidence_status": "insufficient",
+    "as_at": "2026-01-05T12:00:00Z"
+   }
+  }
+ ],
+ "T11": {
+  "closure_components_required": [
+   "date",
+   "evidence_basis",
+   "owner",
+   "reopening_rule",
+   "scope",
+   "uncertainty"
+  ],
+  "covered_by_active_assertions": [
+   "evidence_basis"
+  ],
+  "missing_components": [
+   "date",
+   "owner",
+   "reopening_rule",
+   "scope",
+   "uncertainty"
+  ],
+  "missing_count": 5
+ }
+}

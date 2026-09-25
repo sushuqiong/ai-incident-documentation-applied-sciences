@@ -1,0 +1,155 @@
+{
+ "release": "v8 second-pass audit",
+ "method": "lexical presence probe on record-level retained text; no semantic judgement; no rationale or label field read during probe computation",
+ "independence_note": "different principle from the original semantic coding; the same agent implemented both, so this is method triangulation, not rater independence",
+ "text_source": "union of 6 retained-excerpt columns in source_registry.csv; C1-C10 columns excluded (boilerplate only); decision-level evidence_excerpt deliberately unused because it is populated only for already-supported decisions",
+ "exclusions_applied": "outbound article rail, nav chrome, OECD taxonomy tag blocks, monitor classification rationale, 'No recoverable public evidence' boilerplate",
+ "n_decisions": 1400,
+ "probe_is": "necessary-condition test; over-fires by design; not a correctness oracle",
+ "cross_tabulation_by_component": {
+  "exposure|unit": {
+   "n": 100,
+   "sem_supported_probe_fired": 9,
+   "sem_supported_probe_silent": 41,
+   "sem_notrecovered_probe_fired": 6,
+   "sem_notrecovered_probe_silent": 44
+  },
+  "exposure|eligibility": {
+   "n": 100,
+   "sem_supported_probe_fired": 2,
+   "sem_supported_probe_silent": 21,
+   "sem_notrecovered_probe_fired": 24,
+   "sem_notrecovered_probe_silent": 53
+  },
+  "exposure|time_origin": {
+   "n": 100,
+   "sem_supported_probe_fired": 16,
+   "sem_supported_probe_silent": 0,
+   "sem_notrecovered_probe_fired": 67,
+   "sem_notrecovered_probe_silent": 17
+  },
+  "exposure|coverage": {
+   "n": 100,
+   "sem_supported_probe_fired": 7,
+   "sem_supported_probe_silent": 11,
+   "sem_notrecovered_probe_fired": 4,
+   "sem_notrecovered_probe_silent": 78
+  },
+  "follow_up|calendar_interval": {
+   "n": 100,
+   "sem_supported_probe_fired": 8,
+   "sem_supported_probe_silent": 9,
+   "sem_notrecovered_probe_fired": 24,
+   "sem_notrecovered_probe_silent": 59
+  },
+  "follow_up|exposure_qualified_observation": {
+   "n": 100,
+   "sem_supported_probe_fired": 11,
+   "sem_supported_probe_silent": 5,
+   "sem_notrecovered_probe_fired": 28,
+   "sem_notrecovered_probe_silent": 56
+  },
+  "follow_up|trace_coverage": {
+   "n": 100,
+   "sem_supported_probe_fired": 3,
+   "sem_supported_probe_silent": 0,
+   "sem_notrecovered_probe_fired": 42,
+   "sem_notrecovered_probe_silent": 55
+  },
+  "follow_up|owner": {
+   "n": 100,
+   "sem_supported_probe_fired": 13,
+   "sem_supported_probe_silent": 7,
+   "sem_notrecovered_probe_fired": 42,
+   "sem_notrecovered_probe_silent": 38
+  },
+  "closure|scope": {
+   "n": 100,
+   "sem_supported_probe_fired": 1,
+   "sem_supported_probe_silent": 20,
+   "sem_notrecovered_probe_fired": 1,
+   "sem_notrecovered_probe_silent": 78
+  },
+  "closure|evidence_basis": {
+   "n": 100,
+   "sem_supported_probe_fired": 11,
+   "sem_supported_probe_silent": 3,
+   "sem_notrecovered_probe_fired": 53,
+   "sem_notrecovered_probe_silent": 33
+  },
+  "closure|date": {
+   "n": 100,
+   "sem_supported_probe_fired": 5,
+   "sem_supported_probe_silent": 0,
+   "sem_notrecovered_probe_fired": 81,
+   "sem_notrecovered_probe_silent": 14
+  },
+  "closure|owner": {
+   "n": 100,
+   "sem_supported_probe_fired": 14,
+   "sem_supported_probe_silent": 6,
+   "sem_notrecovered_probe_fired": 34,
+   "sem_notrecovered_probe_silent": 46
+  },
+  "closure|uncertainty": {
+   "n": 100,
+   "sem_supported_probe_fired": 4,
+   "sem_supported_probe_silent": 1,
+   "sem_notrecovered_probe_fired": 37,
+   "sem_notrecovered_probe_silent": 58
+  },
+  "closure|reopening_rule": {
+   "n": 100,
+   "sem_supported_probe_fired": 0,
+   "sem_supported_probe_silent": 0,
+   "sem_notrecovered_probe_fired": 14,
+   "sem_notrecovered_probe_silent": 86
+  }
+ },
+ "candidate_false_negatives": {
+  "definition": "semantic=not_recovered AND mechanical probe fired",
+  "n": 457,
+  "by_component": {
+   "follow_up|exposure_qualified_observation": 28,
+   "closure|evidence_basis": 53,
+   "follow_up|trace_coverage": 42,
+   "closure|date": 81,
+   "exposure|unit": 6,
+   "exposure|time_origin": 67,
+   "follow_up|owner": 42,
+   "closure|owner": 34,
+   "follow_up|calendar_interval": 24,
+   "closure|reopening_rule": 14,
+   "closure|uncertainty": 37,
+   "exposure|coverage": 4,
+   "closure|scope": 1,
+   "exposure|eligibility": 24
+  },
+  "by_stratum": {
+   "AIID": 310,
+   "direct": 82,
+   "OECD AIM": 65
+  }
+ },
+ "candidate_false_positives": {
+  "definition": "semantic=supported AND mechanical probe silent",
+  "n": 124,
+  "by_component": {
+   "exposure|unit": 41,
+   "exposure|coverage": 11,
+   "closure|scope": 20,
+   "exposure|eligibility": 21,
+   "closure|evidence_basis": 3,
+   "follow_up|calendar_interval": 9,
+   "follow_up|owner": 7,
+   "closure|owner": 6,
+   "follow_up|exposure_qualified_observation": 5,
+   "closure|uncertainty": 1
+  }
+ },
+ "reopening_rule_focus": {
+  "semantic_supported": 0,
+  "probe_fired_while_not_recovered": 14,
+  "note": "closure complete support = 0/100 rests on reopening_rule = 0/100; these rows are the highest-priority adjudication target"
+ }
+}

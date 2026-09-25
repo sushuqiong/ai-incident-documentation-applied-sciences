@@ -1,0 +1,91 @@
+{
+  "version": "v8.0.0-public",
+  "truncation_limit_chars": 300,
+  "distinct_source_urls_replaced": 111,
+  "files": [
+    {
+      "file": "02_supplement\\OECD_AIM_retention_audit_v8.csv",
+      "rows": 20,
+      "cells_with_url_removed": 0,
+      "cells_truncated": 0
+    },
+    {
+      "file": "02_supplement\\Supplementary_Table_S1.csv",
+      "rows": 100,
+      "cells_with_url_removed": 110,
+      "cells_truncated": 0
+    },
+    {
+      "file": "02_supplement\\blinded_review_package_v8\\adjudication_log_template_v8.csv",
+      "rows": 1400,
+      "cells_with_url_removed": 0,
+      "cells_truncated": 0
+    },
+    {
+      "file": "02_supplement\\blinded_review_package_v8\\agent_secondpass_coding_v8.csv",
+      "rows": 120,
+      "cells_with_url_removed": 0,
+      "cells_truncated": 0
+    },
+    {
+      "file": "02_supplement\\blinded_review_package_v8\\blinded_coding_sheet_v8.csv",
+      "rows": 1400,
+      "cells_with_url_removed": 140,
+      "cells_truncated": 0
+    },
+    {
+      "file": "02_supplement\\blinded_review_package_v8\\component_definitions_v8.csv",
+      "rows": 14,
+      "cells_with_url_removed": 0,
+      "cells_truncated": 0
+    },
+    {
+      "file": "02_supplement\\blinded_review_package_v8\\sealed_key_v8.csv",
+      "rows": 1400,
+      "cells_with_url_removed": 0,
+      "cells_truncated": 0
+    },
+    {
+      "file": "02_supplement\\component_decisions_v7_1400.csv",
+      "rows": 1400,
+      "cells_with_url_removed": 1548,
+      "cells_truncated": 0
+    },
+    {
+      "file": "02_supplement\\design_requirement_provenance_v8.csv",
+      "rows": 11,
+      "cells_with_url_removed": 0,
+      "cells_truncated": 0
+    },
+    {
+      "file": "02_supplement\\field_states_v7_300.csv",
+      "rows": 300,
+      "cells_with_url_removed": 30,
+      "cells_truncated": 0
+    },
+    {
+      "file": "02_supplement\\independent_mechanical_redecode_v8.csv",
+      "rows": 1400,
+      "cells_with_url_removed": 0,
+      "cells_truncated": 0
+    },
+    {
+      "file": "02_supplement\\retained_material_class_by_record_v8.csv",
+      "rows": 100,
+      "cells_with_url_removed": 0,
+      "cells_truncated": 0
+    },
+    {
+      "file": "02_supplement\\second_pass_disagreements_v8.csv",
+      "rows": 19,
+      "cells_with_url_removed": 0,
+      "cells_truncated": 0
+    },
+    {
+      "file": "02_supplement\\source_registry.csv",
+      "rows": 100,
+      "cells_with_url_removed": 248,
+      "cells_truncated": 202
+    }
+  ]
+}

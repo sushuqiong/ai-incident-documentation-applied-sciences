@@ -1,0 +1,20 @@
+item_id,field,component,original,second_pass,direction,note
+ITEM_0754,follow_up,exposure_qualified_observation,not_recovered,supported,second_pass_adds_support,Federal Court of Justice later determined the predictions expressed a factual connection
+ITEM_0178,follow_up,owner,not_recovered,supported,second_pass_adds_support,Chicago Police Department named as ending the use
+ITEM_0950,exposure,unit,supported,not_recovered,original_supported_second_pass_not,subscription and nav chrome; unit not stated
+ITEM_1029,follow_up,exposure_qualified_observation,not_recovered,supported,second_pass_adds_support,ICO observed Meta pause then resumption and states it will monitor; later observation tied to exposure
+ITEM_1225,exposure,eligibility,supported,not_recovered,original_supported_second_pass_not,nav chrome only
+ITEM_0941,closure,scope,supported,not_recovered,original_supported_second_pass_not,shutdown described but no disposition scope
+ITEM_1144,exposure,time_origin,supported,not_recovered,original_supported_second_pass_not,nav chrome only
+ITEM_0845,closure,owner,not_recovered,supported,second_pass_adds_support,official investigation with named Township officer reporting the finding
+ITEM_0242,closure,date,not_recovered,supported,second_pass_adds_support,ICO intervention dated 6 November 2024 with recommendations issued
+ITEM_0862,exposure,unit,supported,not_recovered,original_supported_second_pass_not,exposed unit not stated in retained source text
+ITEM_0389,exposure,coverage,supported,not_recovered,original_supported_second_pass_not,harm count is not coverage of an eligible set
+ITEM_1137,closure,reopening_rule,not_recovered,supported,second_pass_adds_support,Federal Court of Justice set aside the judgment and remitted; appellate reopening in fact
+ITEM_0224,follow_up,exposure_qualified_observation,supported,not_recovered,original_supported_second_pass_not,AIID description only
+ITEM_0509,follow_up,exposure_qualified_observation,supported,not_recovered,original_supported_second_pass_not,article about a study; no later observation tied to exposure
+ITEM_1000,closure,date,supported,not_recovered,original_supported_second_pass_not,removal within 24 hours is not an explicit disposition date
+ITEM_0645,exposure,coverage,supported,not_recovered,original_supported_second_pass_not,nav chrome only
+ITEM_0819,exposure,coverage,supported,not_recovered,original_supported_second_pass_not,nav chrome and unrelated headlines only
+ITEM_0310,follow_up,exposure_qualified_observation,not_recovered,supported,second_pass_adds_support,later NYT investigation confirmed the vehicle was under technology control
+ITEM_1359,closure,evidence_basis,supported,not_recovered,original_supported_second_pass_not,nav chrome only

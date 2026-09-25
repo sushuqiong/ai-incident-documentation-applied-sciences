@@ -1,0 +1,58 @@
+{
+ "T09_source_invalidation_impact": {
+  "invalidated_sources": [
+   "S2"
+  ],
+  "affected_assertions": [
+   "A1",
+   "A2"
+  ],
+  "affected_status_events": [
+   "E0",
+   "E1",
+   "E2",
+   "E3"
+  ]
+ },
+ "T10_historical_state_restoration": [
+  {
+   "administrative_state": "open",
+   "evidence_status": "unresolved",
+   "as_at": "2026-01-01T00:00:00Z"
+  },
+  {
+   "administrative_state": "closed",
+   "evidence_status": "insufficient",
+   "as_at": "2026-01-04T12:00:00Z"
+  },
+  {
+   "administrative_state": "open",
+   "evidence_status": "insufficient",
+   "as_at": "2026-01-05T12:00:00Z"
+  }
+ ],
+ "T11_closure_evidence_gap": {
+  "closure_components_required": [
+   "date",
+   "evidence_basis",
+   "owner",
+   "reopening_rule",
+   "scope",
+   "uncertainty"
+  ],
+  "covered_by_active_assertions": [
+   "evidence_basis"
+  ],
+  "missing_components": [
+   "date",
+   "owner",
+   "reopening_rule",
+   "scope",
+   "uncertainty"
+  ],
+  "missing_count": 5
+ },
+ "all_passed": true,
+ "input": "synthetic_event_log_input_v7.json (frozen, unchanged)",
+ "scope_note": "Representational capability on the frozen synthetic payload only. No accuracy, completeness against a real corpus, timing, storage, or comparison with an existing system is measured or implied."
+}

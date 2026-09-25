@@ -1,0 +1,1401 @@
+record_id,case_id,source_stratum,field,component,semantic_status,semantic_primary_status,retained_text_chars,mechanical_probe_fired,matched_markers
+V25R001,AIID01,AIID,exposure,unit,supported,supported_by_retained_evidence,569,no,
+V25R001,AIID01,AIID,exposure,eligibility,not_recovered,not_recovered,569,no,
+V25R001,AIID01,AIID,exposure,time_origin,not_recovered,not_recovered,569,no,
+V25R001,AIID01,AIID,exposure,coverage,not_recovered,not_recovered,569,no,
+V25R001,AIID01,AIID,follow_up,calendar_interval,not_recovered,not_recovered,569,no,
+V25R001,AIID01,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,569,yes,confirmed the Uber car was in fact being driven by technology on the | monitoring
+V25R001,AIID01,AIID,follow_up,trace_coverage,not_recovered,not_recovered,569,no,
+V25R001,AIID01,AIID,follow_up,owner,not_recovered,not_recovered,569,no,
+V25R001,AIID01,AIID,closure,scope,not_recovered,not_recovered,569,no,
+V25R001,AIID01,AIID,closure,evidence_basis,not_recovered,not_recovered,569,yes,investigation | documents
+V25R001,AIID01,AIID,closure,date,not_recovered,not_recovered,569,no,
+V25R001,AIID01,AIID,closure,owner,not_recovered,not_recovered,569,no,
+V25R001,AIID01,AIID,closure,uncertainty,not_recovered,not_recovered,569,no,
+V25R001,AIID01,AIID,closure,reopening_rule,not_recovered,not_recovered,569,no,
+V25R002,AIID02,AIID,exposure,unit,supported,supported_by_retained_evidence,1246,no,
+V25R002,AIID02,AIID,exposure,eligibility,not_recovered,not_recovered,1246,no,
+V25R002,AIID02,AIID,exposure,time_origin,not_recovered,not_recovered,1246,no,
+V25R002,AIID02,AIID,exposure,coverage,supported,supported_by_retained_evidence,1246,yes,total of 1.8 | a total of 1.8
+V25R002,AIID02,AIID,follow_up,calendar_interval,not_recovered,not_recovered,1246,no,
+V25R002,AIID02,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,1246,no,
+V25R002,AIID02,AIID,follow_up,trace_coverage,not_recovered,not_recovered,1246,yes,record
+V25R002,AIID02,AIID,follow_up,owner,not_recovered,not_recovered,1246,no,
+V25R002,AIID02,AIID,closure,scope,not_recovered,not_recovered,1246,no,
+V25R002,AIID02,AIID,closure,evidence_basis,not_recovered,not_recovered,1246,yes,report | expert | statement
+V25R002,AIID02,AIID,closure,date,not_recovered,not_recovered,1246,yes,issued
+V25R002,AIID02,AIID,closure,owner,not_recovered,not_recovered,1246,no,
+V25R002,AIID02,AIID,closure,uncertainty,not_recovered,not_recovered,1246,no,
+V25R002,AIID02,AIID,closure,reopening_rule,not_recovered,not_recovered,1246,no,
+V25R003,AIID03,AIID,exposure,unit,not_recovered,not_recovered,1714,yes,the system was
+V25R003,AIID03,AIID,exposure,eligibility,not_recovered,not_recovered,1714,no,
+V25R003,AIID03,AIID,exposure,time_origin,not_recovered,not_recovered,1714,yes,2016
+V25R003,AIID03,AIID,exposure,coverage,not_recovered,not_recovered,1714,no,
+V25R003,AIID03,AIID,follow_up,calendar_interval,not_recovered,not_recovered,1714,no,
+V25R003,AIID03,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,1714,yes,found the “main cause of the
+V25R003,AIID03,AIID,follow_up,trace_coverage,supported,supported_by_retained_evidence,1714,yes,log | footage
+V25R003,AIID03,AIID,follow_up,owner,not_recovered,not_recovered,1714,yes,court | NTSB | police | court
+V25R003,AIID03,AIID,closure,scope,not_recovered,not_recovered,1714,no,
+V25R003,AIID03,AIID,closure,evidence_basis,not_recovered,not_recovered,1714,yes,evidence | investigation | report | footage | expert | statement
+V25R003,AIID03,AIID,closure,date,not_recovered,not_recovered,1714,yes,2017-09-12 | 2016
+V25R003,AIID03,AIID,closure,owner,not_recovered,not_recovered,1714,yes,court | NTSB
+V25R003,AIID03,AIID,closure,uncertainty,not_recovered,not_recovered,1714,no,
+V25R003,AIID03,AIID,closure,reopening_rule,not_recovered,not_recovered,1714,no,
+V25R004,AIID04,AIID,exposure,unit,not_recovered,not_recovered,904,no,
+V25R004,AIID04,AIID,exposure,eligibility,not_recovered,not_recovered,904,no,
+V25R004,AIID04,AIID,exposure,time_origin,not_recovered,not_recovered,904,yes,1999 | since 1999
+V25R004,AIID04,AIID,exposure,coverage,not_recovered,not_recovered,904,no,
+V25R004,AIID04,AIID,follow_up,calendar_interval,not_recovered,not_recovered,904,yes,7 Years | daily
+V25R004,AIID04,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,904,no,
+V25R004,AIID04,AIID,follow_up,trace_coverage,not_recovered,not_recovered,904,yes,record
+V25R004,AIID04,AIID,follow_up,owner,not_recovered,not_recovered,904,no,
+V25R004,AIID04,AIID,closure,scope,not_recovered,not_recovered,904,no,
+V25R004,AIID04,AIID,closure,evidence_basis,not_recovered,not_recovered,904,no,
+V25R004,AIID04,AIID,closure,date,not_recovered,not_recovered,904,yes,1999
+V25R004,AIID04,AIID,closure,owner,not_recovered,not_recovered,904,no,
+V25R004,AIID04,AIID,closure,uncertainty,not_recovered,not_recovered,904,no,
+V25R004,AIID04,AIID,closure,reopening_rule,not_recovered,not_recovered,904,yes,appeal
+V25R005,AIID05,AIID,exposure,unit,supported,supported_by_retained_evidence,3383,no,
+V25R005,AIID05,AIID,exposure,eligibility,not_recovered,not_recovered,3383,no,
+V25R005,AIID05,AIID,exposure,time_origin,not_recovered,not_recovered,3383,yes,2015
+V25R005,AIID05,AIID,exposure,coverage,supported,supported_by_retained_evidence,3383,no,
+V25R005,AIID05,AIID,follow_up,calendar_interval,not_recovered,not_recovered,3383,yes,Daily | after six years | between Lucy Letby and her married doctor 'boyfriend' - as
+V25R005,AIID05,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,3383,yes,found dead Revealed: Incredible details of the
+V25R005,AIID05,AIID,follow_up,trace_coverage,not_recovered,not_recovered,3383,no,
+V25R005,AIID05,AIID,follow_up,owner,not_recovered,not_recovered,3383,no,
+V25R005,AIID05,AIID,closure,scope,not_recovered,not_recovered,3383,no,
+V25R005,AIID05,AIID,closure,evidence_basis,not_recovered,not_recovered,3383,yes,investigation | report
+V25R005,AIID05,AIID,closure,date,not_recovered,not_recovered,3383,yes,2015
+V25R005,AIID05,AIID,closure,owner,not_recovered,not_recovered,3383,yes,decision
+V25R005,AIID05,AIID,closure,uncertainty,not_recovered,not_recovered,3383,yes,ongoing
+V25R005,AIID05,AIID,closure,reopening_rule,not_recovered,not_recovered,3383,no,
+V25R006,AIID06,AIID,exposure,unit,not_recovered,not_recovered,2907,no,
+V25R006,AIID06,AIID,exposure,eligibility,not_recovered,not_recovered,2907,no,
+V25R006,AIID06,AIID,exposure,time_origin,not_recovered,not_recovered,2907,yes,2020
+V25R006,AIID06,AIID,exposure,coverage,not_recovered,not_recovered,2907,no,
+V25R006,AIID06,AIID,follow_up,calendar_interval,not_recovered,not_recovered,2907,yes,subsequent
+V25R006,AIID06,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,2907,no,
+V25R006,AIID06,AIID,follow_up,trace_coverage,not_recovered,not_recovered,2907,yes,Log | Register
+V25R006,AIID06,AIID,follow_up,owner,not_recovered,not_recovered,2907,yes,Board
+V25R006,AIID06,AIID,closure,scope,supported,supported_by_retained_evidence,2907,no,
+V25R006,AIID06,AIID,closure,evidence_basis,supported,supported_by_retained_evidence,2907,yes,concluded | investigation
+V25R006,AIID06,AIID,closure,date,not_recovered,not_recovered,2907,yes,2020
+V25R006,AIID06,AIID,closure,owner,supported,supported_by_retained_evidence,2907,yes,Board
+V25R006,AIID06,AIID,closure,uncertainty,not_recovered,not_recovered,2907,no,
+V25R006,AIID06,AIID,closure,reopening_rule,not_recovered,not_recovered,2907,no,
+V25R007,AIID07,AIID,exposure,unit,not_recovered,not_recovered,2882,no,
+V25R007,AIID07,AIID,exposure,eligibility,not_recovered,not_recovered,2882,no,
+V25R007,AIID07,AIID,exposure,time_origin,not_recovered,not_recovered,2882,yes,2018 | in 2018
+V25R007,AIID07,AIID,exposure,coverage,not_recovered,not_recovered,2882,no,
+V25R007,AIID07,AIID,follow_up,calendar_interval,not_recovered,not_recovered,2882,yes,3 years | Weekly
+V25R007,AIID07,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,2882,no,
+V25R007,AIID07,AIID,follow_up,trace_coverage,not_recovered,not_recovered,2882,no,
+V25R007,AIID07,AIID,follow_up,owner,not_recovered,not_recovered,2882,no,
+V25R007,AIID07,AIID,closure,scope,not_recovered,not_recovered,2882,no,
+V25R007,AIID07,AIID,closure,evidence_basis,not_recovered,not_recovered,2882,yes,based on | investigation
+V25R007,AIID07,AIID,closure,date,not_recovered,not_recovered,2882,yes,2018
+V25R007,AIID07,AIID,closure,owner,not_recovered,not_recovered,2882,no,
+V25R007,AIID07,AIID,closure,uncertainty,not_recovered,not_recovered,2882,no,
+V25R007,AIID07,AIID,closure,reopening_rule,not_recovered,not_recovered,2882,no,
+V25R008,AIID08,AIID,exposure,unit,supported,supported_by_retained_evidence,731,no,
+V25R008,AIID08,AIID,exposure,eligibility,not_recovered,not_recovered,731,no,
+V25R008,AIID08,AIID,exposure,time_origin,not_recovered,not_recovered,731,yes,2015 | in 2021 | published
+V25R008,AIID08,AIID,exposure,coverage,not_recovered,not_recovered,731,no,
+V25R008,AIID08,AIID,follow_up,calendar_interval,not_recovered,not_recovered,731,no,
+V25R008,AIID08,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,731,no,
+V25R008,AIID08,AIID,follow_up,trace_coverage,supported,supported_by_retained_evidence,731,yes,records
+V25R008,AIID08,AIID,follow_up,owner,not_recovered,not_recovered,731,yes,team
+V25R008,AIID08,AIID,closure,scope,not_recovered,not_recovered,731,no,
+V25R008,AIID08,AIID,closure,evidence_basis,not_recovered,not_recovered,731,yes,document
+V25R008,AIID08,AIID,closure,date,not_recovered,not_recovered,731,yes,2015 | published
+V25R008,AIID08,AIID,closure,owner,not_recovered,not_recovered,731,no,
+V25R008,AIID08,AIID,closure,uncertainty,not_recovered,not_recovered,731,no,
+V25R008,AIID08,AIID,closure,reopening_rule,not_recovered,not_recovered,731,no,
+V25R009,AIID09,AIID,exposure,unit,not_recovered,not_recovered,3518,yes,5 people
+V25R009,AIID09,AIID,exposure,eligibility,not_recovered,not_recovered,3518,no,
+V25R009,AIID09,AIID,exposure,time_origin,not_recovered,not_recovered,3518,yes,2026
+V25R009,AIID09,AIID,exposure,coverage,not_recovered,not_recovered,3518,no,
+V25R009,AIID09,AIID,follow_up,calendar_interval,not_recovered,not_recovered,3518,yes,Weekly
+V25R009,AIID09,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,3518,no,
+V25R009,AIID09,AIID,follow_up,trace_coverage,not_recovered,not_recovered,3518,yes,record
+V25R009,AIID09,AIID,follow_up,owner,not_recovered,not_recovered,3518,yes,police | officer | police | Court
+V25R009,AIID09,AIID,closure,scope,not_recovered,not_recovered,3518,no,
+V25R009,AIID09,AIID,closure,evidence_basis,not_recovered,not_recovered,3518,yes,documents
+V25R009,AIID09,AIID,closure,date,not_recovered,not_recovered,3518,yes,2026
+V25R009,AIID09,AIID,closure,owner,not_recovered,not_recovered,3518,yes,police
+V25R009,AIID09,AIID,closure,uncertainty,not_recovered,not_recovered,3518,no,
+V25R009,AIID09,AIID,closure,reopening_rule,not_recovered,not_recovered,3518,yes,appeal
+V25R010,AIID10,AIID,exposure,unit,not_recovered,not_recovered,802,no,
+V25R010,AIID10,AIID,exposure,eligibility,not_recovered,not_recovered,802,no,
+V25R010,AIID10,AIID,exposure,time_origin,not_recovered,not_recovered,802,no,
+V25R010,AIID10,AIID,exposure,coverage,not_recovered,not_recovered,802,no,
+V25R010,AIID10,AIID,follow_up,calendar_interval,not_recovered,not_recovered,802,yes,10 years
+V25R010,AIID10,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,802,no,
+V25R010,AIID10,AIID,follow_up,trace_coverage,not_recovered,not_recovered,802,no,
+V25R010,AIID10,AIID,follow_up,owner,not_recovered,not_recovered,802,no,
+V25R010,AIID10,AIID,closure,scope,not_recovered,not_recovered,802,no,
+V25R010,AIID10,AIID,closure,evidence_basis,not_recovered,not_recovered,802,no,
+V25R010,AIID10,AIID,closure,date,not_recovered,not_recovered,802,no,
+V25R010,AIID10,AIID,closure,owner,not_recovered,not_recovered,802,no,
+V25R010,AIID10,AIID,closure,uncertainty,not_recovered,not_recovered,802,no,
+V25R010,AIID10,AIID,closure,reopening_rule,not_recovered,not_recovered,802,no,
+V25R011,AIID11,AIID,exposure,unit,supported,supported_by_retained_evidence,1732,no,
+V25R011,AIID11,AIID,exposure,eligibility,supported,supported_by_retained_evidence,1732,no,
+V25R011,AIID11,AIID,exposure,time_origin,supported,supported_by_retained_evidence,1732,yes,2012 | published
+V25R011,AIID11,AIID,exposure,coverage,not_recovered,not_recovered,1732,no,
+V25R011,AIID11,AIID,follow_up,calendar_interval,not_recovered,not_recovered,1732,yes,between the chairman and these negatively connoted terms and
+V25R011,AIID11,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,1732,yes,found in linked third party content) (the Higher Regional Court Cologn...
+V25R011,AIID11,AIID,follow_up,trace_coverage,not_recovered,not_recovered,1732,no,
+V25R011,AIID11,AIID,follow_up,owner,not_recovered,not_recovered,1732,yes,Court | Court
+V25R011,AIID11,AIID,closure,scope,supported,supported_by_retained_evidence,1732,no,
+V25R011,AIID11,AIID,closure,evidence_basis,supported,supported_by_retained_evidence,1732,yes,finding
+V25R011,AIID11,AIID,closure,date,not_recovered,not_recovered,1732,yes,2012 | published
+V25R011,AIID11,AIID,closure,owner,supported,supported_by_retained_evidence,1732,yes,Court | judgment | judgement | decision
+V25R011,AIID11,AIID,closure,uncertainty,not_recovered,not_recovered,1732,yes,allegedly
+V25R011,AIID11,AIID,closure,reopening_rule,not_recovered,not_recovered,1732,yes,appeal
+V25R012,AIID12,AIID,exposure,unit,supported,supported_by_retained_evidence,2943,no,
+V25R012,AIID12,AIID,exposure,eligibility,not_recovered,not_recovered,2943,no,
+V25R012,AIID12,AIID,exposure,time_origin,not_recovered,not_recovered,2943,yes,2026
+V25R012,AIID12,AIID,exposure,coverage,not_recovered,not_recovered,2943,yes,percent
+V25R012,AIID12,AIID,follow_up,calendar_interval,not_recovered,not_recovered,2943,yes,21 Years | subsequent
+V25R012,AIID12,AIID,follow_up,exposure_qualified_observation,supported,supported_by_retained_evidence,2943,yes,found that
+V25R012,AIID12,AIID,follow_up,trace_coverage,not_recovered,not_recovered,2943,no,
+V25R012,AIID12,AIID,follow_up,owner,not_recovered,not_recovered,2943,no,
+V25R012,AIID12,AIID,closure,scope,not_recovered,not_recovered,2943,no,
+V25R012,AIID12,AIID,closure,evidence_basis,not_recovered,not_recovered,2943,yes,found that
+V25R012,AIID12,AIID,closure,date,not_recovered,not_recovered,2943,yes,2026
+V25R012,AIID12,AIID,closure,owner,not_recovered,not_recovered,2943,no,
+V25R012,AIID12,AIID,closure,uncertainty,not_recovered,not_recovered,2943,no,
+V25R012,AIID12,AIID,closure,reopening_rule,not_recovered,not_recovered,2943,no,
+V25R013,AIID13,AIID,exposure,unit,not_recovered,not_recovered,3387,no,
+V25R013,AIID13,AIID,exposure,eligibility,not_recovered,not_recovered,3387,no,
+V25R013,AIID13,AIID,exposure,time_origin,not_recovered,not_recovered,3387,yes,2018 | in 2018
+V25R013,AIID13,AIID,exposure,coverage,not_recovered,not_recovered,3387,no,
+V25R013,AIID13,AIID,follow_up,calendar_interval,not_recovered,not_recovered,3387,no,
+V25R013,AIID13,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,3387,yes,found the
+V25R013,AIID13,AIID,follow_up,trace_coverage,not_recovered,not_recovered,3387,yes,camera
+V25R013,AIID13,AIID,follow_up,owner,not_recovered,not_recovered,3387,no,
+V25R013,AIID13,AIID,closure,scope,not_recovered,not_recovered,3387,no,
+V25R013,AIID13,AIID,closure,evidence_basis,not_recovered,not_recovered,3387,no,
+V25R013,AIID13,AIID,closure,date,not_recovered,not_recovered,3387,yes,2018
+V25R013,AIID13,AIID,closure,owner,not_recovered,not_recovered,3387,no,
+V25R013,AIID13,AIID,closure,uncertainty,not_recovered,not_recovered,3387,yes,allegedly
+V25R013,AIID13,AIID,closure,reopening_rule,not_recovered,not_recovered,3387,yes,appeal
+V25R014,AIID14,AIID,exposure,unit,not_recovered,not_recovered,1319,no,
+V25R014,AIID14,AIID,exposure,eligibility,not_recovered,not_recovered,1319,no,
+V25R014,AIID14,AIID,exposure,time_origin,not_recovered,not_recovered,1319,no,
+V25R014,AIID14,AIID,exposure,coverage,not_recovered,not_recovered,1319,no,
+V25R014,AIID14,AIID,follow_up,calendar_interval,not_recovered,not_recovered,1319,no,
+V25R014,AIID14,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,1319,no,
+V25R014,AIID14,AIID,follow_up,trace_coverage,not_recovered,not_recovered,1319,yes,metadata
+V25R014,AIID14,AIID,follow_up,owner,not_recovered,not_recovered,1319,no,
+V25R014,AIID14,AIID,closure,scope,not_recovered,not_recovered,1319,yes,the case of
+V25R014,AIID14,AIID,closure,evidence_basis,not_recovered,not_recovered,1319,no,
+V25R014,AIID14,AIID,closure,date,not_recovered,not_recovered,1319,no,
+V25R014,AIID14,AIID,closure,owner,not_recovered,not_recovered,1319,no,
+V25R014,AIID14,AIID,closure,uncertainty,not_recovered,not_recovered,1319,yes,remain
+V25R014,AIID14,AIID,closure,reopening_rule,not_recovered,not_recovered,1319,no,
+V25R015,AIID15,AIID,exposure,unit,not_recovered,not_recovered,4191,no,
+V25R015,AIID15,AIID,exposure,eligibility,not_recovered,not_recovered,4191,no,
+V25R015,AIID15,AIID,exposure,time_origin,not_recovered,not_recovered,4191,yes,7 April 2016 | 2016
+V25R015,AIID15,AIID,exposure,coverage,not_recovered,not_recovered,4191,no,
+V25R015,AIID15,AIID,follow_up,calendar_interval,not_recovered,not_recovered,4191,yes,25 years | Daily | after 25 years
+V25R015,AIID15,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,4191,yes,found only black women had 'unprofessional hairstyles' The student twe...
+V25R015,AIID15,AIID,follow_up,trace_coverage,not_recovered,not_recovered,4191,no,
+V25R015,AIID15,AIID,follow_up,owner,not_recovered,not_recovered,4191,no,
+V25R015,AIID15,AIID,closure,scope,not_recovered,not_recovered,4191,no,
+V25R015,AIID15,AIID,closure,evidence_basis,not_recovered,not_recovered,4191,yes,statement
+V25R015,AIID15,AIID,closure,date,not_recovered,not_recovered,4191,yes,7 April 2016 | 2016
+V25R015,AIID15,AIID,closure,owner,not_recovered,not_recovered,4191,no,
+V25R015,AIID15,AIID,closure,uncertainty,not_recovered,not_recovered,4191,yes,However | appears to
+V25R015,AIID15,AIID,closure,reopening_rule,not_recovered,not_recovered,4191,no,
+V25R016,AIID16,AIID,exposure,unit,not_recovered,not_recovered,3239,yes,all students
+V25R016,AIID16,AIID,exposure,eligibility,not_recovered,not_recovered,3239,no,
+V25R016,AIID16,AIID,exposure,time_origin,not_recovered,not_recovered,3239,yes,"April 3, 1996 | 3 April 1996 | 1996"
+V25R016,AIID16,AIID,exposure,coverage,not_recovered,not_recovered,3239,no,
+V25R016,AIID16,AIID,follow_up,calendar_interval,not_recovered,not_recovered,3239,no,
+V25R016,AIID16,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,3239,no,
+V25R016,AIID16,AIID,follow_up,trace_coverage,not_recovered,not_recovered,3239,no,
+V25R016,AIID16,AIID,follow_up,owner,not_recovered,not_recovered,3239,yes,Department
+V25R016,AIID16,AIID,closure,scope,not_recovered,not_recovered,3239,no,
+V25R016,AIID16,AIID,closure,evidence_basis,not_recovered,not_recovered,3239,no,
+V25R016,AIID16,AIID,closure,date,not_recovered,not_recovered,3239,yes,"April 3, 1996 | 3 April 1996 | 1996"
+V25R016,AIID16,AIID,closure,owner,not_recovered,not_recovered,3239,yes,Department
+V25R016,AIID16,AIID,closure,uncertainty,not_recovered,not_recovered,3239,yes,Allegedly
+V25R016,AIID16,AIID,closure,reopening_rule,not_recovered,not_recovered,3239,no,
+V25R017,AIID17,AIID,exposure,unit,supported,supported_by_retained_evidence,773,yes,60 applicants
+V25R017,AIID17,AIID,exposure,eligibility,supported,supported_by_retained_evidence,773,no,
+V25R017,AIID17,AIID,exposure,time_origin,supported,supported_by_retained_evidence,773,yes,1982 | From 1982 | began in
+V25R017,AIID17,AIID,exposure,coverage,supported,supported_by_retained_evidence,773,no,
+V25R017,AIID17,AIID,follow_up,calendar_interval,not_recovered,not_recovered,773,no,
+V25R017,AIID17,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,773,no,
+V25R017,AIID17,AIID,follow_up,trace_coverage,not_recovered,not_recovered,773,no,
+V25R017,AIID17,AIID,follow_up,owner,not_recovered,not_recovered,773,yes,commission | commission
+V25R017,AIID17,AIID,closure,scope,supported,supported_by_retained_evidence,773,no,
+V25R017,AIID17,AIID,closure,evidence_basis,not_recovered,not_recovered,773,no,
+V25R017,AIID17,AIID,closure,date,not_recovered,not_recovered,773,yes,1982
+V25R017,AIID17,AIID,closure,owner,supported,supported_by_retained_evidence,773,yes,commission
+V25R017,AIID17,AIID,closure,uncertainty,not_recovered,not_recovered,773,yes,allegedly
+V25R017,AIID17,AIID,closure,reopening_rule,not_recovered,not_recovered,773,no,
+V25R018,AIID18,AIID,exposure,unit,supported,supported_by_retained_evidence,2925,yes,2069 patients
+V25R018,AIID18,AIID,exposure,eligibility,supported,supported_by_retained_evidence,2925,yes,criterion
+V25R018,AIID18,AIID,exposure,time_origin,not_recovered,not_recovered,2925,yes,2020
+V25R018,AIID18,AIID,exposure,coverage,supported,supported_by_retained_evidence,2925,yes,3.1%
+V25R018,AIID18,AIID,follow_up,calendar_interval,not_recovered,not_recovered,2925,no,
+V25R018,AIID18,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,2925,no,
+V25R018,AIID18,AIID,follow_up,trace_coverage,not_recovered,not_recovered,2925,yes,Database
+V25R018,AIID18,AIID,follow_up,owner,supported,supported_by_retained_evidence,2925,yes,task force
+V25R018,AIID18,AIID,closure,scope,not_recovered,not_recovered,2925,no,
+V25R018,AIID18,AIID,closure,evidence_basis,not_recovered,not_recovered,2925,yes,based on | document
+V25R018,AIID18,AIID,closure,date,not_recovered,not_recovered,2925,yes,2020
+V25R018,AIID18,AIID,closure,owner,not_recovered,not_recovered,2925,no,
+V25R018,AIID18,AIID,closure,uncertainty,not_recovered,not_recovered,2925,no,
+V25R018,AIID18,AIID,closure,reopening_rule,not_recovered,not_recovered,2925,no,
+V25R019,AIID19,AIID,exposure,unit,not_recovered,not_recovered,2432,no,
+V25R019,AIID19,AIID,exposure,eligibility,not_recovered,not_recovered,2432,no,
+V25R019,AIID19,AIID,exposure,time_origin,not_recovered,not_recovered,2432,yes,2000
+V25R019,AIID19,AIID,exposure,coverage,not_recovered,not_recovered,2432,no,
+V25R019,AIID19,AIID,follow_up,calendar_interval,not_recovered,not_recovered,2432,no,
+V25R019,AIID19,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,2432,no,
+V25R019,AIID19,AIID,follow_up,trace_coverage,not_recovered,not_recovered,2432,no,
+V25R019,AIID19,AIID,follow_up,owner,not_recovered,not_recovered,2432,no,
+V25R019,AIID19,AIID,closure,scope,not_recovered,not_recovered,2432,no,
+V25R019,AIID19,AIID,closure,evidence_basis,not_recovered,not_recovered,2432,no,
+V25R019,AIID19,AIID,closure,date,not_recovered,not_recovered,2432,yes,2000
+V25R019,AIID19,AIID,closure,owner,not_recovered,not_recovered,2432,yes,decision
+V25R019,AIID19,AIID,closure,uncertainty,not_recovered,not_recovered,2432,no,
+V25R019,AIID19,AIID,closure,reopening_rule,not_recovered,not_recovered,2432,no,
+V25R020,AIID20,AIID,exposure,unit,supported,supported_by_retained_evidence,3434,no,
+V25R020,AIID20,AIID,exposure,eligibility,not_recovered,not_recovered,3434,no,
+V25R020,AIID20,AIID,exposure,time_origin,supported,supported_by_retained_evidence,3434,yes,"March 2, 2021 | 2021 | since 2012"
+V25R020,AIID20,AIID,exposure,coverage,supported,supported_by_retained_evidence,3434,no,
+V25R020,AIID20,AIID,follow_up,calendar_interval,not_recovered,not_recovered,3434,no,
+V25R020,AIID20,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,3434,yes,reviewed
+V25R020,AIID20,AIID,follow_up,trace_coverage,not_recovered,not_recovered,3434,yes,records
+V25R020,AIID20,AIID,follow_up,owner,not_recovered,not_recovered,3434,yes,Team
+V25R020,AIID20,AIID,closure,scope,not_recovered,not_recovered,3434,no,
+V25R020,AIID20,AIID,closure,evidence_basis,not_recovered,not_recovered,3434,yes,Documents
+V25R020,AIID20,AIID,closure,date,not_recovered,not_recovered,3434,yes,"March 2, 2021 | 2021"
+V25R020,AIID20,AIID,closure,owner,not_recovered,not_recovered,3434,no,
+V25R020,AIID20,AIID,closure,uncertainty,not_recovered,not_recovered,3434,no,
+V25R020,AIID20,AIID,closure,reopening_rule,not_recovered,not_recovered,3434,no,
+V25R021,AIID21,AIID,exposure,unit,supported,supported_by_retained_evidence,997,yes,193 patients
+V25R021,AIID21,AIID,exposure,eligibility,not_recovered,not_recovered,997,no,
+V25R021,AIID21,AIID,exposure,time_origin,supported,supported_by_retained_evidence,997,yes,2000 | between 2000 and
+V25R021,AIID21,AIID,exposure,coverage,not_recovered,not_recovered,997,no,
+V25R021,AIID21,AIID,follow_up,calendar_interval,not_recovered,not_recovered,997,yes,between 2000 and 2013; in another category of incidents
+V25R021,AIID21,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,997,no,
+V25R021,AIID21,AIID,follow_up,trace_coverage,not_recovered,not_recovered,997,no,
+V25R021,AIID21,AIID,follow_up,owner,not_recovered,not_recovered,997,yes,team
+V25R021,AIID21,AIID,closure,scope,not_recovered,not_recovered,997,no,
+V25R021,AIID21,AIID,closure,evidence_basis,not_recovered,not_recovered,997,yes,investigation
+V25R021,AIID21,AIID,closure,date,not_recovered,not_recovered,997,yes,2000
+V25R021,AIID21,AIID,closure,owner,not_recovered,not_recovered,997,no,
+V25R021,AIID21,AIID,closure,uncertainty,not_recovered,not_recovered,997,no,
+V25R021,AIID21,AIID,closure,reopening_rule,not_recovered,not_recovered,997,no,
+V25R022,AIID22,AIID,exposure,unit,not_recovered,not_recovered,2861,yes,individuals who
+V25R022,AIID22,AIID,exposure,eligibility,not_recovered,not_recovered,2861,no,
+V25R022,AIID22,AIID,exposure,time_origin,not_recovered,not_recovered,2861,no,
+V25R022,AIID22,AIID,exposure,coverage,not_recovered,not_recovered,2861,no,
+V25R022,AIID22,AIID,follow_up,calendar_interval,not_recovered,not_recovered,2861,no,
+V25R022,AIID22,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,2861,no,
+V25R022,AIID22,AIID,follow_up,trace_coverage,not_recovered,not_recovered,2861,no,
+V25R022,AIID22,AIID,follow_up,owner,not_recovered,not_recovered,2861,yes,court | court
+V25R022,AIID22,AIID,closure,scope,supported,supported_by_retained_evidence,2861,no,
+V25R022,AIID22,AIID,closure,evidence_basis,supported,supported_by_retained_evidence,2861,no,
+V25R022,AIID22,AIID,closure,date,not_recovered,not_recovered,2861,no,
+V25R022,AIID22,AIID,closure,owner,supported,supported_by_retained_evidence,2861,yes,court
+V25R022,AIID22,AIID,closure,uncertainty,not_recovered,not_recovered,2861,no,
+V25R022,AIID22,AIID,closure,reopening_rule,not_recovered,not_recovered,2861,yes,appeal
+V25R023,AIID23,AIID,exposure,unit,not_recovered,not_recovered,814,no,
+V25R023,AIID23,AIID,exposure,eligibility,not_recovered,not_recovered,814,no,
+V25R023,AIID23,AIID,exposure,time_origin,not_recovered,not_recovered,814,yes,2020
+V25R023,AIID23,AIID,exposure,coverage,not_recovered,not_recovered,814,no,
+V25R023,AIID23,AIID,follow_up,calendar_interval,not_recovered,not_recovered,814,no,
+V25R023,AIID23,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,814,no,
+V25R023,AIID23,AIID,follow_up,trace_coverage,not_recovered,not_recovered,814,no,
+V25R023,AIID23,AIID,follow_up,owner,not_recovered,not_recovered,814,yes,team
+V25R023,AIID23,AIID,closure,scope,not_recovered,not_recovered,814,no,
+V25R023,AIID23,AIID,closure,evidence_basis,not_recovered,not_recovered,814,yes,concluded
+V25R023,AIID23,AIID,closure,date,not_recovered,not_recovered,814,yes,2020
+V25R023,AIID23,AIID,closure,owner,not_recovered,not_recovered,814,no,
+V25R023,AIID23,AIID,closure,uncertainty,not_recovered,not_recovered,814,no,
+V25R023,AIID23,AIID,closure,reopening_rule,not_recovered,not_recovered,814,no,
+V25R024,AIID24,AIID,exposure,unit,supported,supported_by_retained_evidence,2758,no,
+V25R024,AIID24,AIID,exposure,eligibility,not_recovered,not_recovered,2758,no,
+V25R024,AIID24,AIID,exposure,time_origin,not_recovered,not_recovered,2758,yes,"December 6, 2018 | 2018"
+V25R024,AIID24,AIID,exposure,coverage,not_recovered,not_recovered,2758,no,
+V25R024,AIID24,AIID,follow_up,calendar_interval,supported,supported_by_retained_evidence,2758,no,
+V25R024,AIID24,AIID,follow_up,exposure_qualified_observation,supported,supported_by_retained_evidence,2758,yes,"reported Thursday. The official investigation revealed ""an | investigation revealed"
+V25R024,AIID24,AIID,follow_up,trace_coverage,not_recovered,not_recovered,2758,no,
+V25R024,AIID24,AIID,follow_up,owner,not_recovered,not_recovered,2758,yes,officer
+V25R024,AIID24,AIID,closure,scope,not_recovered,not_recovered,2758,no,
+V25R024,AIID24,AIID,closure,evidence_basis,not_recovered,not_recovered,2758,yes,investigation
+V25R024,AIID24,AIID,closure,date,not_recovered,not_recovered,2758,yes,"December 6, 2018 | 2018"
+V25R024,AIID24,AIID,closure,owner,not_recovered,not_recovered,2758,no,
+V25R024,AIID24,AIID,closure,uncertainty,not_recovered,not_recovered,2758,yes,ongoing | reportedly
+V25R024,AIID24,AIID,closure,reopening_rule,not_recovered,not_recovered,2758,no,
+V25R025,AIID25,AIID,exposure,unit,not_recovered,not_recovered,2886,no,
+V25R025,AIID25,AIID,exposure,eligibility,not_recovered,not_recovered,2886,no,
+V25R025,AIID25,AIID,exposure,time_origin,not_recovered,not_recovered,2886,yes,"March 13, 2023 | 2026"
+V25R025,AIID25,AIID,exposure,coverage,not_recovered,not_recovered,2886,no,
+V25R025,AIID25,AIID,follow_up,calendar_interval,not_recovered,not_recovered,2886,no,
+V25R025,AIID25,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,2886,no,
+V25R025,AIID25,AIID,follow_up,trace_coverage,not_recovered,not_recovered,2886,yes,Log
+V25R025,AIID25,AIID,follow_up,owner,not_recovered,not_recovered,2886,yes,Team | FDA
+V25R025,AIID25,AIID,closure,scope,not_recovered,not_recovered,2886,no,
+V25R025,AIID25,AIID,closure,evidence_basis,not_recovered,not_recovered,2886,yes,Investigation
+V25R025,AIID25,AIID,closure,date,not_recovered,not_recovered,2886,yes,"March 13, 2023 | 2026"
+V25R025,AIID25,AIID,closure,owner,not_recovered,not_recovered,2886,yes,FDA
+V25R025,AIID25,AIID,closure,uncertainty,not_recovered,not_recovered,2886,yes,appears to
+V25R025,AIID25,AIID,closure,reopening_rule,not_recovered,not_recovered,2886,yes,appeal
+V25R026,AIID26,AIID,exposure,unit,supported,supported_by_retained_evidence,785,no,
+V25R026,AIID26,AIID,exposure,eligibility,supported,supported_by_retained_evidence,785,no,
+V25R026,AIID26,AIID,exposure,time_origin,not_recovered,not_recovered,785,yes,1995 | in 1995
+V25R026,AIID26,AIID,exposure,coverage,not_recovered,not_recovered,785,no,
+V25R026,AIID26,AIID,follow_up,calendar_interval,not_recovered,not_recovered,785,no,
+V25R026,AIID26,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,785,no,
+V25R026,AIID26,AIID,follow_up,trace_coverage,not_recovered,not_recovered,785,no,
+V25R026,AIID26,AIID,follow_up,owner,not_recovered,not_recovered,785,yes,Commission | Commission
+V25R026,AIID26,AIID,closure,scope,not_recovered,not_recovered,785,no,
+V25R026,AIID26,AIID,closure,evidence_basis,not_recovered,not_recovered,785,yes,statement
+V25R026,AIID26,AIID,closure,date,not_recovered,not_recovered,785,yes,1995
+V25R026,AIID26,AIID,closure,owner,not_recovered,not_recovered,785,yes,Commission
+V25R026,AIID26,AIID,closure,uncertainty,not_recovered,not_recovered,785,no,
+V25R026,AIID26,AIID,closure,reopening_rule,not_recovered,not_recovered,785,no,
+V25R027,AIID27,AIID,exposure,unit,supported,supported_by_retained_evidence,619,no,
+V25R027,AIID27,AIID,exposure,eligibility,not_recovered,not_recovered,619,no,
+V25R027,AIID27,AIID,exposure,time_origin,not_recovered,not_recovered,619,yes,"March 30, 2009 | 2009"
+V25R027,AIID27,AIID,exposure,coverage,not_recovered,not_recovered,619,no,
+V25R027,AIID27,AIID,follow_up,calendar_interval,not_recovered,not_recovered,619,no,
+V25R027,AIID27,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,619,yes,confirmed by the
+V25R027,AIID27,AIID,follow_up,trace_coverage,not_recovered,not_recovered,619,yes,record | camera
+V25R027,AIID27,AIID,follow_up,owner,not_recovered,not_recovered,619,yes,police | police
+V25R027,AIID27,AIID,closure,scope,not_recovered,not_recovered,619,no,
+V25R027,AIID27,AIID,closure,evidence_basis,not_recovered,not_recovered,619,no,
+V25R027,AIID27,AIID,closure,date,not_recovered,not_recovered,619,yes,"March 30, 2009 | 2009"
+V25R027,AIID27,AIID,closure,owner,not_recovered,not_recovered,619,yes,police
+V25R027,AIID27,AIID,closure,uncertainty,not_recovered,not_recovered,619,yes,allegedly
+V25R027,AIID27,AIID,closure,reopening_rule,not_recovered,not_recovered,619,no,
+V25R028,AIID28,AIID,exposure,unit,supported,supported_by_retained_evidence,2883,no,
+V25R028,AIID28,AIID,exposure,eligibility,supported,supported_by_retained_evidence,2883,no,
+V25R028,AIID28,AIID,exposure,time_origin,not_recovered,not_recovered,2883,yes,"July 19, 2021 | 2021 | deployed in | In 2012"
+V25R028,AIID28,AIID,exposure,coverage,supported,supported_by_retained_evidence,2883,no,
+V25R028,AIID28,AIID,follow_up,calendar_interval,not_recovered,not_recovered,2883,yes,Monthly
+V25R028,AIID28,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,2883,yes,according to the report
+V25R028,AIID28,AIID,follow_up,trace_coverage,not_recovered,not_recovered,2883,no,
+V25R028,AIID28,AIID,follow_up,owner,not_recovered,not_recovered,2883,yes,from the Cleveland Police | Police | Police
+V25R028,AIID28,AIID,closure,scope,not_recovered,not_recovered,2883,no,
+V25R028,AIID28,AIID,closure,evidence_basis,not_recovered,not_recovered,2883,yes,according to | report
+V25R028,AIID28,AIID,closure,date,not_recovered,not_recovered,2883,yes,"July 19, 2021 | 2021"
+V25R028,AIID28,AIID,closure,owner,not_recovered,not_recovered,2883,yes,from the Cleveland Police | Police
+V25R028,AIID28,AIID,closure,uncertainty,not_recovered,not_recovered,2883,no,
+V25R028,AIID28,AIID,closure,reopening_rule,not_recovered,not_recovered,2883,no,
+V25R029,AIID29,AIID,exposure,unit,supported,supported_by_retained_evidence,2964,yes,Every person | risk score | was assigned a
+V25R029,AIID29,AIID,exposure,eligibility,supported,supported_by_retained_evidence,2964,no,
+V25R029,AIID29,AIID,exposure,time_origin,supported,supported_by_retained_evidence,2964,yes,"August 27, 2026 | 2026"
+V25R029,AIID29,AIID,exposure,coverage,supported,supported_by_retained_evidence,2964,no,
+V25R029,AIID29,AIID,follow_up,calendar_interval,not_recovered,not_recovered,2964,yes,between August 2012 and June 2018 was assigned a “risk score”
+V25R029,AIID29,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,2964,yes,found that at least 20 of the
+V25R029,AIID29,AIID,follow_up,trace_coverage,not_recovered,not_recovered,2964,yes,Log
+V25R029,AIID29,AIID,follow_up,owner,not_recovered,not_recovered,2964,yes,Police | team | Police
+V25R029,AIID29,AIID,closure,scope,supported,supported_by_retained_evidence,2964,no,
+V25R029,AIID29,AIID,closure,evidence_basis,supported,supported_by_retained_evidence,2964,yes,found that | Report | statement
+V25R029,AIID29,AIID,closure,date,not_recovered,not_recovered,2964,yes,"August 27, 2026 | 2026"
+V25R029,AIID29,AIID,closure,owner,not_recovered,not_recovered,2964,yes,Police
+V25R029,AIID29,AIID,closure,uncertainty,not_recovered,not_recovered,2964,no,
+V25R029,AIID29,AIID,closure,reopening_rule,not_recovered,not_recovered,2964,no,
+V25R030,AIID30,AIID,exposure,unit,not_recovered,not_recovered,3645,no,
+V25R030,AIID30,AIID,exposure,eligibility,not_recovered,not_recovered,3645,no,
+V25R030,AIID30,AIID,exposure,time_origin,not_recovered,not_recovered,3645,yes,2026
+V25R030,AIID30,AIID,exposure,coverage,not_recovered,not_recovered,3645,yes,Coverage | nationally
+V25R030,AIID30,AIID,follow_up,calendar_interval,not_recovered,not_recovered,3645,no,
+V25R030,AIID30,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,3645,yes,audit
+V25R030,AIID30,AIID,follow_up,trace_coverage,supported,supported_by_retained_evidence,3645,yes,stored
+V25R030,AIID30,AIID,follow_up,owner,not_recovered,not_recovered,3645,yes,Police | Team | Police
+V25R030,AIID30,AIID,closure,scope,not_recovered,not_recovered,3645,no,
+V25R030,AIID30,AIID,closure,evidence_basis,not_recovered,not_recovered,3645,yes,evidence | Report | documents
+V25R030,AIID30,AIID,closure,date,not_recovered,not_recovered,3645,yes,2021-05-03 | 2026
+V25R030,AIID30,AIID,closure,owner,not_recovered,not_recovered,3645,yes,Police
+V25R030,AIID30,AIID,closure,uncertainty,not_recovered,not_recovered,3645,yes,ongoing
+V25R030,AIID30,AIID,closure,reopening_rule,not_recovered,not_recovered,3645,no,
+V25R031,AIID31,AIID,exposure,unit,not_recovered,not_recovered,2228,no,
+V25R031,AIID31,AIID,exposure,eligibility,not_recovered,not_recovered,2228,no,
+V25R031,AIID31,AIID,exposure,time_origin,not_recovered,not_recovered,2228,yes,2016
+V25R031,AIID31,AIID,exposure,coverage,not_recovered,not_recovered,2228,no,
+V25R031,AIID31,AIID,follow_up,calendar_interval,not_recovered,not_recovered,2228,no,
+V25R031,AIID31,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,2228,yes,"confirmed 11,246 of them from Facebook. Clearly someone has figured ou..."
+V25R031,AIID31,AIID,follow_up,trace_coverage,not_recovered,not_recovered,2228,no,
+V25R031,AIID31,AIID,follow_up,owner,not_recovered,not_recovered,2228,no,
+V25R031,AIID31,AIID,closure,scope,not_recovered,not_recovered,2228,no,
+V25R031,AIID31,AIID,closure,evidence_basis,not_recovered,not_recovered,2228,yes,Investigation
+V25R031,AIID31,AIID,closure,date,not_recovered,not_recovered,2228,yes,2016
+V25R031,AIID31,AIID,closure,owner,not_recovered,not_recovered,2228,no,
+V25R031,AIID31,AIID,closure,uncertainty,not_recovered,not_recovered,2228,yes,further
+V25R031,AIID31,AIID,closure,reopening_rule,not_recovered,not_recovered,2228,no,
+V25R032,AIID32,AIID,exposure,unit,not_recovered,not_recovered,3252,no,
+V25R032,AIID32,AIID,exposure,eligibility,not_recovered,not_recovered,3252,no,
+V25R032,AIID32,AIID,exposure,time_origin,not_recovered,not_recovered,3252,yes,2024
+V25R032,AIID32,AIID,exposure,coverage,not_recovered,not_recovered,3252,no,
+V25R032,AIID32,AIID,follow_up,calendar_interval,not_recovered,not_recovered,3252,no,
+V25R032,AIID32,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,3252,no,
+V25R032,AIID32,AIID,follow_up,trace_coverage,not_recovered,not_recovered,3252,no,
+V25R032,AIID32,AIID,follow_up,owner,not_recovered,not_recovered,3252,yes,team
+V25R032,AIID32,AIID,closure,scope,not_recovered,not_recovered,3252,no,
+V25R032,AIID32,AIID,closure,evidence_basis,not_recovered,not_recovered,3252,yes,investigation | report
+V25R032,AIID32,AIID,closure,date,not_recovered,not_recovered,3252,yes,2024
+V25R032,AIID32,AIID,closure,owner,not_recovered,not_recovered,3252,no,
+V25R032,AIID32,AIID,closure,uncertainty,not_recovered,not_recovered,3252,no,
+V25R032,AIID32,AIID,closure,reopening_rule,not_recovered,not_recovered,3252,no,
+V25R033,AIID33,AIID,exposure,unit,not_recovered,not_recovered,3060,yes,the system is
+V25R033,AIID33,AIID,exposure,eligibility,not_recovered,not_recovered,3060,no,
+V25R033,AIID33,AIID,exposure,time_origin,not_recovered,not_recovered,3060,yes,2016 | in 2013
+V25R033,AIID33,AIID,exposure,coverage,not_recovered,not_recovered,3060,no,
+V25R033,AIID33,AIID,follow_up,calendar_interval,not_recovered,not_recovered,3060,no,
+V25R033,AIID33,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,3060,no,
+V25R033,AIID33,AIID,follow_up,trace_coverage,not_recovered,not_recovered,3060,yes,Log | Register
+V25R033,AIID33,AIID,follow_up,owner,not_recovered,not_recovered,3060,yes,Board
+V25R033,AIID33,AIID,closure,scope,not_recovered,not_recovered,3060,no,
+V25R033,AIID33,AIID,closure,evidence_basis,not_recovered,not_recovered,3060,no,
+V25R033,AIID33,AIID,closure,date,not_recovered,not_recovered,3060,yes,2016
+V25R033,AIID33,AIID,closure,owner,not_recovered,not_recovered,3060,yes,Board
+V25R033,AIID33,AIID,closure,uncertainty,not_recovered,not_recovered,3060,yes,further | could not
+V25R033,AIID33,AIID,closure,reopening_rule,not_recovered,not_recovered,3060,no,
+V25R034,AIID34,AIID,exposure,unit,not_recovered,not_recovered,2773,no,
+V25R034,AIID34,AIID,exposure,eligibility,not_recovered,not_recovered,2773,no,
+V25R034,AIID34,AIID,exposure,time_origin,not_recovered,not_recovered,2773,no,
+V25R034,AIID34,AIID,exposure,coverage,not_recovered,not_recovered,2773,no,
+V25R034,AIID34,AIID,follow_up,calendar_interval,not_recovered,not_recovered,2773,no,
+V25R034,AIID34,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,2773,no,
+V25R034,AIID34,AIID,follow_up,trace_coverage,not_recovered,not_recovered,2773,no,
+V25R034,AIID34,AIID,follow_up,owner,not_recovered,not_recovered,2773,yes,team
+V25R034,AIID34,AIID,closure,scope,not_recovered,not_recovered,2773,no,
+V25R034,AIID34,AIID,closure,evidence_basis,not_recovered,not_recovered,2773,yes,According to
+V25R034,AIID34,AIID,closure,date,not_recovered,not_recovered,2773,no,
+V25R034,AIID34,AIID,closure,owner,not_recovered,not_recovered,2773,no,
+V25R034,AIID34,AIID,closure,uncertainty,not_recovered,not_recovered,2773,no,
+V25R034,AIID34,AIID,closure,reopening_rule,not_recovered,not_recovered,2773,no,
+V25R035,AIID35,AIID,exposure,unit,supported,supported_by_retained_evidence,3815,no,
+V25R035,AIID35,AIID,exposure,eligibility,not_recovered,not_recovered,3815,no,
+V25R035,AIID35,AIID,exposure,time_origin,supported,supported_by_retained_evidence,3815,yes,2025 | deployed in | in 2017
+V25R035,AIID35,AIID,exposure,coverage,supported,supported_by_retained_evidence,3815,no,
+V25R035,AIID35,AIID,follow_up,calendar_interval,not_recovered,not_recovered,3815,no,
+V25R035,AIID35,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,3815,no,
+V25R035,AIID35,AIID,follow_up,trace_coverage,not_recovered,not_recovered,3815,yes,camera
+V25R035,AIID35,AIID,follow_up,owner,not_recovered,not_recovered,3815,no,
+V25R035,AIID35,AIID,closure,scope,not_recovered,not_recovered,3815,no,
+V25R035,AIID35,AIID,closure,evidence_basis,not_recovered,not_recovered,3815,no,
+V25R035,AIID35,AIID,closure,date,not_recovered,not_recovered,3815,yes,2025
+V25R035,AIID35,AIID,closure,owner,not_recovered,not_recovered,3815,no,
+V25R035,AIID35,AIID,closure,uncertainty,not_recovered,not_recovered,3815,no,
+V25R035,AIID35,AIID,closure,reopening_rule,not_recovered,not_recovered,3815,no,
+V25R036,AIID36,AIID,exposure,unit,supported,supported_by_retained_evidence,2072,no,
+V25R036,AIID36,AIID,exposure,eligibility,not_recovered,not_recovered,2072,no,
+V25R036,AIID36,AIID,exposure,time_origin,supported,supported_by_retained_evidence,2072,yes,2002
+V25R036,AIID36,AIID,exposure,coverage,supported,supported_by_retained_evidence,2072,no,
+V25R036,AIID36,AIID,follow_up,calendar_interval,not_recovered,not_recovered,2072,yes,daily
+V25R036,AIID36,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,2072,no,
+V25R036,AIID36,AIID,follow_up,trace_coverage,not_recovered,not_recovered,2072,no,
+V25R036,AIID36,AIID,follow_up,owner,not_recovered,not_recovered,2072,yes,team
+V25R036,AIID36,AIID,closure,scope,not_recovered,not_recovered,2072,no,
+V25R036,AIID36,AIID,closure,evidence_basis,not_recovered,not_recovered,2072,no,
+V25R036,AIID36,AIID,closure,date,not_recovered,not_recovered,2072,yes,2002
+V25R036,AIID36,AIID,closure,owner,not_recovered,not_recovered,2072,no,
+V25R036,AIID36,AIID,closure,uncertainty,not_recovered,not_recovered,2072,yes,However
+V25R036,AIID36,AIID,closure,reopening_rule,not_recovered,not_recovered,2072,no,
+V25R037,AIID37,AIID,exposure,unit,supported,supported_by_retained_evidence,3229,yes,scored
+V25R037,AIID37,AIID,exposure,eligibility,supported,supported_by_retained_evidence,3229,no,
+V25R037,AIID37,AIID,exposure,time_origin,supported,supported_by_retained_evidence,3229,yes,2013
+V25R037,AIID37,AIID,exposure,coverage,not_recovered,not_recovered,3229,no,
+V25R037,AIID37,AIID,follow_up,calendar_interval,not_recovered,not_recovered,3229,yes,later
+V25R037,AIID37,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,3229,no,
+V25R037,AIID37,AIID,follow_up,trace_coverage,not_recovered,not_recovered,3229,yes,Log
+V25R037,AIID37,AIID,follow_up,owner,not_recovered,not_recovered,3229,yes,department | reviewers
+V25R037,AIID37,AIID,closure,scope,supported,supported_by_retained_evidence,3229,no,
+V25R037,AIID37,AIID,closure,evidence_basis,supported,not_recovered,3229,no,
+V25R037,AIID37,AIID,closure,date,not_recovered,not_recovered,3229,yes,2013
+V25R037,AIID37,AIID,closure,owner,supported,supported_by_retained_evidence,3229,yes,department | decision
+V25R037,AIID37,AIID,closure,uncertainty,not_recovered,not_recovered,3229,yes,however
+V25R037,AIID37,AIID,closure,reopening_rule,not_recovered,not_recovered,3229,no,
+V25R038,AIID38,AIID,exposure,unit,supported,supported_by_retained_evidence,2936,no,
+V25R038,AIID38,AIID,exposure,eligibility,not_recovered,not_recovered,2936,no,
+V25R038,AIID38,AIID,exposure,time_origin,not_recovered,not_recovered,2936,no,
+V25R038,AIID38,AIID,exposure,coverage,not_recovered,not_recovered,2936,yes,percentage
+V25R038,AIID38,AIID,follow_up,calendar_interval,not_recovered,not_recovered,2936,yes,later
+V25R038,AIID38,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,2936,no,
+V25R038,AIID38,AIID,follow_up,trace_coverage,not_recovered,not_recovered,2936,no,
+V25R038,AIID38,AIID,follow_up,owner,not_recovered,not_recovered,2936,no,
+V25R038,AIID38,AIID,closure,scope,not_recovered,not_recovered,2936,no,
+V25R038,AIID38,AIID,closure,evidence_basis,not_recovered,not_recovered,2936,no,
+V25R038,AIID38,AIID,closure,date,not_recovered,not_recovered,2936,no,
+V25R038,AIID38,AIID,closure,owner,not_recovered,not_recovered,2936,no,
+V25R038,AIID38,AIID,closure,uncertainty,not_recovered,not_recovered,2936,no,
+V25R038,AIID38,AIID,closure,reopening_rule,not_recovered,not_recovered,2936,no,
+V25R039,AIID39,AIID,exposure,unit,supported,supported_by_retained_evidence,3607,no,
+V25R039,AIID39,AIID,exposure,eligibility,not_recovered,not_recovered,3607,no,
+V25R039,AIID39,AIID,exposure,time_origin,supported,supported_by_retained_evidence,3607,yes,"January 17, 2018 | 2018 | between 2013 and"
+V25R039,AIID39,AIID,exposure,coverage,supported,not_recovered,3607,yes,percent
+V25R039,AIID39,AIID,follow_up,calendar_interval,supported,supported_by_retained_evidence,3607,yes,"within two years | between 2013 and 2014). In her opinion, Justice Ann Walsh"
+V25R039,AIID39,AIID,follow_up,exposure_qualified_observation,supported,supported_by_retained_evidence,3607,yes,found driving a car that had been used in a
+V25R039,AIID39,AIID,follow_up,trace_coverage,not_recovered,not_recovered,3607,yes,record | dataset
+V25R039,AIID39,AIID,follow_up,owner,not_recovered,not_recovered,3607,yes,court | officer | court
+V25R039,AIID39,AIID,closure,scope,supported,supported_by_retained_evidence,3607,no,
+V25R039,AIID39,AIID,closure,evidence_basis,supported,supported_by_retained_evidence,3607,yes,based on | finding | report
+V25R039,AIID39,AIID,closure,date,not_recovered,not_recovered,3607,yes,"January 17, 2018 | 2018"
+V25R039,AIID39,AIID,closure,owner,supported,supported_by_retained_evidence,3607,yes,court
+V25R039,AIID39,AIID,closure,uncertainty,not_recovered,not_recovered,3607,yes,further | cannot
+V25R039,AIID39,AIID,closure,reopening_rule,not_recovered,not_recovered,3607,yes,appeal
+V25R040,AIID40,AIID,exposure,unit,not_recovered,not_recovered,3609,no,
+V25R040,AIID40,AIID,exposure,eligibility,not_recovered,not_recovered,3609,yes,criteria
+V25R040,AIID40,AIID,exposure,time_origin,not_recovered,not_recovered,3609,yes,2026
+V25R040,AIID40,AIID,exposure,coverage,not_recovered,not_recovered,3609,no,
+V25R040,AIID40,AIID,follow_up,calendar_interval,not_recovered,not_recovered,3609,no,
+V25R040,AIID40,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,3609,no,
+V25R040,AIID40,AIID,follow_up,trace_coverage,not_recovered,not_recovered,3609,yes,Database | dataset | Registry | Metadata | Documentation
+V25R040,AIID40,AIID,follow_up,owner,not_recovered,not_recovered,3609,no,
+V25R040,AIID40,AIID,closure,scope,not_recovered,not_recovered,3609,no,
+V25R040,AIID40,AIID,closure,evidence_basis,not_recovered,not_recovered,3609,no,
+V25R040,AIID40,AIID,closure,date,not_recovered,not_recovered,3609,yes,2026
+V25R040,AIID40,AIID,closure,owner,not_recovered,not_recovered,3609,no,
+V25R040,AIID40,AIID,closure,uncertainty,not_recovered,not_recovered,3609,no,
+V25R040,AIID40,AIID,closure,reopening_rule,not_recovered,not_recovered,3609,no,
+V25R041,PUB01,direct,exposure,unit,not_recovered,not_recovered,4129,no,
+V25R041,PUB01,direct,exposure,eligibility,not_recovered,not_recovered,4129,no,
+V25R041,PUB01,direct,exposure,time_origin,not_recovered,not_recovered,4129,yes,6 February 2018 | 2018 | Published
+V25R041,PUB01,direct,exposure,coverage,not_recovered,not_recovered,4129,yes,out of thousands
+V25R041,PUB01,direct,follow_up,calendar_interval,not_recovered,not_recovered,4129,yes,Daily | between Lucy Letby and her married doctor 'boyfriend' - as
+V25R041,PUB01,direct,follow_up,exposure_qualified_observation,not_recovered,not_recovered,4129,yes,found guilty of indecently assaulting two teenage pupils in the
+V25R041,PUB01,direct,follow_up,trace_coverage,not_recovered,not_recovered,4129,yes,footage
+V25R041,PUB01,direct,follow_up,owner,not_recovered,not_recovered,4129,yes,police | Investigators | police
+V25R041,PUB01,direct,closure,scope,not_recovered,not_recovered,4129,no,
+V25R041,PUB01,direct,closure,evidence_basis,not_recovered,not_recovered,4129,yes,investigation | footage
+V25R041,PUB01,direct,closure,date,not_recovered,not_recovered,4129,yes,6 February 2018 | 2018 | Published
+V25R041,PUB01,direct,closure,owner,not_recovered,not_recovered,4129,yes,police
+V25R041,PUB01,direct,closure,uncertainty,not_recovered,not_recovered,4129,yes,ongoing
+V25R041,PUB01,direct,closure,reopening_rule,not_recovered,not_recovered,4129,no,
+V25R042,PUB02,direct,exposure,unit,supported,supported_by_retained_evidence,1292,yes,189 people
+V25R042,PUB02,direct,exposure,eligibility,not_recovered,not_recovered,1292,no,
+V25R042,PUB02,direct,exposure,time_origin,not_recovered,not_recovered,1292,no,
+V25R042,PUB02,direct,exposure,coverage,supported,not_recovered,1292,yes,all 189
+V25R042,PUB02,direct,follow_up,calendar_interval,not_recovered,not_recovered,1292,no,
+V25R042,PUB02,direct,follow_up,exposure_qualified_observation,not_recovered,not_recovered,1292,no,
+V25R042,PUB02,direct,follow_up,trace_coverage,not_recovered,not_recovered,1292,no,
+V25R042,PUB02,direct,follow_up,owner,supported,supported_by_retained_evidence,1292,yes,board
+V25R042,PUB02,direct,closure,scope,not_recovered,not_recovered,1292,no,
+V25R042,PUB02,direct,closure,evidence_basis,not_recovered,not_recovered,1292,yes,evidence | investigation | report
+V25R042,PUB02,direct,closure,date,not_recovered,not_recovered,1292,yes,issued
+V25R042,PUB02,direct,closure,owner,not_recovered,not_recovered,1292,yes,board
+V25R042,PUB02,direct,closure,uncertainty,not_recovered,not_recovered,1292,no,
+V25R042,PUB02,direct,closure,reopening_rule,not_recovered,not_recovered,1292,no,
+V25R043,PUB03,direct,exposure,unit,supported,supported_by_retained_evidence,1587,no,
+V25R043,PUB03,direct,exposure,eligibility,not_recovered,not_recovered,1587,yes,must be
+V25R043,PUB03,direct,exposure,time_origin,not_recovered,not_recovered,1587,yes,2016 | from 2016
+V25R043,PUB03,direct,exposure,coverage,not_recovered,not_recovered,1587,no,
+V25R043,PUB03,direct,follow_up,calendar_interval,not_recovered,not_recovered,1587,no,
+V25R043,PUB03,direct,follow_up,exposure_qualified_observation,not_recovered,not_recovered,1587,no,
+V25R043,PUB03,direct,follow_up,trace_coverage,not_recovered,not_recovered,1587,yes,trace
+V25R043,PUB03,direct,follow_up,owner,not_recovered,not_recovered,1587,yes,Department | unit
+V25R043,PUB03,direct,closure,scope,not_recovered,not_recovered,1587,no,
+V25R043,PUB03,direct,closure,evidence_basis,not_recovered,not_recovered,1587,yes,based on | evidence | report
+V25R043,PUB03,direct,closure,date,not_recovered,not_recovered,1587,yes,2016 | issued
+V25R043,PUB03,direct,closure,owner,not_recovered,not_recovered,1587,yes,Department
+V25R043,PUB03,direct,closure,uncertainty,not_recovered,not_recovered,1587,no,
+V25R043,PUB03,direct,closure,reopening_rule,not_recovered,not_recovered,1587,no,
+V25R044,PUB04,direct,exposure,unit,supported,supported_by_retained_evidence,990,no,
+V25R044,PUB04,direct,exposure,eligibility,not_recovered,not_recovered,990,no,
+V25R044,PUB04,direct,exposure,time_origin,supported,supported_by_retained_evidence,990,yes,"March 23, 2016 | 2016"
+V25R044,PUB04,direct,exposure,coverage,not_recovered,not_recovered,990,no,
+V25R044,PUB04,direct,follow_up,calendar_interval,supported,supported_by_retained_evidence,990,yes,subsequent
+V25R044,PUB04,direct,follow_up,exposure_qualified_observation,not_recovered,not_recovered,990,no,
+V25R044,PUB04,direct,follow_up,trace_coverage,not_recovered,not_recovered,990,no,
+V25R044,PUB04,direct,follow_up,owner,supported,supported_by_retained_evidence,990,no,
+V25R044,PUB04,direct,closure,scope,supported,supported_by_retained_evidence,990,no,
+V25R044,PUB04,direct,closure,evidence_basis,supported,supported_by_retained_evidence,990,yes,According to | based on
+V25R044,PUB04,direct,closure,date,supported,supported_by_retained_evidence,990,yes,"March 23, 2016 | 2016"
+V25R044,PUB04,direct,closure,owner,supported,supported_by_retained_evidence,990,no,
+V25R044,PUB04,direct,closure,uncertainty,not_recovered,not_recovered,990,no,
+V25R044,PUB04,direct,closure,reopening_rule,not_recovered,not_recovered,990,yes,appeal
+V25R045,PUB05,direct,exposure,unit,supported,supported_by_retained_evidence,1070,no,
+V25R045,PUB05,direct,exposure,eligibility,supported,supported_by_retained_evidence,1070,no,
+V25R045,PUB05,direct,exposure,time_origin,not_recovered,not_recovered,1070,yes,published
+V25R045,PUB05,direct,exposure,coverage,not_recovered,not_recovered,1070,no,
+V25R045,PUB05,direct,follow_up,calendar_interval,not_recovered,not_recovered,1070,yes,annual | later
+V25R045,PUB05,direct,follow_up,exposure_qualified_observation,not_recovered,not_recovered,1070,no,
+V25R045,PUB05,direct,follow_up,trace_coverage,not_recovered,not_recovered,1070,yes,database
+V25R045,PUB05,direct,follow_up,owner,not_recovered,not_recovered,1070,no,
+V25R045,PUB05,direct,closure,scope,not_recovered,not_recovered,1070,no,
+V25R045,PUB05,direct,closure,evidence_basis,not_recovered,not_recovered,1070,yes,determined that
+V25R045,PUB05,direct,closure,date,not_recovered,not_recovered,1070,yes,published
+V25R045,PUB05,direct,closure,owner,not_recovered,not_recovered,1070,no,
+V25R045,PUB05,direct,closure,uncertainty,not_recovered,not_recovered,1070,no,
+V25R045,PUB05,direct,closure,reopening_rule,not_recovered,not_recovered,1070,yes,appeals
+V25R046,PUB06,direct,exposure,unit,supported,supported_by_retained_evidence,3076,no,
+V25R046,PUB06,direct,exposure,eligibility,supported,supported_by_retained_evidence,3076,no,
+V25R046,PUB06,direct,exposure,time_origin,not_recovered,not_recovered,3076,yes,"May 14, 2009 | 2026 | published"
+V25R046,PUB06,direct,exposure,coverage,not_recovered,not_recovered,3076,no,
+V25R046,PUB06,direct,follow_up,calendar_interval,not_recovered,not_recovered,3076,yes,21 Years
+V25R046,PUB06,direct,follow_up,exposure_qualified_observation,not_recovered,not_recovered,3076,no,
+V25R046,PUB06,direct,follow_up,trace_coverage,not_recovered,not_recovered,3076,no,
+V25R046,PUB06,direct,follow_up,owner,not_recovered,not_recovered,3076,no,
+V25R046,PUB06,direct,closure,scope,not_recovered,not_recovered,3076,no,
+V25R046,PUB06,direct,closure,evidence_basis,not_recovered,not_recovered,3076,yes,statement
+V25R046,PUB06,direct,closure,date,not_recovered,not_recovered,3076,yes,"May 14, 2009 | 2026 | published"
+V25R046,PUB06,direct,closure,owner,not_recovered,not_recovered,3076,no,
+V25R046,PUB06,direct,closure,uncertainty,not_recovered,not_recovered,3076,no,
+V25R046,PUB06,direct,closure,reopening_rule,not_recovered,not_recovered,3076,no,
+V25R047,PUB07,direct,exposure,unit,not_recovered,not_recovered,3348,no,
+V25R047,PUB07,direct,exposure,eligibility,not_recovered,not_recovered,3348,no,
+V25R047,PUB07,direct,exposure,time_origin,not_recovered,not_recovered,3348,yes,2018 | from 2022 | in 2015
+V25R047,PUB07,direct,exposure,coverage,not_recovered,not_recovered,3348,no,
+V25R047,PUB07,direct,follow_up,calendar_interval,supported,supported_by_retained_evidence,3348,yes,later | years later
+V25R047,PUB07,direct,follow_up,exposure_qualified_observation,supported,supported_by_retained_evidence,3348,no,
+V25R047,PUB07,direct,follow_up,trace_coverage,not_recovered,not_recovered,3348,yes,Database | camera
+V25R047,PUB07,direct,follow_up,owner,supported,supported_by_retained_evidence,3348,no,
+V25R047,PUB07,direct,closure,scope,supported,supported_by_retained_evidence,3348,no,
+V25R047,PUB07,direct,closure,evidence_basis,supported,supported_by_retained_evidence,3348,yes,according to
+V25R047,PUB07,direct,closure,date,not_recovered,not_recovered,3348,yes,2018
+V25R047,PUB07,direct,closure,owner,supported,supported_by_retained_evidence,3348,no,
+V25R047,PUB07,direct,closure,uncertainty,supported,supported_by_retained_evidence,3348,yes,Remains
+V25R047,PUB07,direct,closure,reopening_rule,not_recovered,not_recovered,3348,no,
+V25R048,PUB08,direct,exposure,unit,supported,supported_by_retained_evidence,3719,no,
+V25R048,PUB08,direct,exposure,eligibility,supported,supported_by_retained_evidence,3719,no,
+V25R048,PUB08,direct,exposure,time_origin,not_recovered,not_recovered,3719,yes,2018 | in 2016
+V25R048,PUB08,direct,exposure,coverage,supported,supported_by_retained_evidence,3719,no,
+V25R048,PUB08,direct,follow_up,calendar_interval,supported,not_recovered,3719,no,
+V25R048,PUB08,direct,follow_up,exposure_qualified_observation,supported,not_recovered,3719,yes,monitoring
+V25R048,PUB08,direct,follow_up,trace_coverage,not_recovered,not_recovered,3719,no,
+V25R048,PUB08,direct,follow_up,owner,not_recovered,not_recovered,3719,yes,police | Division | FCC | police
+V25R048,PUB08,direct,closure,scope,not_recovered,not_recovered,3719,no,
+V25R048,PUB08,direct,closure,evidence_basis,not_recovered,not_recovered,3719,no,
+V25R048,PUB08,direct,closure,date,not_recovered,not_recovered,3719,yes,2018
+V25R048,PUB08,direct,closure,owner,not_recovered,not_recovered,3719,yes,police | FCC
+V25R048,PUB08,direct,closure,uncertainty,not_recovered,not_recovered,3719,no,
+V25R048,PUB08,direct,closure,reopening_rule,not_recovered,not_recovered,3719,no,
+V25R049,PUB09,direct,exposure,unit,not_recovered,not_recovered,2568,no,
+V25R049,PUB09,direct,exposure,eligibility,not_recovered,not_recovered,2568,no,
+V25R049,PUB09,direct,exposure,time_origin,not_recovered,not_recovered,2568,no,
+V25R049,PUB09,direct,exposure,coverage,not_recovered,not_recovered,2568,no,
+V25R049,PUB09,direct,follow_up,calendar_interval,supported,supported_by_retained_evidence,2568,yes,Weekly
+V25R049,PUB09,direct,follow_up,exposure_qualified_observation,not_recovered,not_recovered,2568,no,
+V25R049,PUB09,direct,follow_up,trace_coverage,not_recovered,not_recovered,2568,no,
+V25R049,PUB09,direct,follow_up,owner,supported,supported_by_retained_evidence,2568,no,
+V25R049,PUB09,direct,closure,scope,not_recovered,not_recovered,2568,no,
+V25R049,PUB09,direct,closure,evidence_basis,not_recovered,not_recovered,2568,yes,investigation | testimony | statements
+V25R049,PUB09,direct,closure,date,not_recovered,not_recovered,2568,yes,issued
+V25R049,PUB09,direct,closure,owner,not_recovered,not_recovered,2568,no,
+V25R049,PUB09,direct,closure,uncertainty,not_recovered,not_recovered,2568,yes,ongoing | further
+V25R049,PUB09,direct,closure,reopening_rule,not_recovered,not_recovered,2568,no,
+V25R050,PUB10,direct,exposure,unit,not_recovered,not_recovered,1523,no,
+V25R050,PUB10,direct,exposure,eligibility,not_recovered,not_recovered,1523,no,
+V25R050,PUB10,direct,exposure,time_origin,not_recovered,not_recovered,1523,yes,1993
+V25R050,PUB10,direct,exposure,coverage,not_recovered,not_recovered,1523,no,
+V25R050,PUB10,direct,follow_up,calendar_interval,supported,supported_by_retained_evidence,1523,yes,daily | later
+V25R050,PUB10,direct,follow_up,exposure_qualified_observation,supported,supported_by_retained_evidence,1523,yes,reviewed
+V25R050,PUB10,direct,follow_up,trace_coverage,not_recovered,not_recovered,1523,yes,footage | camera
+V25R050,PUB10,direct,follow_up,owner,supported,supported_by_retained_evidence,1523,yes,police | police | Court
+V25R050,PUB10,direct,closure,scope,not_recovered,not_recovered,1523,no,
+V25R050,PUB10,direct,closure,evidence_basis,not_recovered,not_recovered,1523,yes,footage
+V25R050,PUB10,direct,closure,date,not_recovered,not_recovered,1523,yes,1993
+V25R050,PUB10,direct,closure,owner,not_recovered,not_recovered,1523,yes,police
+V25R050,PUB10,direct,closure,uncertainty,not_recovered,not_recovered,1523,no,
+V25R050,PUB10,direct,closure,reopening_rule,not_recovered,not_recovered,1523,yes,Appeal
+V25R051,OECD01,OECD AIM,exposure,unit,not_recovered,not_recovered,2462,no,
+V25R051,OECD01,OECD AIM,exposure,eligibility,not_recovered,not_recovered,2462,yes,must be
+V25R051,OECD01,OECD AIM,exposure,time_origin,not_recovered,not_recovered,2462,yes,2023
+V25R051,OECD01,OECD AIM,exposure,coverage,not_recovered,not_recovered,2462,no,
+V25R051,OECD01,OECD AIM,follow_up,calendar_interval,not_recovered,not_recovered,2462,no,
+V25R051,OECD01,OECD AIM,follow_up,exposure_qualified_observation,not_recovered,not_recovered,2462,yes,Monitoring
+V25R051,OECD01,OECD AIM,follow_up,trace_coverage,not_recovered,not_recovered,2462,no,
+V25R051,OECD01,OECD AIM,follow_up,owner,not_recovered,not_recovered,2462,no,
+V25R051,OECD01,OECD AIM,closure,scope,not_recovered,not_recovered,2462,no,
+V25R051,OECD01,OECD AIM,closure,evidence_basis,not_recovered,not_recovered,2462,no,
+V25R051,OECD01,OECD AIM,closure,date,not_recovered,not_recovered,2462,yes,2023-09-12 | 2023
+V25R051,OECD01,OECD AIM,closure,owner,not_recovered,not_recovered,2462,no,
+V25R051,OECD01,OECD AIM,closure,uncertainty,not_recovered,not_recovered,2462,no,
+V25R051,OECD01,OECD AIM,closure,reopening_rule,not_recovered,not_recovered,2462,no,
+V25R052,OECD02,OECD AIM,exposure,unit,not_recovered,not_recovered,2280,no,
+V25R052,OECD02,OECD AIM,exposure,eligibility,not_recovered,not_recovered,2280,yes,must be
+V25R052,OECD02,OECD AIM,exposure,time_origin,not_recovered,not_recovered,2280,yes,2026
+V25R052,OECD02,OECD AIM,exposure,coverage,not_recovered,not_recovered,2280,no,
+V25R052,OECD02,OECD AIM,follow_up,calendar_interval,not_recovered,not_recovered,2280,yes,Daily
+V25R052,OECD02,OECD AIM,follow_up,exposure_qualified_observation,not_recovered,not_recovered,2280,no,
+V25R052,OECD02,OECD AIM,follow_up,trace_coverage,not_recovered,not_recovered,2280,no,
+V25R052,OECD02,OECD AIM,follow_up,owner,not_recovered,not_recovered,2280,no,
+V25R052,OECD02,OECD AIM,closure,scope,not_recovered,not_recovered,2280,no,
+V25R052,OECD02,OECD AIM,closure,evidence_basis,not_recovered,not_recovered,2280,no,
+V25R052,OECD02,OECD AIM,closure,date,not_recovered,not_recovered,2280,yes,2026-07-16 | 2026
+V25R052,OECD02,OECD AIM,closure,owner,not_recovered,not_recovered,2280,no,
+V25R052,OECD02,OECD AIM,closure,uncertainty,not_recovered,not_recovered,2280,no,
+V25R052,OECD02,OECD AIM,closure,reopening_rule,not_recovered,not_recovered,2280,no,
+V25R053,OECD03,OECD AIM,exposure,unit,not_recovered,not_recovered,2391,no,
+V25R053,OECD03,OECD AIM,exposure,eligibility,not_recovered,not_recovered,2391,yes,must be
+V25R053,OECD03,OECD AIM,exposure,time_origin,not_recovered,not_recovered,2391,yes,2026
+V25R053,OECD03,OECD AIM,exposure,coverage,not_recovered,not_recovered,2391,no,
+V25R053,OECD03,OECD AIM,follow_up,calendar_interval,not_recovered,not_recovered,2391,no,
+V25R053,OECD03,OECD AIM,follow_up,exposure_qualified_observation,not_recovered,not_recovered,2391,no,
+V25R053,OECD03,OECD AIM,follow_up,trace_coverage,not_recovered,not_recovered,2391,no,
+V25R053,OECD03,OECD AIM,follow_up,owner,not_recovered,not_recovered,2391,yes,police | police
+V25R053,OECD03,OECD AIM,closure,scope,not_recovered,not_recovered,2391,no,
+V25R053,OECD03,OECD AIM,closure,evidence_basis,not_recovered,not_recovered,2391,yes,investigation
+V25R053,OECD03,OECD AIM,closure,date,not_recovered,not_recovered,2391,yes,2026-04-23 | 2026
+V25R053,OECD03,OECD AIM,closure,owner,not_recovered,not_recovered,2391,yes,police
+V25R053,OECD03,OECD AIM,closure,uncertainty,not_recovered,not_recovered,2391,no,
+V25R053,OECD03,OECD AIM,closure,reopening_rule,not_recovered,not_recovered,2391,no,
+V25R054,OECD04,OECD AIM,exposure,unit,not_recovered,not_recovered,2266,no,
+V25R054,OECD04,OECD AIM,exposure,eligibility,not_recovered,not_recovered,2266,yes,must be
+V25R054,OECD04,OECD AIM,exposure,time_origin,not_recovered,not_recovered,2266,yes,2023
+V25R054,OECD04,OECD AIM,exposure,coverage,not_recovered,not_recovered,2266,no,
+V25R054,OECD04,OECD AIM,follow_up,calendar_interval,not_recovered,not_recovered,2266,no,
+V25R054,OECD04,OECD AIM,follow_up,exposure_qualified_observation,not_recovered,not_recovered,2266,no,
+V25R054,OECD04,OECD AIM,follow_up,trace_coverage,not_recovered,not_recovered,2266,no,
+V25R054,OECD04,OECD AIM,follow_up,owner,not_recovered,not_recovered,2266,no,
+V25R054,OECD04,OECD AIM,closure,scope,not_recovered,not_recovered,2266,no,
+V25R054,OECD04,OECD AIM,closure,evidence_basis,not_recovered,not_recovered,2266,no,
+V25R054,OECD04,OECD AIM,closure,date,not_recovered,not_recovered,2266,yes,2023-10-07 | 2023
+V25R054,OECD04,OECD AIM,closure,owner,not_recovered,not_recovered,2266,no,
+V25R054,OECD04,OECD AIM,closure,uncertainty,not_recovered,not_recovered,2266,yes,ongoing
+V25R054,OECD04,OECD AIM,closure,reopening_rule,not_recovered,not_recovered,2266,no,
+V25R055,OECD05,OECD AIM,exposure,unit,not_recovered,not_recovered,2505,no,
+V25R055,OECD05,OECD AIM,exposure,eligibility,not_recovered,not_recovered,2505,yes,must be
+V25R055,OECD05,OECD AIM,exposure,time_origin,not_recovered,not_recovered,2505,yes,2023
+V25R055,OECD05,OECD AIM,exposure,coverage,not_recovered,not_recovered,2505,no,
+V25R055,OECD05,OECD AIM,follow_up,calendar_interval,not_recovered,not_recovered,2505,no,
+V25R055,OECD05,OECD AIM,follow_up,exposure_qualified_observation,not_recovered,not_recovered,2505,yes,Monitoring
+V25R055,OECD05,OECD AIM,follow_up,trace_coverage,not_recovered,not_recovered,2505,no,
+V25R055,OECD05,OECD AIM,follow_up,owner,not_recovered,not_recovered,2505,yes,police | officer | police
+V25R055,OECD05,OECD AIM,closure,scope,not_recovered,not_recovered,2505,no,
+V25R055,OECD05,OECD AIM,closure,evidence_basis,not_recovered,not_recovered,2505,no,
+V25R055,OECD05,OECD AIM,closure,date,not_recovered,not_recovered,2505,yes,2023-10-12 | 2023
+V25R055,OECD05,OECD AIM,closure,owner,not_recovered,not_recovered,2505,yes,police
+V25R055,OECD05,OECD AIM,closure,uncertainty,not_recovered,not_recovered,2505,no,
+V25R055,OECD05,OECD AIM,closure,reopening_rule,not_recovered,not_recovered,2505,no,
+V25R056,OECD06,OECD AIM,exposure,unit,not_recovered,not_recovered,2133,no,
+V25R056,OECD06,OECD AIM,exposure,eligibility,not_recovered,not_recovered,2133,yes,must be
+V25R056,OECD06,OECD AIM,exposure,time_origin,not_recovered,not_recovered,2133,no,
+V25R056,OECD06,OECD AIM,exposure,coverage,not_recovered,not_recovered,2133,no,
+V25R056,OECD06,OECD AIM,follow_up,calendar_interval,not_recovered,not_recovered,2133,no,
+V25R056,OECD06,OECD AIM,follow_up,exposure_qualified_observation,not_recovered,not_recovered,2133,no,
+V25R056,OECD06,OECD AIM,follow_up,trace_coverage,not_recovered,not_recovered,2133,no,
+V25R056,OECD06,OECD AIM,follow_up,owner,not_recovered,not_recovered,2133,no,
+V25R056,OECD06,OECD AIM,closure,scope,not_recovered,not_recovered,2133,no,
+V25R056,OECD06,OECD AIM,closure,evidence_basis,not_recovered,not_recovered,2133,no,
+V25R056,OECD06,OECD AIM,closure,date,not_recovered,not_recovered,2133,no,
+V25R056,OECD06,OECD AIM,closure,owner,not_recovered,not_recovered,2133,no,
+V25R056,OECD06,OECD AIM,closure,uncertainty,not_recovered,not_recovered,2133,no,
+V25R056,OECD06,OECD AIM,closure,reopening_rule,not_recovered,not_recovered,2133,no,
+V25R057,OECD07,OECD AIM,exposure,unit,not_recovered,not_recovered,2310,no,
+V25R057,OECD07,OECD AIM,exposure,eligibility,not_recovered,not_recovered,2310,yes,must be
+V25R057,OECD07,OECD AIM,exposure,time_origin,not_recovered,not_recovered,2310,yes,2025
+V25R057,OECD07,OECD AIM,exposure,coverage,not_recovered,not_recovered,2310,no,
+V25R057,OECD07,OECD AIM,follow_up,calendar_interval,not_recovered,not_recovered,2310,no,
+V25R057,OECD07,OECD AIM,follow_up,exposure_qualified_observation,not_recovered,not_recovered,2310,no,
+V25R057,OECD07,OECD AIM,follow_up,trace_coverage,not_recovered,not_recovered,2310,no,
+V25R057,OECD07,OECD AIM,follow_up,owner,not_recovered,not_recovered,2310,no,
+V25R057,OECD07,OECD AIM,closure,scope,not_recovered,not_recovered,2310,no,
+V25R057,OECD07,OECD AIM,closure,evidence_basis,not_recovered,not_recovered,2310,no,
+V25R057,OECD07,OECD AIM,closure,date,not_recovered,not_recovered,2310,yes,2025-04-07 | 2025
+V25R057,OECD07,OECD AIM,closure,owner,not_recovered,not_recovered,2310,yes,decision
+V25R057,OECD07,OECD AIM,closure,uncertainty,not_recovered,not_recovered,2310,no,
+V25R057,OECD07,OECD AIM,closure,reopening_rule,not_recovered,not_recovered,2310,no,
+V25R058,OECD08,OECD AIM,exposure,unit,not_recovered,not_recovered,2277,no,
+V25R058,OECD08,OECD AIM,exposure,eligibility,not_recovered,not_recovered,2277,yes,must be
+V25R058,OECD08,OECD AIM,exposure,time_origin,not_recovered,not_recovered,2277,no,
+V25R058,OECD08,OECD AIM,exposure,coverage,not_recovered,not_recovered,2277,no,
+V25R058,OECD08,OECD AIM,follow_up,calendar_interval,not_recovered,not_recovered,2277,no,
+V25R058,OECD08,OECD AIM,follow_up,exposure_qualified_observation,not_recovered,not_recovered,2277,no,
+V25R058,OECD08,OECD AIM,follow_up,trace_coverage,not_recovered,not_recovered,2277,no,
+V25R058,OECD08,OECD AIM,follow_up,owner,not_recovered,not_recovered,2277,no,
+V25R058,OECD08,OECD AIM,closure,scope,not_recovered,not_recovered,2277,no,
+V25R058,OECD08,OECD AIM,closure,evidence_basis,not_recovered,not_recovered,2277,no,
+V25R058,OECD08,OECD AIM,closure,date,not_recovered,not_recovered,2277,no,
+V25R058,OECD08,OECD AIM,closure,owner,not_recovered,not_recovered,2277,no,
+V25R058,OECD08,OECD AIM,closure,uncertainty,not_recovered,not_recovered,2277,no,
+V25R058,OECD08,OECD AIM,closure,reopening_rule,not_recovered,not_recovered,2277,no,
+V25R059,OECD09,OECD AIM,exposure,unit,not_recovered,not_recovered,2416,no,
+V25R059,OECD09,OECD AIM,exposure,eligibility,not_recovered,not_recovered,2416,yes,must be
+V25R059,OECD09,OECD AIM,exposure,time_origin,not_recovered,not_recovered,2416,no,
+V25R059,OECD09,OECD AIM,exposure,coverage,not_recovered,not_recovered,2416,no,
+V25R059,OECD09,OECD AIM,follow_up,calendar_interval,not_recovered,not_recovered,2416,no,
+V25R059,OECD09,OECD AIM,follow_up,exposure_qualified_observation,not_recovered,not_recovered,2416,yes,"reported, the credible risk of harm due to biased data and model outpu..."
+V25R059,OECD09,OECD AIM,follow_up,trace_coverage,not_recovered,not_recovered,2416,no,
+V25R059,OECD09,OECD AIM,follow_up,owner,not_recovered,not_recovered,2416,no,
+V25R059,OECD09,OECD AIM,closure,scope,not_recovered,not_recovered,2416,no,
+V25R059,OECD09,OECD AIM,closure,evidence_basis,not_recovered,not_recovered,2416,no,
+V25R059,OECD09,OECD AIM,closure,date,not_recovered,not_recovered,2416,no,
+V25R059,OECD09,OECD AIM,closure,owner,not_recovered,not_recovered,2416,no,
+V25R059,OECD09,OECD AIM,closure,uncertainty,not_recovered,not_recovered,2416,no,
+V25R059,OECD09,OECD AIM,closure,reopening_rule,not_recovered,not_recovered,2416,no,
+V25R060,OECD10,OECD AIM,exposure,unit,not_recovered,not_recovered,2179,no,
+V25R060,OECD10,OECD AIM,exposure,eligibility,not_recovered,not_recovered,2179,yes,must be
+V25R060,OECD10,OECD AIM,exposure,time_origin,not_recovered,not_recovered,2179,yes,2026
+V25R060,OECD10,OECD AIM,exposure,coverage,not_recovered,not_recovered,2179,no,
+V25R060,OECD10,OECD AIM,follow_up,calendar_interval,not_recovered,not_recovered,2179,no,
+V25R060,OECD10,OECD AIM,follow_up,exposure_qualified_observation,not_recovered,not_recovered,2179,no,
+V25R060,OECD10,OECD AIM,follow_up,trace_coverage,not_recovered,not_recovered,2179,no,
+V25R060,OECD10,OECD AIM,follow_up,owner,not_recovered,not_recovered,2179,no,
+V25R060,OECD10,OECD AIM,closure,scope,not_recovered,not_recovered,2179,no,
+V25R060,OECD10,OECD AIM,closure,evidence_basis,not_recovered,not_recovered,2179,no,
+V25R060,OECD10,OECD AIM,closure,date,not_recovered,not_recovered,2179,yes,2026-07-11 | 2026
+V25R060,OECD10,OECD AIM,closure,owner,not_recovered,not_recovered,2179,no,
+V25R060,OECD10,OECD AIM,closure,uncertainty,not_recovered,not_recovered,2179,no,
+V25R060,OECD10,OECD AIM,closure,reopening_rule,not_recovered,not_recovered,2179,no,
+V25R061,AIID001,AIID,exposure,unit,supported,supported_by_retained_evidence,3514,no,
+V25R061,AIID001,AIID,exposure,eligibility,not_recovered,not_recovered,3514,no,
+V25R061,AIID001,AIID,exposure,time_origin,not_recovered,not_recovered,3514,yes,2015
+V25R061,AIID001,AIID,exposure,coverage,not_recovered,not_recovered,3514,no,
+V25R061,AIID001,AIID,follow_up,calendar_interval,supported,supported_by_retained_evidence,3514,no,
+V25R061,AIID001,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,3514,yes,"found by journalist Laura June, shows a dentist with a huge syringe pu... | monitored"
+V25R061,AIID001,AIID,follow_up,trace_coverage,not_recovered,not_recovered,3514,yes,Database
+V25R061,AIID001,AIID,follow_up,owner,supported,supported_by_retained_evidence,3514,no,
+V25R061,AIID001,AIID,closure,scope,not_recovered,not_recovered,3514,no,
+V25R061,AIID001,AIID,closure,evidence_basis,not_recovered,not_recovered,3514,yes,Report | Submission
+V25R061,AIID001,AIID,closure,date,not_recovered,not_recovered,3514,yes,2015-05-19 | 2015 | Date 2
+V25R061,AIID001,AIID,closure,owner,not_recovered,not_recovered,3514,no,
+V25R061,AIID001,AIID,closure,uncertainty,not_recovered,not_recovered,3514,yes,unclear | Unknown | could not
+V25R061,AIID001,AIID,closure,reopening_rule,not_recovered,not_recovered,3514,yes,appeal
+V25R062,AIID003,AIID,exposure,unit,supported,supported_by_retained_evidence,3620,yes,189 people
+V25R062,AIID003,AIID,exposure,eligibility,not_recovered,not_recovered,3620,no,
+V25R062,AIID003,AIID,exposure,time_origin,not_recovered,not_recovered,3620,yes,2018
+V25R062,AIID003,AIID,exposure,coverage,supported,not_recovered,3620,yes,all 189
+V25R062,AIID003,AIID,follow_up,calendar_interval,not_recovered,not_recovered,3620,no,
+V25R062,AIID003,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,3620,no,
+V25R062,AIID003,AIID,follow_up,trace_coverage,not_recovered,not_recovered,3620,yes,Database
+V25R062,AIID003,AIID,follow_up,owner,supported,supported_by_retained_evidence,3620,yes,board
+V25R062,AIID003,AIID,closure,scope,not_recovered,not_recovered,3620,no,
+V25R062,AIID003,AIID,closure,evidence_basis,not_recovered,not_recovered,3620,yes,investigation | Report | Submission
+V25R062,AIID003,AIID,closure,date,not_recovered,not_recovered,3620,yes,2018-10-27 | 2018 | Date 2 | issued
+V25R062,AIID003,AIID,closure,owner,not_recovered,not_recovered,3620,yes,board
+V25R062,AIID003,AIID,closure,uncertainty,not_recovered,not_recovered,3620,yes,unclear | Allegedly
+V25R062,AIID003,AIID,closure,reopening_rule,not_recovered,not_recovered,3620,no,
+V25R063,AIID004,AIID,exposure,unit,supported,supported_by_retained_evidence,3788,no,
+V25R063,AIID004,AIID,exposure,eligibility,not_recovered,not_recovered,3788,yes,must be
+V25R063,AIID004,AIID,exposure,time_origin,not_recovered,not_recovered,3788,yes,2018 | from 2016 | Date of
+V25R063,AIID004,AIID,exposure,coverage,not_recovered,not_recovered,3788,no,
+V25R063,AIID004,AIID,follow_up,calendar_interval,not_recovered,not_recovered,3788,no,
+V25R063,AIID004,AIID,follow_up,exposure_qualified_observation,supported,supported_by_retained_evidence,3788,no,
+V25R063,AIID004,AIID,follow_up,trace_coverage,not_recovered,not_recovered,3788,yes,Database | trace
+V25R063,AIID004,AIID,follow_up,owner,supported,supported_by_retained_evidence,3788,yes,Department | unit
+V25R063,AIID004,AIID,closure,scope,not_recovered,not_recovered,3788,no,
+V25R063,AIID004,AIID,closure,evidence_basis,not_recovered,not_recovered,3788,yes,based on | evidence | Report
+V25R063,AIID004,AIID,closure,date,not_recovered,not_recovered,3788,yes,2018-03-18 | 2018 | Date 2 | issued
+V25R063,AIID004,AIID,closure,owner,not_recovered,not_recovered,3788,yes,Department
+V25R063,AIID004,AIID,closure,uncertainty,not_recovered,not_recovered,3788,no,
+V25R063,AIID004,AIID,closure,reopening_rule,not_recovered,not_recovered,3788,no,
+V25R064,AIID006,AIID,exposure,unit,supported,supported_by_retained_evidence,3800,no,
+V25R064,AIID006,AIID,exposure,eligibility,not_recovered,not_recovered,3800,no,
+V25R064,AIID006,AIID,exposure,time_origin,supported,supported_by_retained_evidence,3800,yes,"March 23, 2016 | 2016"
+V25R064,AIID006,AIID,exposure,coverage,not_recovered,not_recovered,3800,no,
+V25R064,AIID006,AIID,follow_up,calendar_interval,supported,supported_by_retained_evidence,3800,yes,subsequent
+V25R064,AIID006,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,3800,yes,monitored
+V25R064,AIID006,AIID,follow_up,trace_coverage,not_recovered,not_recovered,3800,yes,Database
+V25R064,AIID006,AIID,follow_up,owner,supported,supported_by_retained_evidence,3800,no,
+V25R064,AIID006,AIID,closure,scope,supported,supported_by_retained_evidence,3800,no,
+V25R064,AIID006,AIID,closure,evidence_basis,supported,supported_by_retained_evidence,3800,yes,According to | based on | Report
+V25R064,AIID006,AIID,closure,date,supported,supported_by_retained_evidence,3800,yes,"March 23, 2016 | 2016-03-24 | 2016 | Date 2"
+V25R064,AIID006,AIID,closure,owner,supported,supported_by_retained_evidence,3800,no,
+V25R064,AIID006,AIID,closure,uncertainty,not_recovered,not_recovered,3800,yes,could not | Allegedly
+V25R064,AIID006,AIID,closure,reopening_rule,not_recovered,not_recovered,3800,no,
+V25R065,AIID007,AIID,exposure,unit,supported,supported_by_retained_evidence,3227,no,
+V25R065,AIID007,AIID,exposure,eligibility,not_recovered,not_recovered,3227,no,
+V25R065,AIID007,AIID,exposure,time_origin,not_recovered,not_recovered,3227,yes,2017
+V25R065,AIID007,AIID,exposure,coverage,not_recovered,not_recovered,3227,no,
+V25R065,AIID007,AIID,follow_up,calendar_interval,supported,not_recovered,3227,no,
+V25R065,AIID007,AIID,follow_up,exposure_qualified_observation,supported,not_recovered,3227,yes,monitored
+V25R065,AIID007,AIID,follow_up,trace_coverage,not_recovered,not_recovered,3227,yes,Database
+V25R065,AIID007,AIID,follow_up,owner,not_recovered,not_recovered,3227,no,
+V25R065,AIID007,AIID,closure,scope,not_recovered,not_recovered,3227,no,
+V25R065,AIID007,AIID,closure,evidence_basis,not_recovered,not_recovered,3227,yes,Report | Submission
+V25R065,AIID007,AIID,closure,date,not_recovered,not_recovered,3227,yes,2017-02-24 | 2017 | Date 2
+V25R065,AIID007,AIID,closure,owner,not_recovered,not_recovered,3227,no,
+V25R065,AIID007,AIID,closure,uncertainty,not_recovered,not_recovered,3227,yes,could not
+V25R065,AIID007,AIID,closure,reopening_rule,not_recovered,not_recovered,3227,no,
+V25R066,AIID009,AIID,exposure,unit,supported,supported_by_retained_evidence,4545,no,
+V25R066,AIID009,AIID,exposure,eligibility,supported,supported_by_retained_evidence,4545,no,
+V25R066,AIID009,AIID,exposure,time_origin,supported,supported_by_retained_evidence,4545,yes,2012 | published
+V25R066,AIID009,AIID,exposure,coverage,supported,supported_by_retained_evidence,4545,no,
+V25R066,AIID009,AIID,follow_up,calendar_interval,not_recovered,not_recovered,4545,yes,annual | later
+V25R066,AIID009,AIID,follow_up,exposure_qualified_observation,supported,supported_by_retained_evidence,4545,no,
+V25R066,AIID009,AIID,follow_up,trace_coverage,not_recovered,not_recovered,4545,yes,records | Database
+V25R066,AIID009,AIID,follow_up,owner,not_recovered,not_recovered,4545,yes,Department
+V25R066,AIID009,AIID,closure,scope,not_recovered,not_recovered,4545,no,
+V25R066,AIID009,AIID,closure,evidence_basis,not_recovered,not_recovered,4545,yes,based on | determined that | Report
+V25R066,AIID009,AIID,closure,date,not_recovered,not_recovered,4545,yes,2012 | published
+V25R066,AIID009,AIID,closure,owner,not_recovered,not_recovered,4545,yes,Department
+V25R066,AIID009,AIID,closure,uncertainty,not_recovered,not_recovered,4545,yes,Reportedly | disputed
+V25R066,AIID009,AIID,closure,reopening_rule,not_recovered,not_recovered,4545,yes,appeals
+V25R067,AIID010,AIID,exposure,unit,supported,supported_by_retained_evidence,3735,no,
+V25R067,AIID010,AIID,exposure,eligibility,not_recovered,not_recovered,3735,no,
+V25R067,AIID010,AIID,exposure,time_origin,not_recovered,not_recovered,3735,yes,2014 | published
+V25R067,AIID010,AIID,exposure,coverage,supported,supported_by_retained_evidence,3735,yes,percent
+V25R067,AIID010,AIID,follow_up,calendar_interval,not_recovered,not_recovered,3735,yes,10 days
+V25R067,AIID010,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,3735,no,
+V25R067,AIID010,AIID,follow_up,trace_coverage,not_recovered,not_recovered,3735,yes,Database
+V25R067,AIID010,AIID,follow_up,owner,not_recovered,not_recovered,3735,no,
+V25R067,AIID010,AIID,closure,scope,not_recovered,not_recovered,3735,no,
+V25R067,AIID010,AIID,closure,evidence_basis,not_recovered,not_recovered,3735,yes,findings | Report
+V25R067,AIID010,AIID,closure,date,not_recovered,not_recovered,3735,yes,2014-08-14 | 2014 | Date 2 | published
+V25R067,AIID010,AIID,closure,owner,not_recovered,not_recovered,3735,no,
+V25R067,AIID010,AIID,closure,uncertainty,not_recovered,not_recovered,3735,yes,allegedly
+V25R067,AIID010,AIID,closure,reopening_rule,not_recovered,not_recovered,3735,no,
+V25R068,AIID011,AIID,exposure,unit,not_recovered,not_recovered,4039,yes,people who
+V25R068,AIID011,AIID,exposure,eligibility,not_recovered,not_recovered,4039,no,
+V25R068,AIID011,AIID,exposure,time_origin,not_recovered,not_recovered,4039,yes,2016 | In 2013 | published
+V25R068,AIID011,AIID,exposure,coverage,not_recovered,not_recovered,4039,no,
+V25R068,AIID011,AIID,follow_up,calendar_interval,not_recovered,not_recovered,4039,no,
+V25R068,AIID011,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,4039,yes,found that | according to a ProPublica review. Tools Notify Me of Updates New Repor... | monitored
+V25R068,AIID011,AIID,follow_up,trace_coverage,not_recovered,not_recovered,4039,yes,Database
+V25R068,AIID011,AIID,follow_up,owner,not_recovered,not_recovered,4039,yes,court | police | court
+V25R068,AIID011,AIID,closure,scope,not_recovered,not_recovered,4039,no,
+V25R068,AIID011,AIID,closure,evidence_basis,not_recovered,not_recovered,4039,yes,according to | found that | Report
+V25R068,AIID011,AIID,closure,date,not_recovered,not_recovered,4039,yes,2016-05-23 | 2016 | Date 2 | published
+V25R068,AIID011,AIID,closure,owner,not_recovered,not_recovered,4039,yes,court
+V25R068,AIID011,AIID,closure,uncertainty,not_recovered,not_recovered,4039,yes,unclear | Unknown | further | cannot | could not
+V25R068,AIID011,AIID,closure,reopening_rule,not_recovered,not_recovered,4039,no,
+V25R069,AIID012,AIID,exposure,unit,not_recovered,not_recovered,3305,no,
+V25R069,AIID012,AIID,exposure,eligibility,not_recovered,not_recovered,3305,no,
+V25R069,AIID012,AIID,exposure,time_origin,not_recovered,not_recovered,3305,yes,2016
+V25R069,AIID012,AIID,exposure,coverage,not_recovered,not_recovered,3305,no,
+V25R069,AIID012,AIID,follow_up,calendar_interval,not_recovered,not_recovered,3305,no,
+V25R069,AIID012,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,3305,no,
+V25R069,AIID012,AIID,follow_up,trace_coverage,not_recovered,not_recovered,3305,yes,Database
+V25R069,AIID012,AIID,follow_up,owner,not_recovered,not_recovered,3305,no,
+V25R069,AIID012,AIID,closure,scope,not_recovered,not_recovered,3305,no,
+V25R069,AIID012,AIID,closure,evidence_basis,not_recovered,not_recovered,3305,yes,Report
+V25R069,AIID012,AIID,closure,date,not_recovered,not_recovered,3305,yes,2016-07-21 | 2016 | Date 2
+V25R069,AIID012,AIID,closure,owner,not_recovered,not_recovered,3305,no,
+V25R069,AIID012,AIID,closure,uncertainty,not_recovered,not_recovered,3305,yes,unclear
+V25R069,AIID012,AIID,closure,reopening_rule,not_recovered,not_recovered,3305,no,
+V25R070,AIID014,AIID,exposure,unit,not_recovered,not_recovered,2985,no,
+V25R070,AIID014,AIID,exposure,eligibility,not_recovered,not_recovered,2985,no,
+V25R070,AIID014,AIID,exposure,time_origin,not_recovered,not_recovered,2985,yes,2017
+V25R070,AIID014,AIID,exposure,coverage,not_recovered,not_recovered,2985,no,
+V25R070,AIID014,AIID,follow_up,calendar_interval,not_recovered,not_recovered,2985,no,
+V25R070,AIID014,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,2985,yes,monitored
+V25R070,AIID014,AIID,follow_up,trace_coverage,not_recovered,not_recovered,2985,yes,Database
+V25R070,AIID014,AIID,follow_up,owner,not_recovered,not_recovered,2985,no,
+V25R070,AIID014,AIID,closure,scope,not_recovered,not_recovered,2985,no,
+V25R070,AIID014,AIID,closure,evidence_basis,not_recovered,not_recovered,2985,yes,Report
+V25R070,AIID014,AIID,closure,date,not_recovered,not_recovered,2985,yes,2017-10-26 | 2017 | Date 2
+V25R070,AIID014,AIID,closure,owner,not_recovered,not_recovered,2985,no,
+V25R070,AIID014,AIID,closure,uncertainty,not_recovered,not_recovered,2985,yes,could not
+V25R070,AIID014,AIID,closure,reopening_rule,not_recovered,not_recovered,2985,no,
+V25R071,AIID015,AIID,exposure,unit,supported,supported_by_retained_evidence,3055,no,
+V25R071,AIID015,AIID,exposure,eligibility,supported,supported_by_retained_evidence,3055,no,
+V25R071,AIID015,AIID,exposure,time_origin,not_recovered,not_recovered,3055,yes,2008
+V25R071,AIID015,AIID,exposure,coverage,not_recovered,not_recovered,3055,no,
+V25R071,AIID015,AIID,follow_up,calendar_interval,supported,supported_by_retained_evidence,3055,no,
+V25R071,AIID015,AIID,follow_up,exposure_qualified_observation,supported,supported_by_retained_evidence,3055,yes,monitored
+V25R071,AIID015,AIID,follow_up,trace_coverage,not_recovered,not_recovered,3055,yes,Database
+V25R071,AIID015,AIID,follow_up,owner,not_recovered,not_recovered,3055,no,
+V25R071,AIID015,AIID,closure,scope,not_recovered,not_recovered,3055,no,
+V25R071,AIID015,AIID,closure,evidence_basis,not_recovered,not_recovered,3055,yes,Report
+V25R071,AIID015,AIID,closure,date,not_recovered,not_recovered,3055,yes,2008-05-23 | 2008 | Date 2
+V25R071,AIID015,AIID,closure,owner,not_recovered,not_recovered,3055,no,
+V25R071,AIID015,AIID,closure,uncertainty,not_recovered,not_recovered,3055,yes,unclear | Unknown | could not
+V25R071,AIID015,AIID,closure,reopening_rule,not_recovered,not_recovered,3055,no,
+V25R072,AIID016,AIID,exposure,unit,supported,supported_by_retained_evidence,4061,no,
+V25R072,AIID016,AIID,exposure,eligibility,not_recovered,not_recovered,4061,no,
+V25R072,AIID016,AIID,exposure,time_origin,not_recovered,not_recovered,4061,yes,2015 | In 2015
+V25R072,AIID016,AIID,exposure,coverage,not_recovered,not_recovered,4061,no,
+V25R072,AIID016,AIID,follow_up,calendar_interval,supported,supported_by_retained_evidence,4061,yes,later | years later
+V25R072,AIID016,AIID,follow_up,exposure_qualified_observation,supported,supported_by_retained_evidence,4061,yes,monitored
+V25R072,AIID016,AIID,follow_up,trace_coverage,not_recovered,not_recovered,4061,yes,Database
+V25R072,AIID016,AIID,follow_up,owner,supported,supported_by_retained_evidence,4061,no,
+V25R072,AIID016,AIID,closure,scope,supported,supported_by_retained_evidence,4061,no,
+V25R072,AIID016,AIID,closure,evidence_basis,not_recovered,not_recovered,4061,yes,Report
+V25R072,AIID016,AIID,closure,date,not_recovered,not_recovered,4061,yes,2015-06-03 | 2015 | Date 2
+V25R072,AIID016,AIID,closure,owner,supported,supported_by_retained_evidence,4061,no,
+V25R072,AIID016,AIID,closure,uncertainty,supported,supported_by_retained_evidence,4061,yes,could not
+V25R072,AIID016,AIID,closure,reopening_rule,not_recovered,not_recovered,4061,no,
+V25R073,AIID020,AIID,exposure,unit,not_recovered,not_recovered,3365,no,
+V25R073,AIID020,AIID,exposure,eligibility,not_recovered,not_recovered,3365,yes,required to
+V25R073,AIID020,AIID,exposure,time_origin,not_recovered,not_recovered,3365,yes,"March 1, 2018 | 2016 | in 2016"
+V25R073,AIID020,AIID,exposure,coverage,not_recovered,not_recovered,3365,no,
+V25R073,AIID020,AIID,follow_up,calendar_interval,supported,not_recovered,3365,no,
+V25R073,AIID020,AIID,follow_up,exposure_qualified_observation,supported,not_recovered,3365,yes,monitored
+V25R073,AIID020,AIID,follow_up,trace_coverage,not_recovered,not_recovered,3365,yes,Database
+V25R073,AIID020,AIID,follow_up,owner,not_recovered,not_recovered,3365,yes,police | police
+V25R073,AIID020,AIID,closure,scope,not_recovered,not_recovered,3365,no,
+V25R073,AIID020,AIID,closure,evidence_basis,not_recovered,not_recovered,3365,yes,Report
+V25R073,AIID020,AIID,closure,date,not_recovered,not_recovered,3365,yes,"March 1, 2018 | 2016-06-30 | 2016 | Date 2 | issued"
+V25R073,AIID020,AIID,closure,owner,not_recovered,not_recovered,3365,yes,police
+V25R073,AIID020,AIID,closure,uncertainty,not_recovered,not_recovered,3365,yes,could not
+V25R073,AIID020,AIID,closure,reopening_rule,not_recovered,not_recovered,3365,no,
+V25R074,AIID023,AIID,exposure,unit,supported,supported_by_retained_evidence,2731,no,
+V25R074,AIID023,AIID,exposure,eligibility,not_recovered,not_recovered,2731,no,
+V25R074,AIID023,AIID,exposure,time_origin,supported,supported_by_retained_evidence,2731,yes,2017
+V25R074,AIID023,AIID,exposure,coverage,not_recovered,not_recovered,2731,no,
+V25R074,AIID023,AIID,follow_up,calendar_interval,not_recovered,not_recovered,2731,no,
+V25R074,AIID023,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,2731,yes,monitored
+V25R074,AIID023,AIID,follow_up,trace_coverage,not_recovered,not_recovered,2731,yes,Database
+V25R074,AIID023,AIID,follow_up,owner,not_recovered,not_recovered,2731,yes,police | police
+V25R074,AIID023,AIID,closure,scope,supported,supported_by_retained_evidence,2731,no,
+V25R074,AIID023,AIID,closure,evidence_basis,not_recovered,not_recovered,2731,yes,concluded | Report
+V25R074,AIID023,AIID,closure,date,not_recovered,not_recovered,2731,yes,2017-11-08 | 2017 | Date 2
+V25R074,AIID023,AIID,closure,owner,supported,supported_by_retained_evidence,2731,yes,police
+V25R074,AIID023,AIID,closure,uncertainty,not_recovered,not_recovered,2731,yes,could not
+V25R074,AIID023,AIID,closure,reopening_rule,not_recovered,not_recovered,2731,no,
+V25R075,AIID024,AIID,exposure,unit,supported,supported_by_retained_evidence,2723,no,
+V25R075,AIID024,AIID,exposure,eligibility,not_recovered,not_recovered,2723,no,
+V25R075,AIID024,AIID,exposure,time_origin,not_recovered,not_recovered,2723,yes,2014
+V25R075,AIID024,AIID,exposure,coverage,not_recovered,not_recovered,2723,no,
+V25R075,AIID024,AIID,follow_up,calendar_interval,not_recovered,not_recovered,2723,no,
+V25R075,AIID024,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,2723,no,
+V25R075,AIID024,AIID,follow_up,trace_coverage,not_recovered,not_recovered,2723,yes,Database
+V25R075,AIID024,AIID,follow_up,owner,supported,supported_by_retained_evidence,2723,no,
+V25R075,AIID024,AIID,closure,scope,not_recovered,not_recovered,2723,no,
+V25R075,AIID024,AIID,closure,evidence_basis,not_recovered,not_recovered,2723,yes,investigation | Report | statements
+V25R075,AIID024,AIID,closure,date,not_recovered,not_recovered,2723,yes,2014-07-15 | 2014 | Date 2 | issued
+V25R075,AIID024,AIID,closure,owner,not_recovered,not_recovered,2723,no,
+V25R075,AIID024,AIID,closure,uncertainty,not_recovered,not_recovered,2723,yes,ongoing | further
+V25R075,AIID024,AIID,closure,reopening_rule,not_recovered,not_recovered,2723,no,
+V25R076,AIID027,AIID,exposure,unit,supported,supported_by_retained_evidence,3494,yes,269 people
+V25R076,AIID027,AIID,exposure,eligibility,not_recovered,not_recovered,3494,no,
+V25R076,AIID027,AIID,exposure,time_origin,not_recovered,not_recovered,3494,yes,1983 | in 2013
+V25R076,AIID027,AIID,exposure,coverage,supported,supported_by_retained_evidence,3494,yes,all 269
+V25R076,AIID027,AIID,follow_up,calendar_interval,not_recovered,not_recovered,3494,yes,later | subsequently
+V25R076,AIID027,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,3494,yes,identified as a false-positive by the | monitored | was later
+V25R076,AIID027,AIID,follow_up,trace_coverage,not_recovered,not_recovered,3494,yes,Database
+V25R076,AIID027,AIID,follow_up,owner,not_recovered,not_recovered,3494,yes,board
+V25R076,AIID027,AIID,closure,scope,supported,supported_by_retained_evidence,3494,yes,the case of
+V25R076,AIID027,AIID,closure,evidence_basis,supported,supported_by_retained_evidence,3494,yes,determined that | Report
+V25R076,AIID027,AIID,closure,date,not_recovered,not_recovered,3494,yes,1983-09-26 | 1983 | Date 1
+V25R076,AIID027,AIID,closure,owner,supported,not_recovered,3494,yes,board | decision
+V25R076,AIID027,AIID,closure,uncertainty,supported,supported_by_retained_evidence,3494,yes,could not
+V25R076,AIID027,AIID,closure,reopening_rule,not_recovered,not_recovered,3494,no,
+V25R077,AIID031,AIID,exposure,unit,supported,supported_by_retained_evidence,3658,no,
+V25R077,AIID031,AIID,exposure,eligibility,supported,supported_by_retained_evidence,3658,no,
+V25R077,AIID031,AIID,exposure,time_origin,not_recovered,not_recovered,3658,yes,2017 | From 2017
+V25R077,AIID031,AIID,exposure,coverage,not_recovered,not_recovered,3658,no,
+V25R077,AIID031,AIID,follow_up,calendar_interval,not_recovered,not_recovered,3658,no,
+V25R077,AIID031,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,3658,no,
+V25R077,AIID031,AIID,follow_up,trace_coverage,not_recovered,not_recovered,3658,yes,Database
+V25R077,AIID031,AIID,follow_up,owner,supported,supported_by_retained_evidence,3658,yes,from the transport authority | authority
+V25R077,AIID031,AIID,closure,scope,not_recovered,not_recovered,3658,no,
+V25R077,AIID031,AIID,closure,evidence_basis,not_recovered,not_recovered,3658,yes,based on | findings | Report
+V25R077,AIID031,AIID,closure,date,not_recovered,not_recovered,3658,yes,2017-12-03 | 2017 | Date 2
+V25R077,AIID031,AIID,closure,owner,not_recovered,not_recovered,3658,yes,from the transport authority | authority
+V25R077,AIID031,AIID,closure,uncertainty,not_recovered,not_recovered,3658,yes,Unknown | ongoing
+V25R077,AIID031,AIID,closure,reopening_rule,not_recovered,not_recovered,3658,no,
+V25R078,AIID037,AIID,exposure,unit,supported,supported_by_retained_evidence,3611,no,
+V25R078,AIID037,AIID,exposure,eligibility,supported,supported_by_retained_evidence,3611,no,
+V25R078,AIID037,AIID,exposure,time_origin,not_recovered,not_recovered,3611,yes,2014 | Between 2014 and | in 2014
+V25R078,AIID037,AIID,exposure,coverage,not_recovered,not_recovered,3611,no,
+V25R078,AIID037,AIID,follow_up,calendar_interval,not_recovered,not_recovered,3611,yes,"Between 2014 and 2017, Amazon reportedly developed an AI-"
+V25R078,AIID037,AIID,follow_up,exposure_qualified_observation,supported,supported_by_retained_evidence,3611,no,
+V25R078,AIID037,AIID,follow_up,trace_coverage,not_recovered,not_recovered,3611,yes,Database
+V25R078,AIID037,AIID,follow_up,owner,not_recovered,not_recovered,3611,no,
+V25R078,AIID037,AIID,closure,scope,supported,supported_by_retained_evidence,3611,no,
+V25R078,AIID037,AIID,closure,evidence_basis,supported,supported_by_retained_evidence,3611,yes,Report
+V25R078,AIID037,AIID,closure,date,supported,supported_by_retained_evidence,3611,yes,2014
+V25R078,AIID037,AIID,closure,owner,supported,supported_by_retained_evidence,3611,no,
+V25R078,AIID037,AIID,closure,uncertainty,supported,supported_by_retained_evidence,3611,yes,Allegedly | reportedly
+V25R078,AIID037,AIID,closure,reopening_rule,not_recovered,not_recovered,3611,no,
+V25R079,AIID046,AIID,exposure,unit,supported,supported_by_retained_evidence,3576,no,
+V25R079,AIID046,AIID,exposure,eligibility,supported,supported_by_retained_evidence,3576,no,
+V25R079,AIID046,AIID,exposure,time_origin,not_recovered,not_recovered,3576,yes,2014
+V25R079,AIID046,AIID,exposure,coverage,not_recovered,not_recovered,3576,no,
+V25R079,AIID046,AIID,follow_up,calendar_interval,not_recovered,not_recovered,3576,no,
+V25R079,AIID046,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,3576,yes,monitored
+V25R079,AIID046,AIID,follow_up,trace_coverage,not_recovered,not_recovered,3576,yes,Database
+V25R079,AIID046,AIID,follow_up,owner,not_recovered,not_recovered,3576,yes,unit
+V25R079,AIID046,AIID,closure,scope,supported,supported_by_retained_evidence,3576,no,
+V25R079,AIID046,AIID,closure,evidence_basis,supported,supported_by_retained_evidence,3576,yes,Report
+V25R079,AIID046,AIID,closure,date,not_recovered,not_recovered,3576,yes,2014-01-21 | 2014 | Date 2
+V25R079,AIID046,AIID,closure,owner,supported,supported_by_retained_evidence,3576,no,
+V25R079,AIID046,AIID,closure,uncertainty,not_recovered,not_recovered,3576,yes,could not
+V25R079,AIID046,AIID,closure,reopening_rule,not_recovered,not_recovered,3576,no,
+V25R080,AIID054,AIID,exposure,unit,not_recovered,not_recovered,3721,no,
+V25R080,AIID054,AIID,exposure,eligibility,not_recovered,not_recovered,3721,no,
+V25R080,AIID054,AIID,exposure,time_origin,not_recovered,not_recovered,3721,yes,2015 | In 2017
+V25R080,AIID054,AIID,exposure,coverage,not_recovered,not_recovered,3721,no,
+V25R080,AIID054,AIID,follow_up,calendar_interval,not_recovered,not_recovered,3721,no,
+V25R080,AIID054,AIID,follow_up,exposure_qualified_observation,not_recovered,not_recovered,3721,yes,monitored
+V25R080,AIID054,AIID,follow_up,trace_coverage,not_recovered,not_recovered,3721,yes,Database | Footage | camera
+V25R080,AIID054,AIID,follow_up,owner,not_recovered,not_recovered,3721,yes,Police | Police
+V25R080,AIID054,AIID,closure,scope,not_recovered,not_recovered,3721,no,
+V25R080,AIID054,AIID,closure,evidence_basis,not_recovered,not_recovered,3721,yes,based on | Report | Footage | statements
+V25R080,AIID054,AIID,closure,date,not_recovered,not_recovered,3721,yes,2015-11-18 | 2015 | Date 2
+V25R080,AIID054,AIID,closure,owner,not_recovered,not_recovered,3721,yes,Police
+V25R080,AIID054,AIID,closure,uncertainty,not_recovered,not_recovered,3721,yes,could not
+V25R080,AIID054,AIID,closure,reopening_rule,not_recovered,not_recovered,3721,yes,appeal
+V25R081,OECD01,OECD AIM,exposure,unit,not_recovered,not_recovered,3308,no,
+V25R081,OECD01,OECD AIM,exposure,eligibility,not_recovered,not_recovered,3308,yes,must be
+V25R081,OECD01,OECD AIM,exposure,time_origin,not_recovered,not_recovered,3308,yes,2026
+V25R081,OECD01,OECD AIM,exposure,coverage,not_recovered,not_recovered,3308,no,
+V25R081,OECD01,OECD AIM,follow_up,calendar_interval,not_recovered,not_recovered,3308,no,
+V25R081,OECD01,OECD AIM,follow_up,exposure_qualified_observation,not_recovered,not_recovered,3308,no,
+V25R081,OECD01,OECD AIM,follow_up,trace_coverage,not_recovered,not_recovered,3308,no,
+V25R081,OECD01,OECD AIM,follow_up,owner,not_recovered,not_recovered,3308,yes,Agency
+V25R081,OECD01,OECD AIM,closure,scope,not_recovered,not_recovered,3308,no,
+V25R081,OECD01,OECD AIM,closure,evidence_basis,not_recovered,not_recovered,3308,no,
+V25R081,OECD01,OECD AIM,closure,date,not_recovered,not_recovered,3308,yes,2026-08-14 | 2026
+V25R081,OECD01,OECD AIM,closure,owner,not_recovered,not_recovered,3308,yes,Agency
+V25R081,OECD01,OECD AIM,closure,uncertainty,not_recovered,not_recovered,3308,no,
+V25R081,OECD01,OECD AIM,closure,reopening_rule,not_recovered,not_recovered,3308,no,
+V25R082,OECD02,OECD AIM,exposure,unit,not_recovered,not_recovered,3431,no,
+V25R082,OECD02,OECD AIM,exposure,eligibility,not_recovered,not_recovered,3431,yes,must be
+V25R082,OECD02,OECD AIM,exposure,time_origin,not_recovered,not_recovered,3431,yes,2026
+V25R082,OECD02,OECD AIM,exposure,coverage,not_recovered,not_recovered,3431,no,
+V25R082,OECD02,OECD AIM,follow_up,calendar_interval,not_recovered,not_recovered,3431,no,
+V25R082,OECD02,OECD AIM,follow_up,exposure_qualified_observation,not_recovered,not_recovered,3431,no,
+V25R082,OECD02,OECD AIM,follow_up,trace_coverage,not_recovered,not_recovered,3431,no,
+V25R082,OECD02,OECD AIM,follow_up,owner,not_recovered,not_recovered,3431,no,
+V25R082,OECD02,OECD AIM,closure,scope,not_recovered,not_recovered,3431,no,
+V25R082,OECD02,OECD AIM,closure,evidence_basis,not_recovered,not_recovered,3431,no,
+V25R082,OECD02,OECD AIM,closure,date,not_recovered,not_recovered,3431,yes,2026-08-14 | 2026
+V25R082,OECD02,OECD AIM,closure,owner,not_recovered,not_recovered,3431,no,
+V25R082,OECD02,OECD AIM,closure,uncertainty,not_recovered,not_recovered,3431,no,
+V25R082,OECD02,OECD AIM,closure,reopening_rule,not_recovered,not_recovered,3431,no,
+V25R083,OECD03,OECD AIM,exposure,unit,not_recovered,not_recovered,1989,no,
+V25R083,OECD03,OECD AIM,exposure,eligibility,not_recovered,not_recovered,1989,yes,must be
+V25R083,OECD03,OECD AIM,exposure,time_origin,not_recovered,not_recovered,1989,no,
+V25R083,OECD03,OECD AIM,exposure,coverage,not_recovered,not_recovered,1989,no,
+V25R083,OECD03,OECD AIM,follow_up,calendar_interval,not_recovered,not_recovered,1989,no,
+V25R083,OECD03,OECD AIM,follow_up,exposure_qualified_observation,not_recovered,not_recovered,1989,yes,reported as representing the official views of the
+V25R083,OECD03,OECD AIM,follow_up,trace_coverage,not_recovered,not_recovered,1989,no,
+V25R083,OECD03,OECD AIM,follow_up,owner,not_recovered,not_recovered,1989,no,
+V25R083,OECD03,OECD AIM,closure,scope,not_recovered,not_recovered,1989,no,
+V25R083,OECD03,OECD AIM,closure,evidence_basis,not_recovered,not_recovered,1989,yes,Report
+V25R083,OECD03,OECD AIM,closure,date,not_recovered,not_recovered,1989,no,
+V25R083,OECD03,OECD AIM,closure,owner,not_recovered,not_recovered,1989,no,
+V25R083,OECD03,OECD AIM,closure,uncertainty,not_recovered,not_recovered,1989,no,
+V25R083,OECD03,OECD AIM,closure,reopening_rule,not_recovered,not_recovered,1989,no,
+V25R084,OECD04,OECD AIM,exposure,unit,not_recovered,not_recovered,3017,no,
+V25R084,OECD04,OECD AIM,exposure,eligibility,not_recovered,not_recovered,3017,yes,must be
+V25R084,OECD04,OECD AIM,exposure,time_origin,not_recovered,not_recovered,3017,yes,2026
+V25R084,OECD04,OECD AIM,exposure,coverage,not_recovered,not_recovered,3017,no,
+V25R084,OECD04,OECD AIM,follow_up,calendar_interval,not_recovered,not_recovered,3017,no,
+V25R084,OECD04,OECD AIM,follow_up,exposure_qualified_observation,not_recovered,not_recovered,3017,no,
+V25R084,OECD04,OECD AIM,follow_up,trace_coverage,not_recovered,not_recovered,3017,no,
+V25R084,OECD04,OECD AIM,follow_up,owner,not_recovered,not_recovered,3017,no,
+V25R084,OECD04,OECD AIM,closure,scope,not_recovered,not_recovered,3017,no,
+V25R084,OECD04,OECD AIM,closure,evidence_basis,not_recovered,not_recovered,3017,no,
+V25R084,OECD04,OECD AIM,closure,date,not_recovered,not_recovered,3017,yes,2026-08-14 | 2026
+V25R084,OECD04,OECD AIM,closure,owner,not_recovered,not_recovered,3017,no,
+V25R084,OECD04,OECD AIM,closure,uncertainty,not_recovered,not_recovered,3017,no,
+V25R084,OECD04,OECD AIM,closure,reopening_rule,not_recovered,not_recovered,3017,no,
+V25R085,OECD05,OECD AIM,exposure,unit,not_recovered,not_recovered,1784,no,
+V25R085,OECD05,OECD AIM,exposure,eligibility,not_recovered,not_recovered,1784,yes,must be
+V25R085,OECD05,OECD AIM,exposure,time_origin,not_recovered,not_recovered,1784,no,
+V25R085,OECD05,OECD AIM,exposure,coverage,not_recovered,not_recovered,1784,no,
+V25R085,OECD05,OECD AIM,follow_up,calendar_interval,not_recovered,not_recovered,1784,no,
+V25R085,OECD05,OECD AIM,follow_up,exposure_qualified_observation,not_recovered,not_recovered,1784,yes,Monitoring
+V25R085,OECD05,OECD AIM,follow_up,trace_coverage,not_recovered,not_recovered,1784,no,
+V25R085,OECD05,OECD AIM,follow_up,owner,not_recovered,not_recovered,1784,no,
+V25R085,OECD05,OECD AIM,closure,scope,not_recovered,not_recovered,1784,no,
+V25R085,OECD05,OECD AIM,closure,evidence_basis,not_recovered,not_recovered,1784,no,
+V25R085,OECD05,OECD AIM,closure,date,not_recovered,not_recovered,1784,no,
+V25R085,OECD05,OECD AIM,closure,owner,not_recovered,not_recovered,1784,no,
+V25R085,OECD05,OECD AIM,closure,uncertainty,not_recovered,not_recovered,1784,no,
+V25R085,OECD05,OECD AIM,closure,reopening_rule,not_recovered,not_recovered,1784,no,
+V25R086,OECD06,OECD AIM,exposure,unit,not_recovered,not_recovered,3294,no,
+V25R086,OECD06,OECD AIM,exposure,eligibility,not_recovered,not_recovered,3294,yes,must be
+V25R086,OECD06,OECD AIM,exposure,time_origin,not_recovered,not_recovered,3294,yes,2026
+V25R086,OECD06,OECD AIM,exposure,coverage,not_recovered,not_recovered,3294,no,
+V25R086,OECD06,OECD AIM,follow_up,calendar_interval,not_recovered,not_recovered,3294,no,
+V25R086,OECD06,OECD AIM,follow_up,exposure_qualified_observation,not_recovered,not_recovered,3294,no,
+V25R086,OECD06,OECD AIM,follow_up,trace_coverage,not_recovered,not_recovered,3294,no,
+V25R086,OECD06,OECD AIM,follow_up,owner,not_recovered,not_recovered,3294,yes,Agency
+V25R086,OECD06,OECD AIM,closure,scope,not_recovered,not_recovered,3294,no,
+V25R086,OECD06,OECD AIM,closure,evidence_basis,not_recovered,not_recovered,3294,no,
+V25R086,OECD06,OECD AIM,closure,date,not_recovered,not_recovered,3294,yes,2026-08-14 | 2026
+V25R086,OECD06,OECD AIM,closure,owner,not_recovered,not_recovered,3294,yes,Agency
+V25R086,OECD06,OECD AIM,closure,uncertainty,not_recovered,not_recovered,3294,no,
+V25R086,OECD06,OECD AIM,closure,reopening_rule,not_recovered,not_recovered,3294,no,
+V25R087,OECD07,OECD AIM,exposure,unit,not_recovered,not_recovered,3447,no,
+V25R087,OECD07,OECD AIM,exposure,eligibility,not_recovered,not_recovered,3447,yes,must be
+V25R087,OECD07,OECD AIM,exposure,time_origin,not_recovered,not_recovered,3447,yes,2026
+V25R087,OECD07,OECD AIM,exposure,coverage,not_recovered,not_recovered,3447,no,
+V25R087,OECD07,OECD AIM,follow_up,calendar_interval,not_recovered,not_recovered,3447,no,
+V25R087,OECD07,OECD AIM,follow_up,exposure_qualified_observation,not_recovered,not_recovered,3447,no,
+V25R087,OECD07,OECD AIM,follow_up,trace_coverage,not_recovered,not_recovered,3447,no,
+V25R087,OECD07,OECD AIM,follow_up,owner,not_recovered,not_recovered,3447,no,
+V25R087,OECD07,OECD AIM,closure,scope,not_recovered,not_recovered,3447,no,
+V25R087,OECD07,OECD AIM,closure,evidence_basis,not_recovered,not_recovered,3447,no,
+V25R087,OECD07,OECD AIM,closure,date,not_recovered,not_recovered,3447,yes,2026-08-14 | 2026
+V25R087,OECD07,OECD AIM,closure,owner,not_recovered,not_recovered,3447,no,
+V25R087,OECD07,OECD AIM,closure,uncertainty,not_recovered,not_recovered,3447,no,
+V25R087,OECD07,OECD AIM,closure,reopening_rule,not_recovered,not_recovered,3447,no,
+V25R088,OECD08,OECD AIM,exposure,unit,not_recovered,not_recovered,1745,no,
+V25R088,OECD08,OECD AIM,exposure,eligibility,not_recovered,not_recovered,1745,yes,must be
+V25R088,OECD08,OECD AIM,exposure,time_origin,not_recovered,not_recovered,1745,no,
+V25R088,OECD08,OECD AIM,exposure,coverage,not_recovered,not_recovered,1745,no,
+V25R088,OECD08,OECD AIM,follow_up,calendar_interval,not_recovered,not_recovered,1745,no,
+V25R088,OECD08,OECD AIM,follow_up,exposure_qualified_observation,not_recovered,not_recovered,1745,no,
+V25R088,OECD08,OECD AIM,follow_up,trace_coverage,not_recovered,not_recovered,1745,no,
+V25R088,OECD08,OECD AIM,follow_up,owner,not_recovered,not_recovered,1745,no,
+V25R088,OECD08,OECD AIM,closure,scope,not_recovered,not_recovered,1745,no,
+V25R088,OECD08,OECD AIM,closure,evidence_basis,not_recovered,not_recovered,1745,no,
+V25R088,OECD08,OECD AIM,closure,date,not_recovered,not_recovered,1745,no,
+V25R088,OECD08,OECD AIM,closure,owner,not_recovered,not_recovered,1745,no,
+V25R088,OECD08,OECD AIM,closure,uncertainty,not_recovered,not_recovered,1745,no,
+V25R088,OECD08,OECD AIM,closure,reopening_rule,not_recovered,not_recovered,1745,no,
+V25R089,OECD09,OECD AIM,exposure,unit,not_recovered,not_recovered,1802,no,
+V25R089,OECD09,OECD AIM,exposure,eligibility,not_recovered,not_recovered,1802,yes,must be
+V25R089,OECD09,OECD AIM,exposure,time_origin,not_recovered,not_recovered,1802,no,
+V25R089,OECD09,OECD AIM,exposure,coverage,not_recovered,not_recovered,1802,no,
+V25R089,OECD09,OECD AIM,follow_up,calendar_interval,not_recovered,not_recovered,1802,no,
+V25R089,OECD09,OECD AIM,follow_up,exposure_qualified_observation,not_recovered,not_recovered,1802,no,
+V25R089,OECD09,OECD AIM,follow_up,trace_coverage,not_recovered,not_recovered,1802,no,
+V25R089,OECD09,OECD AIM,follow_up,owner,not_recovered,not_recovered,1802,yes,Court | Court
+V25R089,OECD09,OECD AIM,closure,scope,not_recovered,not_recovered,1802,no,
+V25R089,OECD09,OECD AIM,closure,evidence_basis,not_recovered,not_recovered,1802,yes,documents
+V25R089,OECD09,OECD AIM,closure,date,not_recovered,not_recovered,1802,no,
+V25R089,OECD09,OECD AIM,closure,owner,not_recovered,not_recovered,1802,yes,Court | Sanctioned
+V25R089,OECD09,OECD AIM,closure,uncertainty,not_recovered,not_recovered,1802,no,
+V25R089,OECD09,OECD AIM,closure,reopening_rule,not_recovered,not_recovered,1802,no,
+V25R090,OECD10,OECD AIM,exposure,unit,not_recovered,not_recovered,1780,no,
+V25R090,OECD10,OECD AIM,exposure,eligibility,not_recovered,not_recovered,1780,yes,must be
+V25R090,OECD10,OECD AIM,exposure,time_origin,not_recovered,not_recovered,1780,no,
+V25R090,OECD10,OECD AIM,exposure,coverage,not_recovered,not_recovered,1780,no,
+V25R090,OECD10,OECD AIM,follow_up,calendar_interval,not_recovered,not_recovered,1780,no,
+V25R090,OECD10,OECD AIM,follow_up,exposure_qualified_observation,not_recovered,not_recovered,1780,no,
+V25R090,OECD10,OECD AIM,follow_up,trace_coverage,not_recovered,not_recovered,1780,no,
+V25R090,OECD10,OECD AIM,follow_up,owner,not_recovered,not_recovered,1780,no,
+V25R090,OECD10,OECD AIM,closure,scope,not_recovered,not_recovered,1780,no,
+V25R090,OECD10,OECD AIM,closure,evidence_basis,not_recovered,not_recovered,1780,no,
+V25R090,OECD10,OECD AIM,closure,date,not_recovered,not_recovered,1780,no,
+V25R090,OECD10,OECD AIM,closure,owner,not_recovered,not_recovered,1780,no,
+V25R090,OECD10,OECD AIM,closure,uncertainty,not_recovered,not_recovered,1780,no,
+V25R090,OECD10,OECD AIM,closure,reopening_rule,not_recovered,not_recovered,1780,no,
+V25R091,DIR01,direct,exposure,unit,supported,supported_by_retained_evidence,3323,no,
+V25R091,DIR01,direct,exposure,eligibility,supported,supported_by_retained_evidence,3323,no,
+V25R091,DIR01,direct,exposure,time_origin,supported,supported_by_retained_evidence,3323,yes,"March 18, 2018 | 2018 | Adopted"
+V25R091,DIR01,direct,exposure,coverage,not_recovered,not_recovered,3323,no,
+V25R091,DIR01,direct,follow_up,calendar_interval,supported,not_recovered,3323,no,
+V25R091,DIR01,direct,follow_up,exposure_qualified_observation,supported,supported_by_retained_evidence,3323,no,
+V25R091,DIR01,direct,follow_up,trace_coverage,not_recovered,not_recovered,3323,no,
+V25R091,DIR01,direct,follow_up,owner,supported,supported_by_retained_evidence,3323,yes,Board | NTSB
+V25R091,DIR01,direct,closure,scope,supported,supported_by_retained_evidence,3323,no,
+V25R091,DIR01,direct,closure,evidence_basis,not_recovered,not_recovered,3323,yes,investigation | Report
+V25R091,DIR01,direct,closure,date,supported,supported_by_retained_evidence,3323,yes,"March 18, 2018 | 2018 | Adopted"
+V25R091,DIR01,direct,closure,owner,supported,supported_by_retained_evidence,3323,yes,Board | NTSB
+V25R091,DIR01,direct,closure,uncertainty,not_recovered,not_recovered,3323,no,
+V25R091,DIR01,direct,closure,reopening_rule,not_recovered,not_recovered,3323,no,
+V25R092,DIR02,direct,exposure,unit,supported,supported_by_retained_evidence,1922,no,
+V25R092,DIR02,direct,exposure,eligibility,supported,supported_by_retained_evidence,1922,no,
+V25R092,DIR02,direct,exposure,time_origin,not_recovered,not_recovered,1922,yes,"March 23, 2018 | 2018 | Adopted"
+V25R092,DIR02,direct,exposure,coverage,not_recovered,not_recovered,1922,no,
+V25R092,DIR02,direct,follow_up,calendar_interval,supported,not_recovered,1922,no,
+V25R092,DIR02,direct,follow_up,exposure_qualified_observation,not_recovered,not_recovered,1922,no,
+V25R092,DIR02,direct,follow_up,trace_coverage,not_recovered,not_recovered,1922,no,
+V25R092,DIR02,direct,follow_up,owner,supported,supported_by_retained_evidence,1922,yes,Board | NTSB
+V25R092,DIR02,direct,closure,scope,supported,supported_by_retained_evidence,1922,no,
+V25R092,DIR02,direct,closure,evidence_basis,not_recovered,not_recovered,1922,yes,Report
+V25R092,DIR02,direct,closure,date,supported,supported_by_retained_evidence,1922,yes,"March 23, 2018 | 2018 | Adopted"
+V25R092,DIR02,direct,closure,owner,supported,supported_by_retained_evidence,1922,yes,Board | NTSB
+V25R092,DIR02,direct,closure,uncertainty,not_recovered,not_recovered,1922,no,
+V25R092,DIR02,direct,closure,reopening_rule,not_recovered,not_recovered,1922,no,
+V25R093,DIR03,direct,exposure,unit,supported,supported_by_retained_evidence,4016,yes,"2,000 employees"
+V25R093,DIR03,direct,exposure,eligibility,supported,supported_by_retained_evidence,4016,no,
+V25R093,DIR03,direct,exposure,time_origin,not_recovered,not_recovered,4016,yes,23 February 2024 | 2024
+V25R093,DIR03,direct,exposure,coverage,supported,supported_by_retained_evidence,4016,no,
+V25R093,DIR03,direct,follow_up,calendar_interval,not_recovered,not_recovered,4016,yes,subsequent
+V25R093,DIR03,direct,follow_up,exposure_qualified_observation,not_recovered,not_recovered,4016,yes,found that Serco Leisure and the trusts have been unlawfully processin... | investigation found
+V25R093,DIR03,direct,follow_up,trace_coverage,not_recovered,not_recovered,4016,no,
+V25R093,DIR03,direct,follow_up,owner,not_recovered,not_recovered,4016,yes,Office | ICO | Regulator | Commissioner
+V25R093,DIR03,direct,closure,scope,supported,supported_by_retained_evidence,4016,no,
+V25R093,DIR03,direct,closure,evidence_basis,supported,supported_by_retained_evidence,4016,yes,found that | investigation
+V25R093,DIR03,direct,closure,date,not_recovered,not_recovered,4016,yes,23 February 2024 | 2024 | Date 2 | ordered
+V25R093,DIR03,direct,closure,owner,supported,supported_by_retained_evidence,4016,yes,Commissioner | ICO | ordered
+V25R093,DIR03,direct,closure,uncertainty,not_recovered,not_recovered,4016,no,
+V25R093,DIR03,direct,closure,reopening_rule,not_recovered,not_recovered,4016,no,
+V25R094,DIR04,direct,exposure,unit,supported,supported_by_retained_evidence,3777,no,
+V25R094,DIR04,direct,exposure,eligibility,supported,supported_by_retained_evidence,3777,yes,must have
+V25R094,DIR04,direct,exposure,time_origin,supported,supported_by_retained_evidence,3777,yes,23 July 2024 | 2024
+V25R094,DIR04,direct,exposure,coverage,not_recovered,not_recovered,3777,no,
+V25R094,DIR04,direct,follow_up,calendar_interval,not_recovered,not_recovered,3777,no,
+V25R094,DIR04,direct,follow_up,exposure_qualified_observation,not_recovered,not_recovered,3777,no,
+V25R094,DIR04,direct,follow_up,trace_coverage,not_recovered,not_recovered,3777,no,
+V25R094,DIR04,direct,follow_up,owner,not_recovered,not_recovered,3777,yes,Office | ICO | Commissioner
+V25R094,DIR04,direct,closure,scope,supported,supported_by_retained_evidence,3777,no,
+V25R094,DIR04,direct,closure,evidence_basis,supported,supported_by_retained_evidence,3777,no,
+V25R094,DIR04,direct,closure,date,not_recovered,not_recovered,3777,yes,23 July 2024 | 2024 | Date 2 | issued
+V25R094,DIR04,direct,closure,owner,supported,supported_by_retained_evidence,3777,yes,Commissioner | ICO | reprimanded
+V25R094,DIR04,direct,closure,uncertainty,not_recovered,not_recovered,3777,no,
+V25R094,DIR04,direct,closure,reopening_rule,not_recovered,not_recovered,3777,no,
+V25R095,DIR05,direct,exposure,unit,supported,supported_by_retained_evidence,4179,no,
+V25R095,DIR05,direct,exposure,eligibility,supported,supported_by_retained_evidence,4179,no,
+V25R095,DIR05,direct,exposure,time_origin,supported,supported_by_retained_evidence,4179,yes,21 May 2024 | 2024
+V25R095,DIR05,direct,exposure,coverage,supported,supported_by_retained_evidence,4179,no,
+V25R095,DIR05,direct,follow_up,calendar_interval,supported,supported_by_retained_evidence,4179,yes,subsequently
+V25R095,DIR05,direct,follow_up,exposure_qualified_observation,not_recovered,not_recovered,4179,no,
+V25R095,DIR05,direct,follow_up,trace_coverage,not_recovered,not_recovered,4179,no,
+V25R095,DIR05,direct,follow_up,owner,supported,supported_by_retained_evidence,4179,yes,Office | ICO | Regulator | Commissioner
+V25R095,DIR05,direct,closure,scope,supported,supported_by_retained_evidence,4179,no,
+V25R095,DIR05,direct,closure,evidence_basis,not_recovered,not_recovered,4179,yes,conclude | investigation
+V25R095,DIR05,direct,closure,date,not_recovered,not_recovered,4179,yes,21 May 2024 | 2024 | Date 2
+V25R095,DIR05,direct,closure,owner,supported,supported_by_retained_evidence,4179,yes,Commissioner | ICO | Enforcement Notice
+V25R095,DIR05,direct,closure,uncertainty,not_recovered,not_recovered,4179,no,
+V25R095,DIR05,direct,closure,reopening_rule,not_recovered,not_recovered,4179,no,
+V25R096,DIR06,direct,exposure,unit,supported,supported_by_retained_evidence,3914,no,
+V25R096,DIR06,direct,exposure,eligibility,not_recovered,not_recovered,3914,no,
+V25R096,DIR06,direct,exposure,time_origin,not_recovered,not_recovered,3914,yes,6 November 2024 | 2024 | Published
+V25R096,DIR06,direct,exposure,coverage,not_recovered,not_recovered,3914,no,
+V25R096,DIR06,direct,follow_up,calendar_interval,not_recovered,not_recovered,3914,no,
+V25R096,DIR06,direct,follow_up,exposure_qualified_observation,supported,supported_by_retained_evidence,3914,yes,audit
+V25R096,DIR06,direct,follow_up,trace_coverage,not_recovered,not_recovered,3914,no,
+V25R096,DIR06,direct,follow_up,owner,supported,supported_by_retained_evidence,3914,yes,Office | ICO | Commissioner
+V25R096,DIR06,direct,closure,scope,not_recovered,not_recovered,3914,no,
+V25R096,DIR06,direct,closure,evidence_basis,not_recovered,not_recovered,3914,yes,findings | report
+V25R096,DIR06,direct,closure,date,not_recovered,not_recovered,3914,yes,6 November 2024 | 2024 | Date 6 | Published | issued
+V25R096,DIR06,direct,closure,owner,not_recovered,not_recovered,3914,yes,Commissioner | ICO
+V25R096,DIR06,direct,closure,uncertainty,not_recovered,not_recovered,3914,no,
+V25R096,DIR06,direct,closure,reopening_rule,not_recovered,not_recovered,3914,no,
+V25R097,DIR07,direct,exposure,unit,supported,supported_by_retained_evidence,3877,no,
+V25R097,DIR07,direct,exposure,eligibility,supported,supported_by_retained_evidence,3877,no,
+V25R097,DIR07,direct,exposure,time_origin,not_recovered,not_recovered,3877,yes,8 October 2025 | 2025
+V25R097,DIR07,direct,exposure,coverage,not_recovered,not_recovered,3877,no,
+V25R097,DIR07,direct,follow_up,calendar_interval,supported,supported_by_retained_evidence,3877,no,
+V25R097,DIR07,direct,follow_up,exposure_qualified_observation,supported,supported_by_retained_evidence,3877,yes,monitoring
+V25R097,DIR07,direct,follow_up,trace_coverage,not_recovered,not_recovered,3877,yes,database
+V25R097,DIR07,direct,follow_up,owner,supported,supported_by_retained_evidence,3877,yes,Tribunal | ICO | Court | Commissioner
+V25R097,DIR07,direct,closure,scope,supported,supported_by_retained_evidence,3877,no,
+V25R097,DIR07,direct,closure,evidence_basis,not_recovered,not_recovered,3877,no,
+V25R097,DIR07,direct,closure,date,not_recovered,not_recovered,3877,yes,8 October 2025 | 2025 | Date 8 | issued | handed down
+V25R097,DIR07,direct,closure,owner,supported,supported_by_retained_evidence,3877,yes,Tribunal | ICO | fined | enforcement notice | judgment | decision
+V25R097,DIR07,direct,closure,uncertainty,supported,supported_by_retained_evidence,3877,no,
+V25R097,DIR07,direct,closure,reopening_rule,not_recovered,not_recovered,3877,yes,appeal
+V25R098,DIR08,direct,exposure,unit,supported,supported_by_retained_evidence,4448,no,
+V25R098,DIR08,direct,exposure,eligibility,supported,supported_by_retained_evidence,4448,no,
+V25R098,DIR08,direct,exposure,time_origin,not_recovered,not_recovered,4448,yes,20 August 2025 | 2025
+V25R098,DIR08,direct,exposure,coverage,not_recovered,not_recovered,4448,no,
+V25R098,DIR08,direct,follow_up,calendar_interval,not_recovered,not_recovered,4448,no,
+V25R098,DIR08,direct,follow_up,exposure_qualified_observation,not_recovered,not_recovered,4448,yes,revealed by the | audit
+V25R098,DIR08,direct,follow_up,trace_coverage,not_recovered,not_recovered,4448,no,
+V25R098,DIR08,direct,follow_up,owner,supported,supported_by_retained_evidence,4448,yes,police | ICO | police | Commissioner
+V25R098,DIR08,direct,closure,scope,not_recovered,not_recovered,4448,no,
+V25R098,DIR08,direct,closure,evidence_basis,not_recovered,not_recovered,4448,no,
+V25R098,DIR08,direct,closure,date,not_recovered,not_recovered,4448,yes,20 August 2025 | 2025 | Date 2
+V25R098,DIR08,direct,closure,owner,not_recovered,not_recovered,4448,yes,police | ICO
+V25R098,DIR08,direct,closure,uncertainty,not_recovered,not_recovered,4448,yes,further
+V25R098,DIR08,direct,closure,reopening_rule,not_recovered,not_recovered,4448,no,
+V25R099,DIR09,direct,exposure,unit,supported,supported_by_retained_evidence,3865,no,
+V25R099,DIR09,direct,exposure,eligibility,supported,supported_by_retained_evidence,3865,no,
+V25R099,DIR09,direct,exposure,time_origin,not_recovered,not_recovered,3865,yes,13 September 2024 | 2024
+V25R099,DIR09,direct,exposure,coverage,not_recovered,not_recovered,3865,no,
+V25R099,DIR09,direct,follow_up,calendar_interval,not_recovered,not_recovered,3865,no,
+V25R099,DIR09,direct,follow_up,exposure_qualified_observation,not_recovered,not_recovered,3865,no,
+V25R099,DIR09,direct,follow_up,trace_coverage,not_recovered,not_recovered,3865,no,
+V25R099,DIR09,direct,follow_up,owner,supported,supported_by_retained_evidence,3865,yes,Office | ICO | Commissioner
+V25R099,DIR09,direct,closure,scope,not_recovered,not_recovered,3865,no,
+V25R099,DIR09,direct,closure,evidence_basis,not_recovered,not_recovered,3865,yes,statement
+V25R099,DIR09,direct,closure,date,not_recovered,not_recovered,3865,yes,13 September 2024 | 2024 | Date 1
+V25R099,DIR09,direct,closure,owner,not_recovered,not_recovered,3865,yes,Commissioner | ICO | decision
+V25R099,DIR09,direct,closure,uncertainty,not_recovered,not_recovered,3865,yes,ongoing
+V25R099,DIR09,direct,closure,reopening_rule,not_recovered,not_recovered,3865,no,
+V25R100,DIR10,direct,exposure,unit,not_recovered,not_recovered,3667,no,
+V25R100,DIR10,direct,exposure,eligibility,not_recovered,not_recovered,3667,no,
+V25R100,DIR10,direct,exposure,time_origin,not_recovered,not_recovered,3667,yes,23 February 2026 | 2026 | published
+V25R100,DIR10,direct,exposure,coverage,not_recovered,not_recovered,3667,no,
+V25R100,DIR10,direct,follow_up,calendar_interval,not_recovered,not_recovered,3667,no,
+V25R100,DIR10,direct,follow_up,exposure_qualified_observation,not_recovered,not_recovered,3667,no,
+V25R100,DIR10,direct,follow_up,trace_coverage,not_recovered,not_recovered,3667,no,
+V25R100,DIR10,direct,follow_up,owner,not_recovered,not_recovered,3667,yes,Office | ICO | Commissioner
+V25R100,DIR10,direct,closure,scope,not_recovered,not_recovered,3667,no,
+V25R100,DIR10,direct,closure,evidence_basis,not_recovered,not_recovered,3667,yes,statement
+V25R100,DIR10,direct,closure,date,not_recovered,not_recovered,3667,yes,23 February 2026 | 2026 | Date 2 | published | issued
+V25R100,DIR10,direct,closure,owner,not_recovered,not_recovered,3667,yes,Commissioner | ICO | Enforcement action | Decision
+V25R100,DIR10,direct,closure,uncertainty,not_recovered,not_recovered,3667,no,
+V25R100,DIR10,direct,closure,reopening_rule,not_recovered,not_recovered,3667,no,
