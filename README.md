@@ -6,7 +6,7 @@ Three Source Strata, with a Reproducible Evidence-Log Companion*.
 
 - Repository: https://github.com/sushuqiong/ai-incident-documentation-applied-sciences
 - Zenodo concept DOI (all versions): https://doi.org/10.5281/zenodo.22845068
-- Current version: **v8.0.0** (`v8_supplement/`, `v8_build/`). Superseded: v6.0.0 (https://doi.org/10.5281/zenodo.22845069), root-level files.
+- Current version: **v8.0.0** (https://doi.org/10.5281/zenodo.22953653) — `v8_supplement/`, `v8_build/`. Superseded: v6.0.0 (https://doi.org/10.5281/zenodo.22845069), root-level files.
 
 ---
 
