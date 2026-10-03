@@ -76,7 +76,17 @@ It is not a validated governance system and supports no accuracy, comparison or
 performance claim. The synthetic tests demonstrate representational feasibility on
 a frozen synthetic payload only. The semantic component labels were produced by an
 AI-assisted procedure confirmed by the authors; no independent human coding has
-been performed, and the blinded package is released so that it can be.
+been performed, and the blinded package is released so that independent human
+coders could inspect and complete it in a future study.
+
+### PeerJ Computer Science access
+
+For peer review, use the frozen `v8.0.0` release and its Zenodo DOI above. The
+public archive is privacy-minimized and is not byte-identical to the unredacted
+supplemental files submitted with the manuscript. The submitted supplements
+contain additional source-located material needed for review; the public archive
+does not redistribute complete webpages, patient-level data, PHI, credentials or
+local machine paths.
 
 ---
 
